@@ -52,7 +52,7 @@
             "end_date": "2024-06-23T22:00:00.000Z",
             "marketing": "Come let Skits'N'Bits bring you to laughter with our skilled cast of improvisors with games and scenes inspired by your suggestions!",
             "stream_link": "https://www.twitch.tv/projektcommunity",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "project_id": 2,
             "Community": {
