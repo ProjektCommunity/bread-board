@@ -1,31 +1,6 @@
 {
     "events": [
         {
-            "id": 1,
-            "name": "This is Test 1",
-            "start_date": "2024-06-28T17:00:00.000Z",
-            "end_date": "2024-06-28T18:00:00.000Z",
-            "marketing": null,
-            "stream_link": null,
-            "quest": false,
-            "instance_url": null,
-            "project_id": 2,
-            "Community": null,
-            "Poster": {
-                "id": 5,
-                "name": "Improv_Show.png",
-                "path": "uploads/events/2/1/"
-            },
-            "EventType": null,
-            "Venue": {
-                "id": 2,
-                "name": "LPD Station",
-                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "orgOwned": false,
-                "community_id": null
-            }
-        },
-        {
             "id": 2,
             "name": "Test 4",
             "start_date": "2024-06-28T18:00:00.000Z",
