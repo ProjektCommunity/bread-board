@@ -35,6 +35,21 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 3,
+            "name": "Laserdome II Tournament",
+            "start_date": "2024-06-28T22:00:10.000Z",
+            "end_date": "2024-06-29T01:00:10.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
