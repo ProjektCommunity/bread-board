@@ -28,7 +28,13 @@
             "Community": null,
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_tbd",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
