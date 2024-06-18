@@ -51,21 +51,6 @@
             }
         },
         {
-            "id": 8,
-            "name": "Laserdome II Tournament",
-            "start_date": "2024-06-18T02:50:25.000Z",
-            "end_date": "2024-06-18T03:59:25.000Z",
-            "marketing": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas. Vitae nunc sed velit dignissim sodales ut. Aliquam etiam erat velit scelerisque in dictum non. Rhoncus dolor purus non enim. Morbi tristique senectus et netus et malesuada fames ac. Donec adipiscing tristique risus nec feugiat in fermentum. Amet justo donec enim diam. Quam id leo in vitae turpis massa sed elementum tempus. Morbi tristique senectus et netus et malesuada. Sollicitudin tempor id eu nisl nunc. Habitant morbi tristique senectus et netus et malesuada fames ac. Mauris nunc congue nisi vitae. Eros in cursus turpis massa tincidunt dui.\r\n\r\nCursus mattis molestie a iaculis at erat. Vestibulum sed arcu non odio euismod lacinia at quis. Elit duis tristique sollicitudin nibh sit. Augue mauris augue neque gravida in fermentum et sollicitudin. Nam at lectus urna duis convallis convallis. Lobortis mattis aliquam faucibus purus. Rhoncus urna neque viverra justo nec ultrices dui sapien eget. Dignissim cras tincidunt lobortis feugiat vivamus at. Amet nisl suscipit adipiscing bibendum est ultricies integer. Quis vel eros donec ac odio tempor orci. Et molestie ac feugiat sed. In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Nibh tellus molestie nunc non blandit massa enim nec. Proin sagittis nisl rhoncus mattis. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam.",
-            "stream_link": null,
-            "quest": false,
-            "instance_url": null,
-            "project_id": 2,
-            "Community": null,
-            "Poster": null,
-            "EventType": null,
-            "Venue": null
-        },
-        {
             "id": 9,
             "name": "Test 5",
             "start_date": "2024-06-18T03:10:24.000Z",
