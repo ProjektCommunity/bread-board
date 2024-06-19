@@ -489,22 +489,6 @@
         },
         {
             "community": {
-                "id": 35,
-                "name": "The Synapse",
-                "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
-                "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
-                "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-05-22T19:38:25.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "church_vr"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 102,
                 "name": "TF2 Avatar PvP",
                 "group_id": "grp_ec5dc6cd-ece5-4eb8-a8bb-dc9cd5ea7622",
