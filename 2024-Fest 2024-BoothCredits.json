@@ -685,22 +685,6 @@
         },
         {
             "community": {
-                "id": 53,
-                "name": "Wardens Roleplay",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T20:44:00.000Z",
-                "updatedAt": "2024-05-22T20:44:00.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "Elusif_Wardens"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 89,
                 "name": "SCP Foundation of VR",
                 "group_id": "grp_ea06f6c6-fb86-4bc2-948f-22ea5733fb57",
