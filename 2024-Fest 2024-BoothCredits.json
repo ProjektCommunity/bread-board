@@ -465,22 +465,6 @@
         },
         {
             "community": {
-                "id": 67,
-                "name": "Team Nakama Vibes",
-                "group_id": null,
-                "description": "The Official Home of The Self-Employed Idiots™ - A group of “semi-functional” homies out on a mission to spread some good vibes.",
-                "createdAt": "2024-05-24T12:06:36.000Z",
-                "updatedAt": "2024-05-24T12:06:36.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "NanoBunTV"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 126,
                 "name": "Children of Time",
                 "group_id": "grp_adf03ac3-a36c-4a39-9e45-95ef234466aa",
