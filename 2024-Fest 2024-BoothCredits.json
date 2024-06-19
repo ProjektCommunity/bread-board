@@ -781,22 +781,6 @@
         },
         {
             "community": {
-                "id": 72,
-                "name": "Ultramarines",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-26T12:47:00.000Z",
-                "updatedAt": "2024-05-26T12:47:01.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "KoreFuze"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 39,
                 "name": "The Blood Ravens",
                 "group_id": "grp_f498926a-9804-4ed5-b19a-d95b54a4d199",
