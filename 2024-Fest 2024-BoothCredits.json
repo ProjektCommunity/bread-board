@@ -625,7 +625,11 @@
                 "updatedAt": "2024-06-12T21:55:26.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "PeachBight"
+                }
+            ]
         },
         {
             "community": {
@@ -640,6 +644,22 @@
             "members": [
                 {
                     "username": "downlyric"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 47,
+                "name": "VRDancing",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-05-22T20:15:27.000Z",
+                "updatedAt": "2024-05-22T20:15:28.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
                 }
             ]
         },
