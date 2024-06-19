@@ -537,7 +537,11 @@
                 "updatedAt": "2024-05-22T19:38:25.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "-AllMighty-"
+                }
+            ]
         },
         {
             "community": {
@@ -552,6 +556,22 @@
             "members": [
                 {
                     "username": "clubkryptik"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 130,
+                "name": "ART BAR",
+                "group_id": "grp_aa3a9d79-c586-4c7b-865a-08e96c1b8641",
+                "description": null,
+                "createdAt": "2024-06-14T18:12:40.000Z",
+                "updatedAt": "2024-06-14T18:12:41.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "pandaaxolotl"
                 }
             ]
         },
