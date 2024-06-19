@@ -18,6 +18,18 @@
         },
         {
             "community": {
+                "id": 1,
+                "name": "Local Police Department",
+                "group_id": "grp_d594f074-ea42-4f47-bc68-b96f4ad2eda0",
+                "description": null,
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-05-22T19:38:25.000Z",
+                "deletedAt": null
+            },
+            "members": []
+        },
+        {
+            "community": {
                 "id": 69,
                 "name": "Megabuilding 325",
                 "group_id": "grp_ad7ea7ee-10d4-4f8a-bccb-b3fc7364e555",
