@@ -361,7 +361,27 @@
                 "updatedAt": "2024-06-03T18:53:12.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "RedZ3r0"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 87,
+                "name": "Wysteria",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-06-04T17:48:33.000Z",
+                "updatedAt": "2024-06-04T17:48:34.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "wysteria"
+                }
+            ]
         },
         {
             "community": {
