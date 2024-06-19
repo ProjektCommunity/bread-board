@@ -93,22 +93,6 @@
         },
         {
             "community": {
-                "id": 25,
-                "name": "United Republic",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-05-22T19:38:25.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "KoreFuze"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 70,
                 "name": "Uganda",
                 "group_id": "grp_4d71eca0-e978-4bb1-8693-8b347f39dab7",
