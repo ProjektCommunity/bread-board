@@ -441,22 +441,6 @@
         },
         {
             "community": {
-                "id": 81,
-                "name": "Avatar PVP",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-06-02T12:07:19.000Z",
-                "updatedAt": "2024-06-02T12:07:20.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "GoFluffYaself"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 68,
                 "name": "NanoBunTV",
                 "group_id": null,
