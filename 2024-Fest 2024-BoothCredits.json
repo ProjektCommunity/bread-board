@@ -269,7 +269,27 @@
                 "updatedAt": "2024-06-03T17:34:39.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Maineria"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 79,
+                "name": "Danger Noodle Animations",
+                "group_id": null,
+                "description": "We're a small group of friends working on fan animation and props to sell.",
+                "createdAt": "2024-05-31T09:06:14.000Z",
+                "updatedAt": "2024-05-31T09:06:14.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Steve The Mitochondria"
+                }
+            ]
         },
         {
             "community": {
