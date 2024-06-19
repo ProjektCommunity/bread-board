@@ -85,6 +85,18 @@
         },
         {
             "community": {
+                "id": 20,
+                "name": "Little Renegades",
+                "group_id": "1990s/2000s street gang that roams VRChat",
+                "description": "grp_aeebc496-e8e6-426b-8496-eb1105a14cca",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-05-22T19:38:25.000Z",
+                "deletedAt": null
+            },
+            "members": []
+        },
+        {
+            "community": {
                 "id": 62,
                 "name": "Metaverse Degen",
                 "group_id": "grp_c47b3db4-7ea8-49c7-a68f-f9ab0dcb7d28",
