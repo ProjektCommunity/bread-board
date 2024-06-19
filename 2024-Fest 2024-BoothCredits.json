@@ -81,22 +81,6 @@
         },
         {
             "community": {
-                "id": 57,
-                "name": "7th Legion",
-                "group_id": "grp_ef9fe277-ac99-42da-96fc-72015325998d",
-                "description": null,
-                "createdAt": "2024-05-23T11:33:07.000Z",
-                "updatedAt": "2024-05-23T11:33:08.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "7th Legion"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 25,
                 "name": "United Republic",
                 "group_id": null,
