@@ -321,7 +321,27 @@
                 "updatedAt": "2024-05-22T20:43:53.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Aaliyah1023"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 95,
+                "name": "Anime Ships United",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-06-09T21:05:54.000Z",
+                "updatedAt": "2024-06-09T21:05:55.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "A.Acronza"
+                }
+            ]
         },
         {
             "community": {
