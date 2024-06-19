@@ -373,7 +373,27 @@
                 "updatedAt": "2024-06-04T17:48:34.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "wysteria"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 75,
+                "name": "VR Japan Tours",
+                "group_id": "grp_2af1b75e-ae07-40f9-8282-71f30cd364bc",
+                "description": "VR Japan Tours is an immersive virtual tour where you can experience the culture and art of Japan in the sophisticated Japanese virtual world with friendly guides and amazing performers.",
+                "createdAt": "2024-05-28T19:54:53.000Z",
+                "updatedAt": "2024-05-28T19:54:53.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "VR Japan Tours"
+                }
+            ]
         },
         {
             "community": {
