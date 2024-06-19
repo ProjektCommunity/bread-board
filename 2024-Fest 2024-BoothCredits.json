@@ -417,22 +417,6 @@
         },
         {
             "community": {
-                "id": 97,
-                "name": "Bryan LL Melodies",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-06-11T20:01:33.000Z",
-                "updatedAt": "2024-06-11T20:01:33.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "Ritsuko "
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 100,
                 "name": "xCirrex Media",
                 "group_id": null,
