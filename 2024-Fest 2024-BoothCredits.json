@@ -425,7 +425,27 @@
                 "updatedAt": "2024-06-11T20:01:33.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Ritsuko "
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 100,
+                "name": "xCirrex Media",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-06-12T17:49:04.000Z",
+                "updatedAt": "2024-06-12T17:49:05.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "xCirrex"
+                }
+            ]
         },
         {
             "community": {
