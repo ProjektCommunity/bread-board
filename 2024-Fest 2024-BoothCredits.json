@@ -865,22 +865,6 @@
         },
         {
             "community": {
-                "id": 78,
-                "name": "Black Box Protocol",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-28T21:15:54.000Z",
-                "updatedAt": "2024-05-28T21:15:55.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "LadyBeowolf"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 49,
                 "name": "Traveling Circus",
                 "group_id": "grp_d1235214-759e-4ede-a794-9abe17825ddc",
