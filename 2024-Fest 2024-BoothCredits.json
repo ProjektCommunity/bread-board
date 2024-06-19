@@ -569,22 +569,6 @@
         },
         {
             "community": {
-                "id": 51,
-                "name": "Scenario One",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T20:43:04.000Z",
-                "updatedAt": "2024-05-22T20:43:04.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "sylantroh"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 116,
                 "name": "WaterWolf",
                 "group_id": "grp_41df2df4-be4e-4a4e-be5e-eabb1425c4e5 ",
