@@ -130,6 +130,22 @@
         },
         {
             "community": {
+                "id": 119,
+                "name": "TailBass",
+                "group_id": "grp_206b50bf-0aa4-4d54-a7bc-9876113e27ec",
+                "description": "TailBass is a coalition of international DJs, dance and music club organizers, event hosts, programmers, lighting and video experts, and developers from all across the VRChat furry community. They selflessly volunteer their time, energy, and expertise to host awesome and stunning rave events for the furry community and friends.\r\n\r\nMany organizations throughout VRChat incorporate TailBass specialists to enhance their club experience, with weekly raves held across multiple timezones. TailBass personnel have also helped host major joint-efforts and raves between multiple organizations, including WaterWolf and Vibe Night, and for major events such as New Years Eve.",
+                "createdAt": "2024-06-12T21:56:20.000Z",
+                "updatedAt": "2024-06-12T21:56:21.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Commander A9"
+                }
+            ]
+        },
+        {
+            "community": {
                 "id": 89,
                 "name": "SCP Foundation of VR",
                 "group_id": "grp_ea06f6c6-fb86-4bc2-948f-22ea5733fb57",
