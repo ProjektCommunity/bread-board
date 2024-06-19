@@ -221,7 +221,27 @@
                 "updatedAt": "2024-05-22T20:46:55.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Evoxy"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 9,
+                "name": "1st Imperial Guards Army",
+                "group_id": "grp_c4b5ba45-b82e-4ee6-8b2e-c481f88ced93",
+                "description": "Welcome to the 1st Imperial Guards Army!\r\n\r\nWe’re an alternate history WW1-military VRChat roleplay group.\r\n\r\nWe host weekly immersive RP events in the Kingdom of Prussia;\r\nDaily Life of Soldiers\r\nCombat RP\r\nMilitary Training\r\nCeremonies\r\n\r\nFrom epic battles in the front lines, to infiltrating enemy positions, or simply living out the daily life of a soldier, our events tell an ongoing narrative which is influenced by all of our members. Want to know more? If rising the ranks, serving the true King, and wearing good-looking uniforms appeals to you, then the 1st Imperial Guards Army is the place for you!\r\n\r\n- https://discord.gg/ZMP49H3zSY\r\n\r\nJoin now, become part of our growing community, and leave your mark on the 1st Imperial Guards Army!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-05-22T19:38:25.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Gustav#7720"
+                }
+            ]
         },
         {
             "community": {
