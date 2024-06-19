@@ -793,22 +793,6 @@
         },
         {
             "community": {
-                "id": 39,
-                "name": "The Blood Ravens",
-                "group_id": "grp_f498926a-9804-4ed5-b19a-d95b54a4d199",
-                "description": "The Blood Ravens are a multi-purpose PVP community and social hub, One of the oldest still running Warhammer Community on VR Chat. Events are hosted regularly by the week, participating in world hops, PVP matches with other Warhammer communities, Laserdome tournaments, game nights, and more. Our leadership team is friendly and active with a large playerbase and many regulars. We welcome any and all to participate and enjoy the community we've grown.",
-                "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-05-22T19:38:25.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "TheFlyingFlapjack"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 71,
                 "name": "Owari",
                 "group_id": null,
