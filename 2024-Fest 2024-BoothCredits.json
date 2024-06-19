@@ -165,7 +165,11 @@
                 "updatedAt": "2024-05-22T19:38:25.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Invictus"
+                }
+            ]
         },
         {
             "community": {
@@ -196,6 +200,22 @@
             "members": [
                 {
                     "username": "Metaverse Degen"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 59,
+                "name": "Tuatha Dé Danann",
+                "group_id": "grp_8465845b-5d7f-4d2b-b665-e649dcaea501",
+                "description": "Welcome to Tuatha Dé Danann, a community which revolves around a hidden society of mages and their many associates‚ all of which have evaded the ever-watching eyes of a world ruled by corrupt Megacorps․\r\n\r\nWe'll be offering a variety of fun and unique activities for our members‚ such as story-based events‚ hangouts‚ game nights‚ and many moreǃ It should also be mentioned that the Tuatha Dé Danann isn't just for members of our community‚ but also for friends and and people looking to have funǃ If you're still reading this‚ then we've probably caught your interest․ Perhaps continue and see what else is in store?",
+                "createdAt": "2024-05-23T11:33:07.000Z",
+                "updatedAt": "2024-05-23T11:33:08.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Tuatha De Danann"
                 }
             ]
         },
