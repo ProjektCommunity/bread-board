@@ -645,22 +645,6 @@
         },
         {
             "community": {
-                "id": 47,
-                "name": "VRDancing",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T20:15:27.000Z",
-                "updatedAt": "2024-05-22T20:15:28.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "luxifinity"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 119,
                 "name": "TailBass",
                 "group_id": "grp_206b50bf-0aa4-4d54-a7bc-9876113e27ec",
