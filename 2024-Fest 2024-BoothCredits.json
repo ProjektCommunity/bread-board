@@ -613,7 +613,27 @@
                 "updatedAt": "2024-06-12T21:28:53.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Lirodon"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 118,
+                "name": "Metacosm Studios",
+                "group_id": "grp_3a440f37-ed40-491c-8b2a-17aba5fc3a02",
+                "description": "Metacosm Studios is an indie‚ virtual film studio that produces movies‚ short films‚ and episodic series shot entirely in VRChat.",
+                "createdAt": "2024-06-12T21:55:26.000Z",
+                "updatedAt": "2024-06-12T21:55:26.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "PeachBight"
+                }
+            ]
         },
         {
             "community": {
