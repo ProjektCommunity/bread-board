@@ -37,6 +37,18 @@
         },
         {
             "community": {
+                "id": 64,
+                "name": "Ookami Collective",
+                "group_id": "grp_c4d17c71-ed90-4aee-9d9a-e1fb6386bb8f",
+                "description": "We are a Hub for people that loves Mikos and Ukon Avatars in General. our fanatism of these models/Characters, is what makes us happy.",
+                "createdAt": "2024-05-23T17:26:59.000Z",
+                "updatedAt": "2024-05-23T17:27:00.000Z",
+                "deletedAt": null
+            },
+            "members": []
+        },
+        {
+            "community": {
                 "id": 69,
                 "name": "Megabuilding 325",
                 "group_id": "grp_ad7ea7ee-10d4-4f8a-bccb-b3fc7364e555",
