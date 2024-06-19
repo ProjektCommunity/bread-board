@@ -37,6 +37,22 @@
         },
         {
             "community": {
+                "id": 63,
+                "name": "Metropolitan Police Service",
+                "group_id": "grp_676275ff-7524-497d-94a7-efd4389d5e0f",
+                "description": "We're a friendly police RP community, who patrol worlds of VRChat. As you can see, we have been heavily influenced by the real UK Met Police, which is of course our inspiration, and what we have based our department on.",
+                "createdAt": "2024-05-23T17:08:49.000Z",
+                "updatedAt": "2024-05-23T17:08:50.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Supervigy"
+                }
+            ]
+        },
+        {
+            "community": {
                 "id": 64,
                 "name": "Ookami Collective",
                 "group_id": "grp_c4d17c71-ed90-4aee-9d9a-e1fb6386bb8f",
