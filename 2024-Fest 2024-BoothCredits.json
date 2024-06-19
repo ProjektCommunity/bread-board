@@ -45,7 +45,11 @@
                 "updatedAt": "2024-05-23T17:27:00.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Makoto Aki"
+                }
+            ]
         },
         {
             "community": {
