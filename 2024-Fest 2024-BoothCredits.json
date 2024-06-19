@@ -593,22 +593,6 @@
         },
         {
             "community": {
-                "id": 122,
-                "name": "The Great Religion",
-                "group_id": "grp_37b712ce-59ee-4a05-8fbf-bf8c0137e910",
-                "description": "We are avid pug goers, and also we are home to Celeste-AI!",
-                "createdAt": "2024-06-12T21:58:15.000Z",
-                "updatedAt": "2024-06-12T21:58:16.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "operator"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 106,
                 "name": "Interlopr",
                 "group_id": "grp_3301d77f-1fdb-427d-874b-ca064c02099e",
