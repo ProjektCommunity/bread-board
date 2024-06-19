@@ -50,6 +50,22 @@
         },
         {
             "community": {
+                "id": 62,
+                "name": "Metaverse Degen",
+                "group_id": "grp_c47b3db4-7ea8-49c7-a68f-f9ab0dcb7d28",
+                "description": "A podcast⁄talk show in vrchat where are interview the various personalities and communities from the platform Vrchat including club owners‚ djs‚ tiktokers‚ vtubers world and avatar creators and more․ Featuring˸ dirtyraptor & LionTurtle",
+                "createdAt": "2024-05-23T11:53:07.000Z",
+                "updatedAt": "2024-05-23T11:53:07.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Metaverse Degen"
+                }
+            ]
+        },
+        {
+            "community": {
                 "id": 50,
                 "name": "Noved Squad",
                 "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
