@@ -805,22 +805,6 @@
         },
         {
             "community": {
-                "id": 71,
-                "name": "Owari",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-25T00:46:12.000Z",
-                "updatedAt": "2024-05-25T00:46:12.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "OwariCrafter "
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 45,
                 "name": "Wolveeps Fan Club",
                 "group_id": null,
