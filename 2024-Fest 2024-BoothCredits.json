@@ -529,22 +529,6 @@
         },
         {
             "community": {
-                "id": 31,
-                "name": "DalekHQ",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-05-22T19:38:25.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "-AllMighty-"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 123,
                 "name": "Kryptik",
                 "group_id": "grp_abcdfca3-3235-445b-826f-a363ce8138f5",
