@@ -89,7 +89,27 @@
                 "updatedAt": "2024-05-23T11:33:08.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "7th Legion"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 25,
+                "name": "United Republic",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-05-22T19:38:25.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "KoreFuze"
+                }
+            ]
         },
         {
             "community": {
