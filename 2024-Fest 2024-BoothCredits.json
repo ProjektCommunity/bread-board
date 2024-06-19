@@ -325,22 +325,6 @@
         },
         {
             "community": {
-                "id": 95,
-                "name": "Anime Ships United",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-06-09T21:05:54.000Z",
-                "updatedAt": "2024-06-09T21:05:55.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "A.Acronza"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 48,
                 "name": "The Bakery",
                 "group_id": "grp_e637632e-e9cb-4a2c-96e7-d5eb2bb634c8",
