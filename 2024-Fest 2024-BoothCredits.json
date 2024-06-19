@@ -477,22 +477,6 @@
         },
         {
             "community": {
-                "id": 126,
-                "name": "Children of Time",
-                "group_id": "grp_adf03ac3-a36c-4a39-9e45-95ef234466aa",
-                "description": null,
-                "createdAt": "2024-06-13T11:53:20.000Z",
-                "updatedAt": "2024-06-13T11:53:20.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "L0tusBunBun"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 35,
                 "name": "The Synapse",
                 "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
