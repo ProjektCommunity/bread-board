@@ -285,22 +285,6 @@
         },
         {
             "community": {
-                "id": 92,
-                "name": "Allied Waifu Marine Corps (AWMC)",
-                "group_id": "grp_7cf594ce-97a0-4d24-97f5-9600784349dc",
-                "description": null,
-                "createdAt": "2024-06-05T20:39:14.000Z",
-                "updatedAt": "2024-06-05T20:39:15.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "jonm312"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 50,
                 "name": "Noved Squad",
                 "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
