@@ -261,22 +261,6 @@
         },
         {
             "community": {
-                "id": 84,
-                "name": "Atelier Maineria",
-                "group_id": "grp_57d2ce51-761c-4c10-976d-a9c54ec1e7a9",
-                "description": "Avatar commissions",
-                "createdAt": "2024-06-03T17:34:38.000Z",
-                "updatedAt": "2024-06-03T17:34:39.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "Maineria"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 79,
                 "name": "Danger Noodle Animations",
                 "group_id": null,
