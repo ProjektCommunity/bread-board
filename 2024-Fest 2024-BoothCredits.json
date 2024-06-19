@@ -121,22 +121,6 @@
         },
         {
             "community": {
-                "id": 46,
-                "name": "The Mighty Gym",
-                "group_id": null,
-                "description": null,
-                "createdAt": "2024-05-22T20:15:12.000Z",
-                "updatedAt": "2024-05-22T20:15:13.000Z",
-                "deletedAt": null
-            },
-            "members": [
-                {
-                    "username": "luxifinity"
-                }
-            ]
-        },
-        {
-            "community": {
                 "id": 58,
                 "name": "Neon Divide",
                 "group_id": "grp_4488e7f1-f9d9-406f-a3c7-1e10f7ff6470",
