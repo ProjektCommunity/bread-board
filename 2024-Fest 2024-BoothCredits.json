@@ -101,7 +101,11 @@
                 "updatedAt": "2024-05-22T19:38:25.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "KoreFuze"
+                }
+            ]
         },
         {
             "community": {
@@ -116,6 +120,22 @@
             "members": [
                 {
                     "username": "Legoman99573"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 46,
+                "name": "The Mighty Gym",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-05-22T20:15:12.000Z",
+                "updatedAt": "2024-05-22T20:15:13.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
                 }
             ]
         },
