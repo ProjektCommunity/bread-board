@@ -601,7 +601,27 @@
                 "updatedAt": "2024-06-12T21:58:16.000Z",
                 "deletedAt": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "operator"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 106,
+                "name": "Interlopr",
+                "group_id": "grp_3301d77f-1fdb-427d-874b-ca064c02099e",
+                "description": "Cyberpunk-themed music event and RP community",
+                "createdAt": "2024-06-12T21:28:52.000Z",
+                "updatedAt": "2024-06-12T21:28:53.000Z",
+                "deletedAt": null
+            },
+            "members": [
+                {
+                    "username": "Lirodon"
+                }
+            ]
         },
         {
             "community": {
