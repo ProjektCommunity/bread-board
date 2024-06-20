@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-    "events": []
-=======
     "events": [
         {
             "id": 1,
@@ -55,5 +52,4 @@
             "Venue": null
         }
     ]
->>>>>>> e4ee190a22a3430dd3d64ae07d9f5e3103abd923
 }
