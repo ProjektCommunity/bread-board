@@ -1179,7 +1179,11 @@
                 "deletedAt": null,
                 "logo_id": null
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Philosophy101"
+                }
+            ]
         }
     ]
 }
