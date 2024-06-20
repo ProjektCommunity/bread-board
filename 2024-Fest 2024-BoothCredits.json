@@ -1022,9 +1022,9 @@
                 "group_id": "grp_1b397e3c-d37e-43a4-98a9-cde2e6759862",
                 "description": "We are pvp multi purpose community and a social hub for all the people who love 40k, pvp or just want to lay back and a good time.",
                 "createdAt": "2024-05-26T12:47:00.000Z",
-                "updatedAt": "2024-06-20T15:52:03.000Z",
+                "updatedAt": "2024-06-20T15:52:24.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 123
             },
             "members": [
                 {
