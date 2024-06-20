@@ -1201,6 +1201,19 @@
                     "username": "WalGesicht"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-05-22T19:38:25.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": []
         }
     ]
 }
