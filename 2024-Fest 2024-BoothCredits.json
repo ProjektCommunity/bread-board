@@ -1235,6 +1235,19 @@
                     "username": "PoolParlor"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 129,
+                "name": "Soaring Fitness",
+                "group_id": "grp_465007ac-1c72-40d3-aa78-01c9b6075ffa",
+                "description": null,
+                "createdAt": "2024-06-13T22:54:39.000Z",
+                "updatedAt": "2024-06-13T22:54:40.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": []
         }
     ]
 }
