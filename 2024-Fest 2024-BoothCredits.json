@@ -551,10 +551,10 @@
             "community": {
                 "id": 100,
                 "name": "xCirrex Media",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_402966f5-cfb6-4e86-906c-474960e72b70",
+                "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
                 "createdAt": "2024-06-12T17:49:04.000Z",
-                "updatedAt": "2024-06-20T16:01:00.000Z",
+                "updatedAt": "2024-06-20T16:01:20.000Z",
                 "deletedAt": null,
                 "logo_id": 131
             },
