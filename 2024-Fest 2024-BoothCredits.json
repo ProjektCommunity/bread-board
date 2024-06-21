@@ -1206,10 +1206,10 @@
             "community": {
                 "id": 6,
                 "name": "Kochō no Yakuza",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "Kochō no Yakuza is a VRChat roleplay community themed after the Yakuza game series and Japanese culture in general. The group was founded on 1st of September 2021 by Ginger Tea. They wish to provide, bring together and entertain. Providing a friendlier place for VRChat public to roleplay in is one of the aims they wish to achieve, alongside with helping other communities with bigger projects. Bringing together both new and veteran players who have nowhere else to go, educating people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place. Entertaining both the public and their people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to.",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-06-21T00:27:22.000Z",
+                "updatedAt": "2024-06-21T01:01:55.000Z",
                 "deletedAt": null,
                 "logo_id": 155
             },
