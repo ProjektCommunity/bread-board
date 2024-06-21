@@ -568,10 +568,10 @@
             "community": {
                 "id": 81,
                 "name": "Avatar PVP",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_4b0ef747-1022-4745-9925-e95704ac2f27",
+                "description": " Within the VRChat Avatar PVP Community, we focus on creating avatars that can interact with other players in certain worlds using particles, allowing all types of events from large-scale battles, Small FFA’s, Boss battles, and more. Many communities use this system, and this community/discord acts as a server HUB/prefab download point.",
                 "createdAt": "2024-06-02T12:07:19.000Z",
-                "updatedAt": "2024-06-21T01:38:32.000Z",
+                "updatedAt": "2024-06-21T01:38:47.000Z",
                 "deletedAt": null,
                 "logo_id": 194
             },
