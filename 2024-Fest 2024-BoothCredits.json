@@ -1002,10 +1002,10 @@
             "community": {
                 "id": 82,
                 "name": "TheCrossRoads",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_2a6972f8-13bb-4547-90c7-e41dc7f9f820",
+                "description": "A Bar Where You Pay With Confessions.",
                 "createdAt": "2024-06-02T12:07:30.000Z",
-                "updatedAt": "2024-06-02T12:07:31.000Z",
+                "updatedAt": "2024-06-21T01:39:22.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
