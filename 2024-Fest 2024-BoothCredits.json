@@ -4,10 +4,10 @@
             "community": {
                 "id": 44,
                 "name": "VRosity",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_e80d85f8-b464-4e8d-bb5c-24d213e2e788",
+                "description": "VRosity is a video production community that specializes in creating new and innovating VR video productions & techniques.",
                 "createdAt": "2024-05-22T16:17:02.000Z",
-                "updatedAt": "2024-06-21T00:59:34.000Z",
+                "updatedAt": "2024-06-21T01:00:52.000Z",
                 "deletedAt": null,
                 "logo_id": 166
             },
