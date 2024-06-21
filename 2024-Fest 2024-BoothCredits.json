@@ -846,10 +846,10 @@
             "community": {
                 "id": 47,
                 "name": "VRDancing",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_d960be54-cfc2-44cb-863d-6d624d8975c1",
+                "description": "\"VRDancing is a beginner-friendly community of dancers that host weekly dance, fitness and hangout events in EU and NA timezones. We welcome any dancer! \n\nNo Full Body Tracking required, some even join without VR! \n\nWhether you just started and lack confidence, or are a veteran dancer with years of IRL experience, we hope you'll find your place here! \n\nOur main dancing events are accessible to any skill level and are an excellent place to start dancing in VRChat! \"",
                 "createdAt": "2024-05-22T20:15:27.000Z",
-                "updatedAt": "2024-05-22T20:15:28.000Z",
+                "updatedAt": "2024-06-21T01:04:47.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
