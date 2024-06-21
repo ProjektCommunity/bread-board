@@ -1286,6 +1286,23 @@
                     "username": "Azumazz"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 66,
+                "name": "United Police Department",
+                "group_id": "grp_1bd865d9-e23c-49da-9bbb-a92614be0154",
+                "description": "The United Police Department functions as a roleplaying community, venturing across various virtual worlds to craft engaging scenarios for Vrchat players to witness or take part in. Beyond our roleplay endeavors, we organize enjoyable events aimed at fostering connections within the community and forging lasting friendships.",
+                "createdAt": "2024-05-24T10:35:52.000Z",
+                "updatedAt": "2024-06-21T01:27:50.000Z",
+                "deletedAt": null,
+                "logo_id": 184
+            },
+            "members": [
+                {
+                    "username": "Kindred Melody"
+                }
+            ]
         }
     ]
 }
