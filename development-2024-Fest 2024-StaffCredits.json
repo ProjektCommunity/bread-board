@@ -1,3 +1,20 @@
 {
-    "staffCredits": []
+    "staffCredits": [
+        {
+            "department": "Information Technology",
+            "jobTitles": [
+                "Director",
+                "Back End Developer",
+                "Front End Developer"
+            ],
+            "user": "Pixel Byte 2"
+        },
+        {
+            "department": "Development",
+            "jobTitles": [
+                "Environmental Artist"
+            ],
+            "user": "Pixel Byte 2"
+        }
+    ]
 }
