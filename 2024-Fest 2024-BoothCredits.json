@@ -1252,6 +1252,23 @@
                     "username": "Sapphicawoo"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 55,
+                "name": "RIFT",
+                "group_id": "grp_680d2e7e-e34f-41cb-a424-cb3a074f5216",
+                "description": "We are a lore centric, sci-fi music venue focused on uplifting and promoting those in the VRC rave scene in a positive direction!",
+                "createdAt": "2024-05-22T20:52:13.000Z",
+                "updatedAt": "2024-06-21T01:16:36.000Z",
+                "deletedAt": null,
+                "logo_id": 174
+            },
+            "members": [
+                {
+                    "username": "AztecAngelo"
+                }
+            ]
         }
     ]
 }
