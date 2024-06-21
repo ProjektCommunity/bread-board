@@ -143,10 +143,10 @@
             "community": {
                 "id": 46,
                 "name": "The Mighty Gym",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_9f4aeb1f-bac7-4a09-a0ce-ab516c82e6b0",
+                "description": "The Mighty Gym is the ultimate social fitness experience in VRǃ Join us for group classes of up to 30 people‚ lead by real certified instructors‚ where you can test your fitness skills in one of our 9 themed workouts․ With technology to track your form‚ and give you a score for your performance‚ you can be sure to hit your fitness goals and have loads of fun with your friends every timeǃ",
                 "createdAt": "2024-05-22T20:15:12.000Z",
-                "updatedAt": "2024-06-21T01:00:17.000Z",
+                "updatedAt": "2024-06-21T01:00:31.000Z",
                 "deletedAt": null,
                 "logo_id": 167
             },
