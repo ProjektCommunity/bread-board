@@ -1269,6 +1269,23 @@
                     "username": "AztecAngelo"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 4,
+                "name": "Rindo Cult",
+                "group_id": "grp_c04c75e4-f49d-482a-a8ac-a43cb6aecdbd",
+                "description": "Built upon a foundation of love towards the Rindo base model (By Jingo Channel), Rindo cult is a fusion blend of cultures and bases, proud to offer a place of unity and joy to all. Whether you seek intellectual discussions, artistic collaborations, or simply a space to unwind and let loose, Rindo Cult offers it all. With events that span across all time zones of the world Rindo *Not-A-Cult* welcomes you with open arms, no matter your affinity!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:24:33.000Z",
+                "deletedAt": null,
+                "logo_id": 154
+            },
+            "members": [
+                {
+                    "username": "Azumazz"
+                }
+            ]
         }
     ]
 }
