@@ -9,7 +9,6 @@
   "nodemonConfig": {
     "watch": [
       "*.js",
-      "package-lock.json",
       "package.json"
     ]
   },
