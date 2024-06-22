@@ -55,15 +55,6 @@
         {
             "departments": [
                 {
-                    "department": "Development",
-                    "jobTitles": []
-                }
-            ],
-            "user": "AliceD"
-        },
-        {
-            "departments": [
-                {
                     "department": "Media",
                     "jobTitles": []
                 }
