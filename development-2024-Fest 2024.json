@@ -936,13 +936,7 @@
             "quest": false,
             "instance_url": null,
             "project_id": 2,
-            "Community": {
-                "id": 3,
-                "name": "Blue Star",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
+            "Community": null,
             "Poster": null,
             "EventType": null,
             "Venue": {
