@@ -1337,6 +1337,23 @@
                     "username": "Foxtrot-508"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 27,
+                "name": "The Necron Empire",
+                "group_id": "grp_5c3434fc-ecd4-449e-aacd-5a262209f830",
+                "description": "The Necron Empire is a VRChat based Avatar PvP group‚ we use these Avatars to fight Duells all the way to 40 people Battles with the Theme being from Warhammer 40k․ （Dark Sci-Fi）\r\n\r\nWe enjoy a loose culture in our group and encourage a good‚ fun but semi serious attitude․\r\n\r\nDue to how our system works we are a PC only community",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-20T15:58:03.000Z",
+                "deletedAt": null,
+                "logo_id": 129
+            },
+            "members": [
+                {
+                    "username": "Notna01"
+                }
+            ]
         }
     ]
 }
