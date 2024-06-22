@@ -23,6 +23,7 @@ function UpdateGithub() {
 	exec(cmd, (err, stdout, stderr) => {
 		if (err) {
 			console.error(err)
+			console.log(stderr)
 			return
 		}
 		console.log(stdout)
