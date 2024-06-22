@@ -4,8 +4,13 @@
   "description": "A script that will update it's own github to provide information for VRChat",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
+  },
+  "nodemonConfig": {
+    "watch": [
+      "*.js",
+      "package*.json"
+    ]
   },
   "author": "",
   "license": "ISC",
