@@ -897,7 +897,14 @@
             "Community": null,
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 3,
+                "name": "Test",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
         },
         {
             "id": 65,
