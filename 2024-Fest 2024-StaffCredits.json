@@ -157,6 +157,17 @@
                 }
             ],
             "user": "Taco"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
+                }
+            ],
+            "user": "Vanessa Wolf"
         }
     ]
 }
