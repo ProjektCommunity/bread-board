@@ -1303,6 +1303,23 @@
                     "username": "Kindred Melody"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 136,
+                "name": "Clone Troopers of VRChat",
+                "group_id": "grp_8f0a8871-2597-4099-8537-a95a052b92a4",
+                "description": "We are an RP group based off of the Clone Wars from Star Wars. We host large-scale events, training, and hangouts throughout the week. Our community has a dedicated Dev Team who create worlds for us to enjoy, weapons for us to use, and MASSIVE RP events for you all to experience.",
+                "createdAt": "2024-06-21T12:05:15.000Z",
+                "updatedAt": "2024-06-21T16:10:03.000Z",
+                "deletedAt": null,
+                "logo_id": 234
+            },
+            "members": [
+                {
+                    "username": "DolphinBoy"
+                }
+            ]
         }
     ]
 }
