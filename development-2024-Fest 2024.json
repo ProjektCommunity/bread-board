@@ -937,10 +937,10 @@
             "instance_url": null,
             "project_id": 2,
             "Community": {
-                "id": 1,
-                "name": "Local Police Department",
+                "id": 3,
+                "name": "Blue Star",
                 "group_id": null,
-                "description": "32123",
+                "description": null,
                 "logo_id": null
             },
             "Poster": null,
