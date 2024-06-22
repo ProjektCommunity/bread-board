@@ -936,13 +936,7 @@
             "quest": false,
             "instance_url": null,
             "project_id": 2,
-            "Community": {
-                "id": 1,
-                "name": "Local Police Department",
-                "group_id": null,
-                "description": "32123",
-                "logo_id": null
-            },
+            "Community": null,
             "Poster": null,
             "EventType": null,
             "Venue": {
