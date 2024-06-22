@@ -168,6 +168,17 @@
                 }
             ],
             "user": "Vanessa Wolf"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Information Technology",
+                    "jobTitles": [
+                        "Database Administrator"
+                    ]
+                }
+            ],
+            "user": "thomatoes50"
         }
     ]
 }
