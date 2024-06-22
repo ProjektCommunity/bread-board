@@ -1,13 +1,3 @@
 {
-    "staffCredits": [
-        {
-            "departments": [
-                {
-                    "department": "Media",
-                    "jobTitles": []
-                }
-            ],
-            "user": "Wolveeps"
-        }
-    ]
+    "staffCredits": []
 }
