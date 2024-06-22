@@ -925,6 +925,33 @@
                 "orgOwned": false,
                 "community_id": null
             }
+        },
+        {
+            "id": 67,
+            "name": "Test2",
+            "start_date": "2024-06-22T17:00:04.000Z",
+            "end_date": "2024-06-22T17:30:04.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "project_id": 2,
+            "Community": {
+                "id": 1,
+                "name": "Local Police Department",
+                "group_id": null,
+                "description": "32123",
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
         }
     ]
 }
