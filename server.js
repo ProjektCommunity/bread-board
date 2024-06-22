@@ -11,7 +11,7 @@ fs.watch('./', (event, fileName) => {
 			console.log('File change detected, running command')
 			const stringDateTime = new Date().toUTCString()
 			exec(
-				`git fetch && git pull && git add . && git commit -m "updated at ${stringDateTime}" && git push`,
+				`git fetch && git pull && git add . && git commit -m "updated at ${stringDateTime}" && git push && git status`,
 				(err, stdout, stderr) => {
 					if (err) {
 						console.error(err)
