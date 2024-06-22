@@ -13,7 +13,7 @@ function Watch() {
 		GithubTimeout = setTimeout(() => {
 			console.log('Updating Github')
 			UpdateGithub()
-		}, 1000)
+		}, 5000)
 		setTimeout(Watch, 500)
 	})
 }
