@@ -1,3 +1,21 @@
 {
-    "staffCredits": []
+    "staffCredits": [
+        {
+            "departments": [
+                {
+                    "department": "Information Technology",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Business and Finance",
+                    "jobTitles": [
+                        "Business"
+                    ]
+                }
+            ],
+            "user": "Pixel Byte"
+        }
+    ]
 }
