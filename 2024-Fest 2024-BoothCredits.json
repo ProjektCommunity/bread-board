@@ -1439,6 +1439,23 @@
                     "username": "MrDummy_NL"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 65,
+                "name": "Chimkins",
+                "group_id": "grp_b09525bf-4e83-4f3e-9231-0df3dac38dd6",
+                "description": "We are a small team working on VRChat worlds and planning to release more in the future. Our main goal is to make a world that is fun to play and great for hanging out with friends.\r\n\r\nWe currently have 2 worlds released publically:\r\n- Zombie Survival\r\n- The Hunt",
+                "createdAt": "2024-05-23T17:34:47.000Z",
+                "updatedAt": "2024-06-21T01:27:11.000Z",
+                "deletedAt": null,
+                "logo_id": 183
+            },
+            "members": [
+                {
+                    "username": "Teal"
+                }
+            ]
         }
     ]
 }
