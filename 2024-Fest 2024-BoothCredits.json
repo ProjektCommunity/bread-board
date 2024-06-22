@@ -1422,6 +1422,23 @@
                     "username": "Skoot"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 99,
+                "name": "Sign&Fun world",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-06-12T13:40:19.000Z",
+                "updatedAt": "2024-06-22T18:09:51.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "MrDummy_NL"
+                }
+            ]
         }
     ]
 }
