@@ -1354,6 +1354,23 @@
                     "username": "Notna01"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 103,
+                "name": "Hoppou Foundation",
+                "group_id": "grp_83ada10a-924c-45dd-8280-8c7ac530d49b",
+                "description": "We're The Hoppou Foundationǃ We're Hoppou Raiders‚ Role-players‚ Gamers‚ Avatar & World Creators‚ Artists and moreǃ",
+                "createdAt": "2024-06-12T21:19:22.000Z",
+                "updatedAt": "2024-06-21T02:13:43.000Z",
+                "deletedAt": null,
+                "logo_id": 206
+            },
+            "members": [
+                {
+                    "username": "Blazecreek"
+                }
+            ]
         }
     ]
 }
