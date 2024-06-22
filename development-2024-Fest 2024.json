@@ -21,6 +21,7 @@
                 "id": 2,
                 "name": "LPD Station",
                 "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
                 "orgOwned": false,
                 "community_id": null
             }
@@ -46,6 +47,7 @@
                 "id": 1,
                 "name": "PJKT˸ FESTIVAL 2023",
                 "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "orgOwned": true,
                 "community_id": null
             }
@@ -288,7 +290,14 @@
             "Community": null,
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 3,
+                "name": "Test",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
         },
         {
             "id": 25,
@@ -922,6 +931,7 @@
                 "id": 2,
                 "name": "LPD Station",
                 "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
                 "orgOwned": false,
                 "community_id": null
             }
@@ -970,6 +980,7 @@
                 "id": 1,
                 "name": "PJKT˸ FESTIVAL 2023",
                 "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "orgOwned": true,
                 "community_id": null
             }
