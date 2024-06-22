@@ -65,24 +65,48 @@
             "departments": [
                 {
                     "department": "Media",
-                    "jobTitles": []
+                    "jobTitles": [
+                        "Project Lead",
+                        "Social Media Marketer"
+                    ]
                 }
             ],
             "user": "Euky"
         },
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Video Editor",
+                        "Live Producer"
+                    ]
+                }
+            ],
             "user": "WalGesicht"
         },
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Video Editor",
+                        "Video Producer",
+                        "Graphics Designer"
+                    ]
+                }
+            ],
             "user": "NovedPlayer"
         },
         {
             "departments": [
                 {
                     "department": "Media",
-                    "jobTitles": []
+                    "jobTitles": [
+                        "Director",
+                        "Video Editor",
+                        "Cinematographer"
+                    ]
                 }
             ],
             "user": "Wolveeps"
@@ -113,7 +137,9 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Director"
+                        "Director",
+                        "Graphics Designer",
+                        "Art Lead"
                     ]
                 }
             ],
