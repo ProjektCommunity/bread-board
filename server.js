@@ -9,6 +9,7 @@ exec('git pull && npm install', (_, stdout, __) => { // Install dependencies
 		const watcher = fs.watch('./', (evt, file) => {
 			if (!file.endsWith('.json')) return
 			watcher.close()
+			console.log('File changed:', file)
 			clearTimeout(GithubTimeout)
 			if (GithubTimeout) clearTimeout(GithubTimeout)
 			GithubTimeout = setTimeout(() => {
