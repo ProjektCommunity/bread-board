@@ -1405,6 +1405,23 @@
                     "username": "ShifterKei"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 93,
+                "name": "Ministry Promotions",
+                "group_id": "grp_584541a2-a29f-43c9-9b3b-e63b08d7ca7f",
+                "description": "Aproffessional & strategic option for vr event logistics an promotions",
+                "createdAt": "2024-06-07T17:10:21.000Z",
+                "updatedAt": "2024-06-21T02:09:18.000Z",
+                "deletedAt": null,
+                "logo_id": 203
+            },
+            "members": [
+                {
+                    "username": "Skoot"
+                }
+            ]
         }
     ]
 }
