@@ -20,12 +20,7 @@ function Watch() {
 
 function UpdateGithub() {
 	const cmd = 'git add . && git commit -m "Auto Update" && git push'
-	exec(cmd, (err, stdout, stderr) => {
-		if (err) {
-			console.error(err)
-			console.log(stderr)
-			return
-		}
+	exec(cmd, (_, stdout, __) => {
 		console.log(stdout)
 	})
 }
