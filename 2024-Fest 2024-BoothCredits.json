@@ -1320,6 +1320,23 @@
                     "username": "DolphinBoy"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 34,
+                "name": "Death Korps of VR",
+                "group_id": "grp_55b15c9c-af3c-4b06-a902-045eb8522253",
+                "description": "The Death Korps of VR is a social, Role play, and PvP group representing the Death Korps of Krieg of the Astra Militarum set in the Warhammer 40,000 universe.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T01:04:15.000Z",
+                "deletedAt": null,
+                "logo_id": 161
+            },
+            "members": [
+                {
+                    "username": "Foxtrot-508"
+                }
+            ]
         }
     ]
 }
