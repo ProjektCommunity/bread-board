@@ -5,14 +5,7 @@ console.log('Watching for file changes')
 let GithubTimeout = null
 function Watch() {
 	const watcher = fs.watch('./', (evt, file) => {
-		if (!file.endsWith('.json') && !file.endsWith('.js')) return
-		if (
-			file === 'package.json' ||
-			file === 'package-lock.json' ||
-			file === 'server.js'
-		) {
-			return RestartServer()
-		}
+		if (!file.endsWith('.json')) return
 		watcher.close()
 		clearTimeout(GithubTimeout)
 		console.log('File Change Detected', new Date(), evt, file)
