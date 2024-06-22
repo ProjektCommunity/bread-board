@@ -146,6 +146,17 @@
                 }
             ],
             "user": "death_map"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
+                }
+            ],
+            "user": "Taco"
         }
     ]
 }
