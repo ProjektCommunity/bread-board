@@ -1,7 +1,7 @@
 const fs = require('fs')
 const { exec, spawn } = require('child_process')
 
-exec('npm install', (_, stdout, __) => { // Install dependencies
+exec('git pull && npm install', (_, stdout, __) => { // Install dependencies
 	
 	console.log('Watching for file changes')
 	let GithubTimeout = null
