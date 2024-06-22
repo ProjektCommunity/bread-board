@@ -19,6 +19,64 @@
                 }
             ],
             "user": "Pixel Byte"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Development",
+                    "jobTitles": [
+                        "Business",
+                        "Game Engineer"
+                    ]
+                },
+                {
+                    "department": "Business and Finance",
+                    "jobTitles": [
+                        "Game Engineer",
+                        "Director",
+                        "Business"
+                    ]
+                }
+            ],
+            "user": "Karet"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Information Technology",
+                    "jobTitles": [
+                        "Team Leader",
+                        "Back End Developer"
+                    ]
+                }
+            ],
+            "user": "Gamecube762"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Development",
+                    "jobTitles": []
+                }
+            ],
+            "user": "AliceD"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": []
+                }
+            ],
+            "user": "Euky"
+        },
+        {
+            "departments": [],
+            "user": "WalGesicht"
+        },
+        {
+            "departments": [],
+            "user": "NovedPlayer"
         }
     ]
 }
