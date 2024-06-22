@@ -180,6 +180,17 @@
                 }
             ],
             "user": "thomatoes50"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
+                }
+            ],
+            "user": "Gerzybow"
         }
     ]
 }
