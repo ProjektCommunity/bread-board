@@ -8,7 +8,6 @@ function Watch() {
 		if (!file.endsWith('.json')) return
 		watcher.close()
 		clearTimeout(GithubTimeout)
-		console.log('File Change Detected', new Date(), evt, file)
 		if (GithubTimeout) clearTimeout(GithubTimeout)
 		GithubTimeout = setTimeout(() => {
 			console.log('Updating Github')
@@ -23,13 +22,6 @@ function UpdateGithub() {
 	// exec(cmd, (_, stdout, __) => {
 	// 	console.log(stdout)
 	// })
-}
-
-function RestartServer() {
-	// Restart nodejs server
-	console.log('Restarting Server')
-	exec('^C && npm start')
-
 }
 
 Watch()
