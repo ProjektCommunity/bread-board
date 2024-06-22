@@ -56,7 +56,9 @@
             "departments": [
                 {
                     "department": "Development",
-                    "jobTitles": []
+                    "jobTitles": [
+                        "Environmental Artist"
+                    ]
                 }
             ],
             "user": "AliceD"
