@@ -1,0 +1,12 @@
+{
+  "name": "bread-board",
+  "version": "1.0.0",
+  "description": "A script that will update it's own github to provide information for VRChat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
