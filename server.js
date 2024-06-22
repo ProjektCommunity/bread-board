@@ -20,11 +20,10 @@ exec('npm install', (_, stdout, __) => { // Install dependencies
 
 	function UpdateGithub() {
 		const cmd = 'git add . && git commit -m "Auto Update" && git push'
-		console.log(cmd)
-		// exec(cmd, (_, stdout, __) => {
-		// 	console.log(stdout)
-		// })
+		exec(cmd, (_, stdout, __) => {
+			console.log(stdout)
+		})
 	}
-	
+
 	Watch()
 })
