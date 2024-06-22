@@ -946,6 +946,27 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 68,
+            "name": "Test3",
+            "start_date": "2024-06-22T18:00:01.000Z",
+            "end_date": "2024-06-22T18:30:01.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "project_id": 2,
+            "Community": {
+                "id": 18,
+                "name": "666 Kitchen",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
