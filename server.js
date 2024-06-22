@@ -25,6 +25,6 @@ exec('npm install', (_, stdout, __) => { // Install dependencies
 		// 	console.log(stdout)
 		// })
 	}
-
+	
 	Watch()
 })
