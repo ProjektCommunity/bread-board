@@ -2,24 +2,25 @@ const fs = require('fs')
 const { exec } = require('child_process')
 
 console.log('Watching for file changes')
-fs.watch('./', (event, fileName) => {
-	let timer
-	if (fileName.includes('.json')) {
-		console.log(`File ${fileName} has been changed`)
-		clearTimeout(timer)
-		timer = setTimeout(() => {
-			console.log('File change detected, running command')
-			const stringDateTime = new Date().toUTCString()
-			exec(
-				`git fetch && git pull && git add . && git commit -m "updated at ${stringDateTime}" && git push && git status`,
-				(err, stdout, stderr) => {
-					if (err) {
-						console.error(err)
-						return
-					}
-					console.log(stdout)
-				}
-			)
-		}, 3000)
-	}
-})
+function Watch() {
+	const watcher = fs.watch('./', (evt, file) => {
+		if (!file.endsWith('.json' || '.js')) return
+		watcher.close()
+		console.log('File Change Detected', new Date(), evt, file)
+		setTimeout(UpdateGithub, 1000)
+		setTimeout(Watch, 500)
+	})
+}
+
+function UpdateGithub() {
+	const cmd = 'git add . && git commit -m "Auto Update" && git push'
+	exec(cmd, (err, stdout, stderr) => {
+		if (err) {
+			console.error(err)
+			return
+		}
+		console.log(stdout)
+	})
+}
+
+Watch()
