@@ -1609,6 +1609,23 @@
                     "username": "Comedian't"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 124,
+                "name": "Galactic Republic of VRChat",
+                "group_id": "grp_dc35df5e-1721-4673-b17d-11ed99a27f7e",
+                "description": "We are a community of people in VRChat who are passionate about the Prequels era of Star Wars that hosts hangout events every Saturday with additional side events in between!",
+                "createdAt": "2024-06-12T23:18:42.000Z",
+                "updatedAt": "2024-06-21T02:27:45.000Z",
+                "deletedAt": null,
+                "logo_id": 227
+            },
+            "members": [
+                {
+                    "username": "Start9875"
+                }
+            ]
         }
     ]
 }
