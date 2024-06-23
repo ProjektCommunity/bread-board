@@ -117,10 +117,7 @@
             "departments": [
                 {
                     "department": "Business and Finance",
-                    "jobTitles": [
-                        "Business",
-                        "Team Leader"
-                    ]
+                    "jobTitles": []
                 }
             ],
             "user": "PeachBight"
