@@ -1575,6 +1575,23 @@
                     "username": "goldielounge"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 76,
+                "name": "FireteamVR",
+                "group_id": "grp_d528826b-1ef0-48e6-b221-ea73b4dd619a",
+                "description": "FireteamVR is a passion project aimed at becoming the first massive PvP-integrated avatar community in VRChat. Participate in battlefield-inspired firefights in any world, featuring unique military-anime-style PvP avatars with interactive weapons and high customizations",
+                "createdAt": "2024-05-28T19:55:01.000Z",
+                "updatedAt": "2024-06-21T01:35:31.000Z",
+                "deletedAt": null,
+                "logo_id": 190
+            },
+            "members": [
+                {
+                    "username": "FireteamVR"
+                }
+            ]
         }
     ]
 }
