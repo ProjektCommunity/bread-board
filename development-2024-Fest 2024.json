@@ -1,60 +1,6 @@
 {
     "events": [
         {
-            "id": 88,
-            "name": "Test Event 1",
-            "start_date": "2024-06-23T03:50:16.000Z",
-            "end_date": "2024-06-23T04:20:16.000Z",
-            "marketing": "This is a test event",
-            "stream_link": null,
-            "quest": false,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 2,
-            "Community": {
-                "id": 8,
-                "name": "Parabellum",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
-                "community_id": null
-            }
-        },
-        {
-            "id": 89,
-            "name": "Test7",
-            "start_date": "2024-06-23T03:55:24.000Z",
-            "end_date": "2024-06-23T04:25:24.000Z",
-            "marketing": null,
-            "stream_link": null,
-            "quest": false,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 2,
-            "Community": null,
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 2,
-                "name": "LPD Station",
-                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "orgOwned": false,
-                "community_id": null
-            }
-        },
-        {
             "id": 90,
             "name": "Hewooow",
             "start_date": "2024-06-23T23:57:55.000Z",
