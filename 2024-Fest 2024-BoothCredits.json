@@ -1626,6 +1626,23 @@
                     "username": "Start9875"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 28,
+                "name": "Mortisian Kingdom",
+                "group_id": "grp_71766277-c47d-4068-a72a-f5ab20e2aab9",
+                "description": "The Mortisian Syndicate is a Largescale Persistent Life styled Roleplay Community that hosts Events near every day save for Sunday. We teach members how to utilize Real Life Skills in a Roleplay Setting and tell indepth and inclusive stories through the Medium of VR. If you like DnD, or LARP, you'll find your Home here amongst the Syndicate!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-20T15:49:39.000Z",
+                "deletedAt": null,
+                "logo_id": 121
+            },
+            "members": [
+                {
+                    "username": "GrandVMortem"
+                }
+            ]
         }
     ]
 }
