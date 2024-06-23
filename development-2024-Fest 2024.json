@@ -8,7 +8,6 @@
             "marketing": "Test",
             "stream_link": null,
             "quest": false,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2&instanceId=Test~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "event_public": true,
             "event_ready": false,
             "project_id": 2,
@@ -27,6 +26,35 @@
                 "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 86,
+            "name": "Test 12345678948597",
+            "start_date": "2024-06-23T16:00:12.000Z",
+            "end_date": "2024-06-23T16:30:12.000Z",
+            "marketing": "asdfasdf asd",
+            "stream_link": null,
+            "quest": false,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 1,
+                "name": "Local Police Department",
+                "group_id": null,
+                "description": "32123",
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         }
