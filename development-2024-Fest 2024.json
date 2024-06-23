@@ -9,6 +9,8 @@
             "stream_link": null,
             "quest": false,
             "instance_url": "https://vrchat.com/home/launch?worldId=wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2&instanceId=Test~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "event_public": true,
+            "event_ready": false,
             "project_id": 2,
             "Community": {
                 "id": 1,
@@ -25,62 +27,6 @@
                 "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
                 "orgOwned": true,
-                "community_id": null
-            }
-        },
-        {
-            "id": 86,
-            "name": "Test 12345678948597",
-            "start_date": "2024-06-23T16:00:12.000Z",
-            "end_date": "2024-06-23T16:30:12.000Z",
-            "marketing": "asdfasdf asd",
-            "stream_link": null,
-            "quest": false,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd&instanceId=Test_12345678948597~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
-            "project_id": 2,
-            "Community": {
-                "id": 1,
-                "name": "Local Police Department",
-                "group_id": null,
-                "description": "32123",
-                "logo_id": null
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 2,
-                "name": "LPD Station",
-                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "orgOwned": false,
-                "community_id": null
-            }
-        },
-        {
-            "id": 87,
-            "name": "Skits and bits stuff",
-            "start_date": "2024-06-28T22:00:20.000Z",
-            "end_date": "2024-06-28T22:30:20.000Z",
-            "marketing": "blah",
-            "stream_link": null,
-            "quest": true,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab&instanceId=Skits_and_bits_stuff~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
-            "project_id": 2,
-            "Community": {
-                "id": 40,
-                "name": "Skits'N'Bits",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 4,
-                "name": "Skits 'N' Bits Theatre （18＋）",
-                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
-                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
-                "orgOwned": false,
                 "community_id": null
             }
         }
