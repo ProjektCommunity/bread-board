@@ -45,7 +45,7 @@
             "marketing": null,
             "stream_link": null,
             "quest": false,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_&instanceId=Laserdome_II_Tournament~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd&instanceId=Laserdome_II_Tournament~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "project_id": 2,
             "Community": {
                 "id": 1,
@@ -60,7 +60,7 @@
                 "id": 1,
                 "name": "LPD Station",
                 "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "world_id": "wrld_",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
                 "orgOwned": false,
                 "community_id": null
             }
