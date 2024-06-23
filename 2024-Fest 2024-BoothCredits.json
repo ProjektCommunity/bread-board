@@ -1660,6 +1660,23 @@
                     "username": "ThatGamingGoose"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 2,
+                "name": "Blue Star",
+                "group_id": "grp_df3d13cc-0bcc-4d4a-a011-c51fe616a8bb",
+                "description": "Blue Star is a VRChat roleplay community that displays a mix of vibrant and colourful themes inspired by games like Blue Archive and twists it by throwing in mysterious and dangerous entities inspired by those you would see in works such as the SCP archives or Lobotomy Corporation.\r\n\r\nYou work for Blue Star, a corporation that publicly displays itself as a security and research organisation, but behind closed doors they are dedicated to the research of the mysterious \"Rifts\" and the abnormalities that come from within them.\r\n\r\nPerhaps you are just a simple civilian looking for work when you stumbled across this company, or maybe you had an encounter with an abnormality which led to you discovering us, or maybe you have come from a rift yourself and find yourself seeking answers?\r\n\r\nWhatever the case, Blue Star is here to uncover the mysteries that await us beyond the veil and beyond what we understand as reality.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:23:40.000Z",
+                "deletedAt": null,
+                "logo_id": 153
+            },
+            "members": [
+                {
+                    "username": "Frozen Fire"
+                }
+            ]
         }
     ]
 }
