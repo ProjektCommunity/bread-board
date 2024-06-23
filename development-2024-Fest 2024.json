@@ -8,7 +8,7 @@
             "marketing": "Test",
             "stream_link": null,
             "quest": false,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd&instanceId=Test~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2&instanceId=Test~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "project_id": 2,
             "Community": {
                 "id": 1,
@@ -20,11 +20,11 @@
             "Poster": null,
             "EventType": null,
             "Venue": {
-                "id": 2,
-                "name": "LPD Station",
-                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "orgOwned": false,
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
                 "community_id": null
             }
         }
