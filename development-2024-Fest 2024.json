@@ -29,6 +29,36 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 91,
+            "name": "41551",
+            "start_date": "2024-06-24T23:50:56.000Z",
+            "end_date": "2024-06-25T00:20:56.000Z",
+            "marketing": "156156",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 10,
+                "name": "Legions Of Chaos",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
