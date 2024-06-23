@@ -13,13 +13,16 @@
                     "jobTitles": [
                         "Business"
                     ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator",
+                        "Event Host"
+                    ]
                 }
             ],
             "user": "Pixel Byte"
-        },
-        {
-            "departments": [],
-            "user": "bird"
         }
     ]
 }
