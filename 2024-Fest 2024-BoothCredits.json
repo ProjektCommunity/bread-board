@@ -1473,6 +1473,23 @@
                     "username": "Kyrii"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 131,
+                "name": "No Friends Friends Club",
+                "group_id": "grp_693ddad7-3e90-46c6-bd38-04ccb1734420",
+                "description": "A social group and gathering that focuses on helping people struggling with social anxiety to come out and practice social skills while making friends along the way.",
+                "createdAt": "2024-06-14T22:15:14.000Z",
+                "updatedAt": "2024-06-21T02:33:04.000Z",
+                "deletedAt": null,
+                "logo_id": 231
+            },
+            "members": [
+                {
+                    "username": "SirEcho"
+                }
+            ]
         }
     ]
 }
