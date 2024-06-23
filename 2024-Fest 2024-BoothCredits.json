@@ -1558,6 +1558,23 @@
                     "username": "Portuguese Armed Forces "
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 139,
+                "name": "ScoutTheColdie",
+                "group_id": "grp_39a94c64-9712-4680-9758-db25fde037f4",
+                "description": "The Goldie Lounge is a vibrant social club founded in January 2024‚ dedicated to curating unforgettable music events and fostering meaningful connections within its community․ With a passion for music and a commitment to creating inclusive spaces‚ Goldie Lounge brings together music enthusiasts from all walks of life to share in the joy of live performances and social gatherings․ Whether you're a seasoned music aficionado or simply looking to explore new sounds‚ the Goldie Lounge invites you to join us in celebrating the power of music to unite and uplift․ Come discover your rhythm at the Goldie Lounge․",
+                "createdAt": "2024-06-23T11:37:37.000Z",
+                "updatedAt": "2024-06-23T11:37:38.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "goldielounge"
+                }
+            ]
         }
     ]
 }
