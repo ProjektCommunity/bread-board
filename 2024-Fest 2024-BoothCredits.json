@@ -1643,6 +1643,23 @@
                     "username": "GrandVMortem"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 111,
+                "name": "Furry Event Community",
+                "group_id": "grp_8250f46e-7b91-4244-95ec-ebdeb87d9be8",
+                "description": "Welcome to the Furry Event Community! This is your go-to hub for all things furry events. Whether you're looking to attend conventions, participate in online meetups, or share your own events, you'll find a friendly and inclusive space here. Connect with fellow furries, stay updated on upcoming events, and dive into engaging discussions. Join us and be part of a vibrant community where the fun never stops!",
+                "createdAt": "2024-06-12T21:47:38.000Z",
+                "updatedAt": "2024-06-21T02:17:07.000Z",
+                "deletedAt": null,
+                "logo_id": 212
+            },
+            "members": [
+                {
+                    "username": "ThatGamingGoose"
+                }
+            ]
         }
     ]
 }
