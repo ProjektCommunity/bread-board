@@ -59,6 +59,36 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 93,
+            "name": "The Synapse Test Event",
+            "start_date": "2024-06-24T21:31:10.000Z",
+            "end_date": "2024-06-24T22:00:10.000Z",
+            "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 35,
+                "name": "The Synapse",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
