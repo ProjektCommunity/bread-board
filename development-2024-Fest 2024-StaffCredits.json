@@ -23,6 +23,47 @@
                 }
             ],
             "user": "Pixel Byte"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Business and Finance",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Information Technology",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Development",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                },
+                {
+                    "department": "Moderation",
+                    "jobTitles": [
+                        "Director"
+                    ]
+                }
+            ],
+            "user": "pesky12"
         }
     ]
 }

@@ -1,28 +1,3 @@
 {
-    "staffCredits": [
-        {
-            "departments": [
-                {
-                    "department": "Information Technology",
-                    "jobTitles": [
-                        "Director"
-                    ]
-                },
-                {
-                    "department": "Business and Finance",
-                    "jobTitles": [
-                        "Business"
-                    ]
-                },
-                {
-                    "department": "Events",
-                    "jobTitles": [
-                        "Event Coordinator",
-                        "Event Host"
-                    ]
-                }
-            ],
-            "user": "Pixel Byte"
-        }
-    ]
+    "staffCredits": []
 }
