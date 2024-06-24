@@ -10,6 +10,20 @@
                 }
             ],
             "user": "xCirrex"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Production Crew",
+                        "Social Crew",
+                        "Live Crew",
+                        "Actor crew"
+                    ]
+                }
+            ],
+            "user": "Jame_z"
         }
     ]
 }
