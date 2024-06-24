@@ -1,7 +1,14 @@
 {
     "staffCredits": [
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Music Crew"
+                    ]
+                }
+            ],
             "user": "xCirrex"
         }
     ]
