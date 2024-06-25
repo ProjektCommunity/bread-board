@@ -1,28 +1,3 @@
 {
-    "events": [
-        {
-            "id": 1,
-            "name": "Opening Ceremony",
-            "start_date": "2024-06-28T18:00:49.000Z",
-            "end_date": "2024-06-28T19:00:49.000Z",
-            "marketing": null,
-            "stream_link": "https://www.twitch.tv/projektcommunity",
-            "quest": true,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 2,
-            "Community": null,
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 1,
-                "name": "LPD Station",
-                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
-                "orgOwned": false,
-                "community_id": null
-            }
-        }
-    ]
+    "events": []
 }
