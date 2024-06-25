@@ -59,6 +59,13 @@
                     "jobTitles": [
                         "Environmental Artist"
                     ]
+                },
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Media Research & Development Crew",
+                        "Music Crew"
+                    ]
                 }
             ],
             "user": "AliceD"
@@ -68,8 +75,9 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Social Media Marketer",
-                        "Team Leader"
+                        "Team Leader",
+                        "Social Crew",
+                        "Media Administrations"
                     ]
                 }
             ],
@@ -80,8 +88,10 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Video Editor",
-                        "Live Producer"
+                        "Production Crew",
+                        "Live Engineer",
+                        "Live Crew",
+                        "Actor crew"
                     ]
                 }
             ],
@@ -92,9 +102,11 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Video Editor",
-                        "Video Producer",
-                        "Graphics Designer"
+                        "Production Crew",
+                        "Art Crew",
+                        "Social Crew",
+                        "Actor crew",
+                        "Sound Design Crew"
                     ]
                 }
             ],
@@ -105,22 +117,11 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Director",
-                        "Video Editor",
-                        "Cinematographer"
+                        "Director"
                     ]
                 }
             ],
             "user": "Wolveeps"
-        },
-        {
-            "departments": [
-                {
-                    "department": "Business and Finance",
-                    "jobTitles": []
-                }
-            ],
-            "user": "PeachBight"
         },
         {
             "departments": [
@@ -137,8 +138,8 @@
                     "department": "Media",
                     "jobTitles": [
                         "Director",
-                        "Graphics Designer",
-                        "Art Lead"
+                        "Social Crew",
+                        "Art Crew"
                     ]
                 }
             ],
@@ -160,7 +161,13 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Team Leader"
+                        "Team Leader",
+                        "Production Crew",
+                        "Social Crew",
+                        "Music Crew",
+                        "Live Crew",
+                        "Live Engineer",
+                        "Actor crew"
                     ]
                 }
             ],
@@ -183,15 +190,70 @@
                 {
                     "department": "Media",
                     "jobTitles": [
-                        "Team Leader"
+                        "Team Leader",
+                        "Production Crew",
+                        "Media Research & Development Crew",
+                        "Actor crew"
                     ]
                 }
             ],
             "user": "Gerzybow"
         },
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Production Crew",
+                        "Actor crew"
+                    ]
+                }
+            ],
             "user": "Ztwo"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Music Crew"
+                    ]
+                }
+            ],
+            "user": "xCirrex"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Production Crew",
+                        "Social Crew",
+                        "Live Crew",
+                        "Actor crew"
+                    ]
+                }
+            ],
+            "user": "Jame_z"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
+                },
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Art Crew",
+                        "Music Crew",
+                        "Sound Design Crew"
+                    ]
+                }
+            ],
+            "user": "Onetwostep"
         }
     ]
 }
