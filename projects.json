@@ -1,14 +1,16 @@
 {
     "projects": [
         {
-            "eventsURL": "development-2024-Graffiti_Grab.json",
-            "boothCreditsURL": "development-2024-Graffiti_Grab-BoothCredits.json",
-            "staffCreditsURL": "development-2024-Graffiti_Grab-StaffCredits.json"
+            "projectName": "Graffiti_Grab",
+            "eventsURL": "2024-Graffiti_Grab.json",
+            "boothCreditsURL": "2024-Graffiti_Grab-BoothCredits.json",
+            "staffCreditsURL": "2024-Graffiti_Grab-StaffCredits.json"
         },
         {
-            "eventsURL": "development-2024-Fest 2024.json",
-            "boothCreditsURL": "development-2024-Fest 2024-BoothCredits.json",
-            "staffCreditsURL": "development-2024-Fest 2024-StaffCredits.json"
+            "projectName": "Fest 2024",
+            "eventsURL": "2024-Fest 2024.json",
+            "boothCreditsURL": "2024-Fest 2024-BoothCredits.json",
+            "staffCreditsURL": "2024-Fest 2024-StaffCredits.json"
         }
     ]
 }
