@@ -232,6 +232,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 99,
+            "name": "fasffdssaffasfasf",
+            "start_date": "2024-06-29T08:09:56.000Z",
+            "end_date": "2024-06-29T08:39:56.000Z",
+            "marketing": "fsadfasffssdafasdf",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 25,
+                "name": "United Republic",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
