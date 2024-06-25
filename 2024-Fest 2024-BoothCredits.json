@@ -1762,6 +1762,23 @@
                     "username": "Elocin_anagram"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 142,
+                "name": "Teal Banner",
+                "group_id": "grp_5918008e-ca0e-4e6f-ab82-a9a33b20ce2e",
+                "description": "The Teal Banner is a RolePlay community based on a completely hand written lore set in a medieval fantasy land based on writings by DeliriousJax. Come and learn of the world as you explore Kingdoms, discover magic, and help guide the path of fates! Focusing on minimal dice rolling in favor of quality of story and player actions, this roleplay brings the story and immersion to the forefront of our experiences and interactions.\r\n\r\nWhether you'd like to keep it humble as a Clergy, seek the mysticism of a Magical studier, craft and design runes as a Runesmith, or you wish to wield the authority of a Crown sworn sword; there are many ways to pursue your part in this long term story telling community!\r\n\r\nHuman, Elf, Beastkin, Halfling, Dwarf. You choose your starting point and begin the life of n adventurer in the Chronicles of Wyl!\r\n",
+                "createdAt": "2024-06-25T00:17:20.000Z",
+                "updatedAt": "2024-06-25T04:18:09.000Z",
+                "deletedAt": null,
+                "logo_id": 315
+            },
+            "members": [
+                {
+                    "username": "DeliriousJax"
+                }
+            ]
         }
     ]
 }
