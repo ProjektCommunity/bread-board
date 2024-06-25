@@ -278,6 +278,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 100,
+            "name": "sdfafadafdasdf",
+            "start_date": "2024-06-30T08:13:11.000Z",
+            "end_date": "2024-06-30T08:43:11.000Z",
+            "marketing": "af",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 7,
+                "name": "TAB Secret Solvers",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
