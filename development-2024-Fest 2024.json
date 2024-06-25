@@ -89,6 +89,96 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 94,
+            "name": "Hi karet!!!!11211111!",
+            "start_date": "2024-06-25T00:39:45.000Z",
+            "end_date": "2024-06-25T01:09:45.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 1,
+                "name": "Local Police Department",
+                "group_id": null,
+                "description": "32123",
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 95,
+            "name": "Next day test",
+            "start_date": "2024-06-27T00:21:50.000Z",
+            "end_date": "2024-06-27T00:51:50.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 2,
+                "name": "[UHR] United Hollow Republic",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 96,
+            "name": "The amazing Projekt Community Event",
+            "start_date": "2024-06-25T16:00:56.000Z",
+            "end_date": "2024-06-25T16:30:56.000Z",
+            "marketing": "This is an amazing event that will be crazy! Trust me? (Don't trust me...)",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 3,
+                "name": "Blue Star",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 1,
+                "name": "PJKT˸ FESTIVAL 2023",
+                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
