@@ -209,6 +209,23 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 97,
+            "name": "Teso1561653",
+            "start_date": "2024-06-26T08:08:38.000Z",
+            "end_date": "2024-06-26T08:38:38.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
