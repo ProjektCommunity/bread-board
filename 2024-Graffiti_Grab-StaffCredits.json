@@ -24,6 +24,25 @@
                 }
             ],
             "user": "Jame_z"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
+                },
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Art Crew",
+                        "Music Crew",
+                        "Sound Design Crew"
+                    ]
+                }
+            ],
+            "user": "Onetwostep"
         }
     ]
 }
