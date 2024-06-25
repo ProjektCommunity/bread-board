@@ -3,6 +3,24 @@
         {
             "departments": [
                 {
+                    "department": "Development",
+                    "jobTitles": [
+                        "Environmental Artist"
+                    ]
+                },
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Media Research & Development Crew",
+                        "Music Crew"
+                    ]
+                }
+            ],
+            "user": "AliceD"
+        },
+        {
+            "departments": [
+                {
                     "department": "Media",
                     "jobTitles": [
                         "Music Crew"
