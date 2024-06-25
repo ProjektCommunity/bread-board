@@ -188,9 +188,9 @@
             "marketing": "This is an amazing event that will be crazy! Trust me? (Don't trust me...)",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2&instanceId=The_amazing_Projekt_Community_Event~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "instance_url": null,
             "event_public": true,
-            "event_ready": true,
+            "event_ready": false,
             "project_id": 2,
             "Community": {
                 "id": 3,
