@@ -1495,10 +1495,10 @@
             "community": {
                 "id": 56,
                 "name": "Neo-Philly CyberBar",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_dbd4f0cb-bc6c-4c49-8efb-4d8effd0228a",
+                "description": "Neo-Philly CyberBar is a casual cyberpunk RP that takes places in 2060s America where AI and the climate crisis have combined to fracture the world. The Roleplay takes place in The Alibi, a dive bar in the Neo-Philly Anti-AI Resistance Zone, where characters can order drinks and chat. Come join us and don't forget: We don't serve AI here!\n",
                 "createdAt": "2024-05-22T21:26:29.000Z",
-                "updatedAt": "2024-06-26T11:54:41.000Z",
+                "updatedAt": "2024-06-26T11:54:53.000Z",
                 "deletedAt": null,
                 "logo_id": 322
             },
