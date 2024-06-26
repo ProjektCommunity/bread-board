@@ -1779,6 +1779,23 @@
                     "username": "DeliriousJax"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 80,
+                "name": "Study-Japanese【 JapaNichijou ジャパ日常 】",
+                "group_id": "grp_b53f4ff9-a0da-4c41-a464-6ae95a27c4dd",
+                "description": "We are a community of Japanese language learners who play together using the Japanese language!\r\nWe play games using Japanese, have Japanese lessons with the teacher, and role-play in Japanese to practice as if we were actually in Japan.\r\n\r\nWe welcome people who are interested in learning Japanese!! ARIGATOU!!",
+                "createdAt": "2024-06-01T20:22:44.000Z",
+                "updatedAt": "2024-06-21T01:37:52.000Z",
+                "deletedAt": null,
+                "logo_id": 193
+            },
+            "members": [
+                {
+                    "username": "VR Japan Tours"
+                }
+            ]
         }
     ]
 }
