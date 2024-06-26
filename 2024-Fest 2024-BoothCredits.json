@@ -1053,10 +1053,10 @@
             "community": {
                 "id": 71,
                 "name": "Owari",
-                "group_id": null,
+                "group_id": "grp_bb9045bb-499a-45dc-ad1c-193fedc41e13",
                 "description": null,
                 "createdAt": "2024-05-25T00:46:12.000Z",
-                "updatedAt": "2024-06-26T11:51:56.000Z",
+                "updatedAt": "2024-06-26T11:52:06.000Z",
                 "deletedAt": null,
                 "logo_id": 320
             },
