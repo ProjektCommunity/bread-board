@@ -214,6 +214,30 @@
             "Venue": null
         },
         {
+            "id": 17,
+            "name": "Behind the Scenes of PJKT Media",
+            "start_date": "2024-07-03T00:00:47.000Z",
+            "end_date": "2024-07-03T02:00:47.000Z",
+            "marketing": "A panel talk with Wolveeps and PJKT media staff members as they explain the behind-the-scenes of PJKT Media production. Down to how they operate, what discoveries they have made this past year, and what is next in the upcoming horizon! Come and join us to see what PJKT media has to offer! ",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
             "id": 18,
             "name": "Dance Lesson w/ DustBunny",
             "start_date": "2024-07-02T22:00:20.000Z",
