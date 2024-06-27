@@ -1138,10 +1138,10 @@
             "community": {
                 "id": 134,
                 "name": "The VR-Photography Club",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_1c35ae5a-1cc5-495a-afaf-359b2a3a620a",
+                "description": "The VR-Photography Club is the oldest photography club in VRChat (founded in October 2021). It was founded by a handful of people who share the love for the photography in VRChat. The VR-Photography Club mainly focuses on learning and improving your photography skills, sharing your works, and meeting and making new friends.\nWe have:\nMonthly contest\nBi-weekly meetups\nAbility to share your works\nMeet other photographers",
                 "createdAt": "2024-06-18T20:44:37.000Z",
-                "updatedAt": "2024-06-18T20:44:38.000Z",
+                "updatedAt": "2024-06-27T02:59:32.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
