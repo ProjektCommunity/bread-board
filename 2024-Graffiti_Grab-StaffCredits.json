@@ -3,9 +3,35 @@
         {
             "departments": [
                 {
+                    "department": "Information Technology",
+                    "jobTitles": [
+                        "Director",
+                        "Back End Developer"
+                    ]
+                },
+                {
+                    "department": "Development",
+                    "jobTitles": []
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": []
+                }
+            ],
+            "user": "Pixel Byte"
+        },
+        {
+            "departments": [
+                {
                     "department": "Media",
                     "jobTitles": [
                         "Director"
+                    ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
                     ]
                 }
             ],
