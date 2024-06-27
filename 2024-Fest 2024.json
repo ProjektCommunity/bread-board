@@ -187,6 +187,77 @@
             "Venue": null
         },
         {
+            "id": 10,
+            "name": "DDVR | MVP | Rizumu Afterparty 2",
+            "start_date": "2024-07-07T00:00:10.000Z",
+            "end_date": "2024-07-07T06:45:10.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 11,
+            "name": "Improv Basics Workshop",
+            "start_date": "2024-07-06T21:00:27.000Z",
+            "end_date": "2024-07-06T23:00:27.000Z",
+            "marketing": "Join Skits'n'Bits for an introductory improv workshop to learn the basics of improvisation, enhance your creativity, and enjoy spontaneous collaboration in a fun and supportive environment!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 40,
+                "name": "Skits'N'Bits",
+                "group_id": "grp_ad6507be-1878-48e3-ba57-043592de9da9",
+                "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
+                "logo_id": 164
+            },
+            "Poster": {
+                "id": 277,
+                "name": "Skits'N'Bits-logo.png",
+                "path": "uploads/events/2/11/"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 12,
+            "name": "No Friends Friends Club Introduction",
+            "start_date": "2024-07-06T19:00:45.000Z",
+            "end_date": "2024-07-06T20:00:45.000Z",
+            "marketing": "The No Friends Friends Club is an inclusive group for those who struggle with social anxiety. They host events, game nights, meetings and share information to help each other grow socially and learn to manage their social lives.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 131,
+                "name": "No Friends Friends Club",
+                "group_id": "grp_693ddad7-3e90-46c6-bd38-04ccb1734420",
+                "description": "A social group and gathering that focuses on helping people struggling with social anxiety to come out and practice social skills while making friends along the way.",
+                "logo_id": 231
+            },
+            "Poster": {
+                "id": 276,
+                "name": "No Friends Friends Club-logo.webp",
+                "path": "uploads/events/2/12/"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 13,
             "name": "Kocho no Boss Rush",
             "start_date": "2024-07-01T18:00:53.000Z",
@@ -210,6 +281,80 @@
                 "name": "KochÅ no Yakuza-logo.png",
                 "path": "uploads/events/2/13/"
             },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 14,
+            "name": "DDVR | MVP | Rizumu Afterparty 1",
+            "start_date": "2024-07-06T00:00:24.000Z",
+            "end_date": "2024-07-06T06:45:24.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 15,
+            "name": "Improv Live Show",
+            "start_date": "2024-07-05T21:00:09.000Z",
+            "end_date": "2024-07-05T23:00:09.000Z",
+            "marketing": "Enjoy a fun evening of laughter with Skits'n'Bits Improv as audience suggestions fuel unplanned and unscripted scenes of comedic surprises.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 40,
+                "name": "Skits'N'Bits",
+                "group_id": "grp_ad6507be-1878-48e3-ba57-043592de9da9",
+                "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
+                "logo_id": 164
+            },
+            "Poster": {
+                "id": 275,
+                "name": "Skits'N'Bits-logo.png",
+                "path": "uploads/events/2/15/"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 4,
+                "name": "Skits 'n' Bits Theatre",
+                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 16,
+            "name": "Vket Showcase",
+            "start_date": "2024-07-04T01:30:39.000Z",
+            "end_date": "2024-07-04T16:30:39.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 101,
+                "name": "VirtualMarket",
+                "group_id": "grp_b39cfe35-8a86-4454-ad2b-3649b3702793",
+                "description": "We're the largest virtual convention in the world, focused on promoting indy creators.",
+                "logo_id": 204
+            },
+            "Poster": null,
             "EventType": null,
             "Venue": null
         },
