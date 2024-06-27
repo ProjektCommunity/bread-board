@@ -13,7 +13,11 @@
             "event_ready": false,
             "project_id": 2,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 336,
+                "name": "PJKT-01.png",
+                "path": "uploads/events/2/1/"
+            },
             "EventType": null,
             "Venue": null
         },
