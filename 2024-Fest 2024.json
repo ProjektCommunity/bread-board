@@ -15,8 +15,7 @@
             "Community": null,
             "Poster": {
                 "id": 336,
-                "name": "PJKT-01.png",
-                "path": "uploads/events/2/1/"
+                "name": "PJKT-01.png"
             },
             "EventType": null,
             "Venue": null
@@ -89,8 +88,7 @@
             },
             "Poster": {
                 "id": 267,
-                "name": "Soaring Fitness-logo.png",
-                "path": "uploads/events/2/5/"
+                "name": "Soaring Fitness-logo.png"
             },
             "EventType": null,
             "Venue": null
@@ -116,8 +114,7 @@
             },
             "Poster": {
                 "id": 274,
-                "name": "Poolparol-01.png",
-                "path": "uploads/events/2/6/"
+                "name": "Poolparol-01.png"
             },
             "EventType": null,
             "Venue": {
@@ -150,8 +147,7 @@
             },
             "Poster": {
                 "id": 268,
-                "name": "Portal Media-logo.png",
-                "path": "uploads/events/2/7/"
+                "name": "Portal Media-logo.png"
             },
             "EventType": null,
             "Venue": {
@@ -184,8 +180,7 @@
             },
             "Poster": {
                 "id": 269,
-                "name": "The Synapse-logo.png",
-                "path": "uploads/events/2/8/"
+                "name": "The Synapse-logo.png"
             },
             "EventType": null,
             "Venue": null
@@ -252,8 +247,7 @@
             },
             "Poster": {
                 "id": 277,
-                "name": "Skits'N'Bits-logo.png",
-                "path": "uploads/events/2/11/"
+                "name": "Skits'N'Bits-logo.png"
             },
             "EventType": null,
             "Venue": null
@@ -279,8 +273,7 @@
             },
             "Poster": {
                 "id": 276,
-                "name": "No Friends Friends Club-logo.webp",
-                "path": "uploads/events/2/12/"
+                "name": "No Friends Friends Club-logo.webp"
             },
             "EventType": null,
             "Venue": null
@@ -306,8 +299,7 @@
             },
             "Poster": {
                 "id": 270,
-                "name": "KochÅ no Yakuza-logo.png",
-                "path": "uploads/events/2/13/"
+                "name": "KochÅ no Yakuza-logo.png"
             },
             "EventType": null,
             "Venue": null
@@ -350,8 +342,7 @@
             },
             "Poster": {
                 "id": 275,
-                "name": "Skits'N'Bits-logo.png",
-                "path": "uploads/events/2/15/"
+                "name": "Skits'N'Bits-logo.png"
             },
             "EventType": null,
             "Venue": {
@@ -431,8 +422,7 @@
             },
             "Poster": {
                 "id": 273,
-                "name": "VRDancing-logo.png",
-                "path": "uploads/events/2/18/"
+                "name": "VRDancing-logo.png"
             },
             "EventType": null,
             "Venue": null
