@@ -260,7 +260,14 @@
                 "name": "Skits'N'Bits-logo.png"
             },
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 4,
+                "name": "Skits 'n' Bits Theatre",
+                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
             "id": 12,
