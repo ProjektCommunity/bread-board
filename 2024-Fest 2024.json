@@ -124,6 +124,40 @@
                 "orgOwned": false,
                 "community_id": null
             }
+        },
+        {
+            "id": 7,
+            "name": "The Basics and Essentials of Cinematic Storytelling",
+            "start_date": "2024-06-30T19:00:44.000Z",
+            "end_date": "2024-06-30T20:00:44.000Z",
+            "marketing": "Wanna learn what it takes to make a film? Well then Gerzybow's got your back! With over 7+ years of video production experience, feel free to hop in as one of the Studio Executives at Portal Media demonstrates tips and tricks to telling your story in the most visually compelling ways possible!",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 15,
+                "name": "Portal Media",
+                "group_id": "grp_33456634-f728-4fd9-abf6-6e21996f39d1",
+                "description": "VRChat Film Studio",
+                "logo_id": 122
+            },
+            "Poster": {
+                "id": 268,
+                "name": "Portal Media-logo.png",
+                "path": "uploads/events/2/7/"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
