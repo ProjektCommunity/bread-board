@@ -212,6 +212,36 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 20,
+            "name": "Paraclete Program Showcase",
+            "start_date": "2024-07-01T23:00:19.000Z",
+            "end_date": "2024-07-02T00:00:19.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 35,
+                "name": "The Synapse",
+                "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
+                "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
+                "logo_id": 162
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
