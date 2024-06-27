@@ -185,6 +185,33 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 13,
+            "name": "Kocho no Boss Rush",
+            "start_date": "2024-07-01T18:00:53.000Z",
+            "end_date": "2024-07-01T20:00:53.000Z",
+            "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "Kochō no Yakuza is a VRChat roleplay community themed after the Yakuza game series and Japanese culture in general. The group was founded on 1st of September 2021 by Ginger Tea. They wish to provide, bring together and entertain. Providing a friendlier place for VRChat public to roleplay in is one of the aims they wish to achieve, alongside with helping other communities with bigger projects. Bringing together both new and veteran players who have nowhere else to go, educating people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place. Entertaining both the public and their people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to.",
+                "logo_id": 155
+            },
+            "Poster": {
+                "id": 270,
+                "name": "KochÅ no Yakuza-logo.png",
+                "path": "uploads/events/2/13/"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
