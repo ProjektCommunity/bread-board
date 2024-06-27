@@ -186,7 +186,14 @@
                 "name": "The Synapse-logo.png"
             },
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 5,
+                "name": "Game Night w/Synapse",
+                "url": "https://vrchat.com/home/world/wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+                "world_id": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
             "id": 9,
