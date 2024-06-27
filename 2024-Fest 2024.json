@@ -442,7 +442,14 @@
                 "name": "VRDancing-logo.png"
             },
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
         },
         {
             "id": 20,
