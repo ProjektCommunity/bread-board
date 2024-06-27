@@ -70,7 +70,10 @@
                 "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
                 "logo_id": 131
             },
-            "Poster": null,
+            "Poster": {
+                "id": 338,
+                "name": "Tournament_1_PJKT_Landscape_copy.png"
+            },
             "EventType": null,
             "Venue": null
         },
