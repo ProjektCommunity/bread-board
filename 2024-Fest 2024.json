@@ -40,6 +40,29 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 3,
+            "name": "Laserdome II Tournament",
+            "start_date": "2024-06-28T22:00:10.000Z",
+            "end_date": "2024-06-29T01:00:10.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 100,
+                "name": "xCirrex Media",
+                "group_id": "grp_402966f5-cfb6-4e86-906c-474960e72b70",
+                "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
+                "logo_id": 131
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
