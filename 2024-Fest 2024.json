@@ -214,6 +214,33 @@
             "Venue": null
         },
         {
+            "id": 18,
+            "name": "Dance Lesson w/ DustBunny",
+            "start_date": "2024-07-02T22:00:20.000Z",
+            "end_date": "2024-07-02T23:00:20.000Z",
+            "marketing": "Join DustBunny from VR Dance Academy for a one-hour dance lesson! This dance lesson will cover dance concepts, which will help improve your freestyle dancing!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 138,
+                "name": "VR Dance Academy",
+                "group_id": "grp_51ebfdd0-ed38-4d73-aa56-c16bd95d7856",
+                "description": "For those who are interested in VR Ballroom Dance Classes ＆ Social Dancing Eventsǃ",
+                "logo_id": 271
+            },
+            "Poster": {
+                "id": 273,
+                "name": "VRDancing-logo.png",
+                "path": "uploads/events/2/18/"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 20,
             "name": "Paraclete Program Showcase",
             "start_date": "2024-07-01T23:00:19.000Z",
