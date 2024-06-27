@@ -312,7 +312,14 @@
                 "name": "KochÅ no Yakuza-logo.png"
             },
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 6,
+                "name": "Kamurocho",
+                "url": "https://vrchat.com/home/world/wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "world_id": "wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
             "id": 14,
