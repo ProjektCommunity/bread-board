@@ -90,6 +90,40 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 6,
+            "name": "Pool Tournament with Pool Parlor",
+            "start_date": "2024-06-29T21:00:13.000Z",
+            "end_date": "2024-06-30T00:00:13.000Z",
+            "marketing": "Pool Parlor welcomes everyone to come grab a cue and join in a friendly tournament! 32 players will be playing against one another in hopes to be the winner! The Winner will get their picture in the world, the tournament winner cue, and a discord role! All participants and referees will get a special cue for playing in tournament.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 60,
+                "name": "Pool Parlor",
+                "group_id": "grp_f5fad4e3-9388-40e4-bda7-47fde177bee1",
+                "description": "The Pool Parlor is a community striving to make a strong connection with everyone and one of the best pool tables around! ",
+                "logo_id": 177
+            },
+            "Poster": {
+                "id": 274,
+                "name": "Poolparol-01.png",
+                "path": "uploads/events/2/6/"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 3,
+                "name": "Pool Parlor",
+                "url": "https://vrchat.com/home/world/wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
+                "world_id": "wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
+                "orgOwned": false,
+                "community_id": null
+            }
         }
     ]
 }
