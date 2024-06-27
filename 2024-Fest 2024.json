@@ -286,7 +286,14 @@
                 "name": "No Friends Friends Club-logo.webp"
             },
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 7,
+                "name": "No Friends Friends Club",
+                "url": "https://vrchat.com/home/world/wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "world_id": "wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
             "id": 13,
