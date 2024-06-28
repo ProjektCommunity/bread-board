@@ -485,6 +485,23 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 21,
+            "name": "MOKURI Meetup!",
+            "start_date": "2024-06-30T01:00:40.000Z",
+            "end_date": "2024-06-30T02:00:40.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
