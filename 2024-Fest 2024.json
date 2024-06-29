@@ -85,9 +85,9 @@
             "marketing": "Come get a taste of what Soaring Fitness has to offer! Sora and a team of VR fitness instructors will go over the basics of working out in VR, lead some routines that everyone can participate in, and explain how VR can become an integral part of your own personal fitness journey. All skill levels are welcome, and no extra equipment is required.",
             "stream_link": null,
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/zdpm5rjy",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 129,
