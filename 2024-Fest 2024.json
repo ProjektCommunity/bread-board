@@ -502,6 +502,33 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 22,
+            "name": "Algorithms & Team Building w/ SuperXavier",
+            "start_date": "2024-06-30T23:00:42.000Z",
+            "end_date": "2024-07-01T00:30:42.000Z",
+            "marketing": "Join SuperXavier as he discusses tips & tricks for using the YouTube Algorithm to your advantage and his methods of building healthy team relationships!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 339,
+                "name": "SuperXavier_Event.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
