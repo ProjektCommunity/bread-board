@@ -462,7 +462,7 @@
             "start_date": "2024-07-01T23:00:19.000Z",
             "end_date": "2024-07-02T00:00:19.000Z",
             "marketing": "Come get a sneak peek and early access to an upcoming role-play community that is themed around angels in a mythical heaven-like world called The Synapse. Learn about the story development and the history of The Synapse community and how they came to be! This might just be your next roleplay community.",
-            "stream_link": null,
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
             "instance_url": null,
             "event_public": true,
@@ -475,7 +475,10 @@
                 "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
                 "logo_id": 162
             },
-            "Poster": null,
+            "Poster": {
+                "id": 344,
+                "name": "PJKT_Summer_2024_APP_Poster_FINAL.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
