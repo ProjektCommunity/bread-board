@@ -464,9 +464,9 @@
             "marketing": "Come get a sneak peek and early access to an upcoming role-play community that is themed around angels in a mythical heaven-like world called The Synapse. Learn about the story development and the history of The Synapse community and how they came to be! This might just be your next roleplay community.",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/wsy26ab9",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 35,
