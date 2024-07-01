@@ -535,15 +535,18 @@
             "name": "PJKT: INK Speaker: GoFluffYaself",
             "start_date": "2024-07-01T21:00:37.000Z",
             "end_date": "2024-07-01T22:00:37.000Z",
-            "marketing": null,
-            "stream_link": null,
+            "marketing": "Come by to our first Projekt: INK Talk hosted by GoFluffYaself, he'll be discussing Avatar PvP, it's development, and the impact it's had over various communities! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
             "project_id": 2,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 343,
+                "name": "ink-02.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
