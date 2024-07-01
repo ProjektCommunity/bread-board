@@ -538,9 +538,9 @@
             "marketing": "Come by to our first Projekt: INK Talk hosted by GoFluffYaself, he'll be discussing Avatar PvP, it's development, and the impact it's had over various communities! ",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/q3ab346h",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
