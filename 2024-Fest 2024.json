@@ -317,9 +317,9 @@
             "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
             "stream_link": "https://www.twitch.tv/projektcommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/pz4rjjgf",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 6,
