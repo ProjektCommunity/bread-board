@@ -568,9 +568,9 @@
             "marketing": "It's time for our second PJKT: INK talk! Come and listen to DX_30 discuss his most recent projects including, Camera Path, DX Overlay, Holospace, and more!",
             "stream_link": " https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/dhhr6m4m",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
