@@ -633,6 +633,32 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 34,
+            "name": "Operation: Iron Exodus",
+            "start_date": "2024-07-03T03:00:15.000Z",
+            "end_date": "2024-07-03T05:00:15.000Z",
+            "marketing": "A L.A.B. Unit Joint operation (milsim RP event)\r\n\r\nIn the year 2043, a JTF Formed by L.A.B. Unit was put together for a contract to Retrieve a NFFA Government official from South American Federation custody in a maximum-security prison. Tensions are high and actions need to be taken quickly.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": {
+                "id": 32,
+                "name": "LAB Unit",
+                "group_id": "grp_415e8d11-bb5a-49bb-af7e-eacd1b729429",
+                "description": "L.A.B. UNIT is an active PMC Roleplay group for those who don't want too many boundaries on personal characters and strive for a good standing with other groups. We host private roleplay events, joint operations, contracts with other mil-sim/roleplay communities, and handle everything from basic security to existential threats.",
+                "logo_id": 319
+            },
+            "Poster": {
+                "id": 346,
+                "name": "Picsart_23-01-16_20-54-00-914.png"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
