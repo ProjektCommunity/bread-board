@@ -407,9 +407,9 @@
             "marketing": "A panel talk with Wolveeps and PJKT media staff members as they explain the behind-the-scenes of PJKT Media production. Down to how they operate, what discoveries they have made this past year, and what is next in the upcoming horizon! Come and join us to see what PJKT media has to offer! ",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/7ayc9tma",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
