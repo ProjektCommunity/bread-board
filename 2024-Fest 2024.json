@@ -561,6 +561,30 @@
             }
         },
         {
+            "id": 24,
+            "name": "PJKT: INK Speaker: DX",
+            "start_date": "2024-07-02T20:00:00.000Z",
+            "end_date": "2024-07-02T21:00:00.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
             "id": 25,
             "name": "Community Interviews!",
             "start_date": "2024-07-03T18:00:27.000Z",
