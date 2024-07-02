@@ -412,7 +412,10 @@
             "event_ready": false,
             "project_id": 2,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 349,
+                "name": "BIGFUCK_copy-05.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
