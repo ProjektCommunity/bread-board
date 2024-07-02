@@ -431,9 +431,9 @@
             "marketing": "Join DustBunny from VR Dance Academy for a one-hour dance lesson! This dance lesson will cover dance concepts, which will help improve your freestyle dancing!",
             "stream_link": "https://www.twitch.tv/projektcommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/7ayc9tma",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 138,
