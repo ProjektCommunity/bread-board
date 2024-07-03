@@ -696,9 +696,9 @@
             "marketing": "A L.A.B. Unit Joint operation (milsim RP event)\r\n\r\nIn the year 2043, a JTF Formed by L.A.B. Unit was put together for a contract to Retrieve a NFFA Government official from South American Federation custody in a maximum-security prison. Tensions are high and actions need to be taken quickly.",
             "stream_link": "https://www.twitch.tv/kaoskarasu",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/0tu0v0m5",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 32,
