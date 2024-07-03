@@ -625,9 +625,9 @@
             "marketing": "Join us for an Animation Particle Show featuring Live Dance and Storylike performances from Terminus!",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/kmwwg25d",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
