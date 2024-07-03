@@ -592,10 +592,10 @@
         },
         {
             "id": 25,
-            "name": "Community Interviews!",
+            "name": "Community Interviews! Pt. 1",
             "start_date": "2024-07-03T18:00:27.000Z",
             "end_date": "2024-07-03T20:00:27.000Z",
-            "marketing": null,
+            "marketing": "Come by and watch our Media Team Interview the various representatives of the communities exhibiting this year! ",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
             "instance_url": null,
