@@ -598,9 +598,9 @@
             "marketing": "Come by and watch our Media Team Interview the various representatives of the communities exhibiting this year! ",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=Community_Interviews__Pt__1~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
