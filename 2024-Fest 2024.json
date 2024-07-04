@@ -645,9 +645,9 @@
             "marketing": "Join us in Vket's Weekly Wednesday World Hop! Come by and hang out with the Vket Global Team as they explore PJKT! ",
             "stream_link": "https://www.twitch.tv/vketchannel",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/zjza802m",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 101,
