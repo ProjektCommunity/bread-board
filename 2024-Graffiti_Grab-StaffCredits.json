@@ -3,26 +3,6 @@
         {
             "departments": [
                 {
-                    "department": "Information Technology",
-                    "jobTitles": [
-                        "Director",
-                        "Back End Developer"
-                    ]
-                },
-                {
-                    "department": "Development",
-                    "jobTitles": []
-                },
-                {
-                    "department": "Events",
-                    "jobTitles": []
-                }
-            ],
-            "user": "Pixel Byte"
-        },
-        {
-            "departments": [
-                {
                     "department": "Media",
                     "jobTitles": [
                         "Director"
@@ -80,6 +60,25 @@
                 }
             ],
             "user": "Onetwostep"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Director",
+                        "Social Crew",
+                        "Art Crew"
+                    ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
+                }
+            ],
+            "user": "death_map"
         }
     ]
 }

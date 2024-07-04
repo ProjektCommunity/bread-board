@@ -147,6 +147,12 @@
                         "Social Crew",
                         "Art Crew"
                     ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
                 }
             ],
             "user": "death_map"
