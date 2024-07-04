@@ -656,7 +656,10 @@
                 "description": "We're the largest virtual convention in the world, focused on promoting indy creators.",
                 "logo_id": 204
             },
-            "Poster": null,
+            "Poster": {
+                "id": 351,
+                "name": "VKET-WorldHop-05.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
