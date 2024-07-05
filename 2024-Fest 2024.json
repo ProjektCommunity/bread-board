@@ -678,9 +678,9 @@
             "marketing": "It's time for our third an final PJKT: INK talk! Come and listen to the ArgusVRC Team discuss their Project Aincrad! The recreation of SAO in VRChat!",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/wqemdf80",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": null,
             "Poster": {
