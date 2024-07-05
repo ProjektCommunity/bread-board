@@ -675,7 +675,7 @@
             "name": "PJKT: INK Speaker: ArgusVRC",
             "start_date": "2024-07-05T19:00:16.000Z",
             "end_date": "2024-07-05T20:00:16.000Z",
-            "marketing": null,
+            "marketing": "It's time for our third an final PJKT: INK talk! Come and listen to the ArgusVRC Team discuss their Project Aincrad! The recreation of SAO in VRChat!",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
             "instance_url": null,
@@ -683,7 +683,10 @@
             "event_ready": false,
             "project_id": 2,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 352,
+                "name": "ink-02.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
