@@ -374,9 +374,9 @@
             "marketing": "Enjoy a fun evening of laughter with Skits'n'Bits Improv as audience suggestions fuel unplanned and unscripted scenes of comedic surprises.",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/h4cwcfjm",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 40,
