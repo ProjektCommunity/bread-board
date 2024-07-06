@@ -284,9 +284,9 @@
             "marketing": "The No Friends Friends Club is an inclusive group for those who struggle with social anxiety. They host events, game nights, meetings and share information to help each other grow socially and learn to manage their social lives.",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/azzxaprf",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 131,
