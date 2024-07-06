@@ -278,11 +278,11 @@
         },
         {
             "id": 12,
-            "name": "No Friends Friends Club Introduction",
+            "name": "No Friends Friends Club Introduction!",
             "start_date": "2024-07-06T19:00:45.000Z",
             "end_date": "2024-07-06T20:00:45.000Z",
             "marketing": "The No Friends Friends Club is an inclusive group for those who struggle with social anxiety. They host events, game nights, meetings and share information to help each other grow socially and learn to manage their social lives.",
-            "stream_link": null,
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
             "instance_url": null,
             "event_public": true,
@@ -296,8 +296,8 @@
                 "logo_id": 231
             },
             "Poster": {
-                "id": 276,
-                "name": "No Friends Friends Club-logo.webp"
+                "id": 354,
+                "name": "NFFC_PANEL.png"
             },
             "EventType": null,
             "Venue": {
