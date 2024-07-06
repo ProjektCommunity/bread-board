@@ -251,9 +251,9 @@
             "marketing": "Join Skits'n'Bits for an introductory improv workshop to learn the basics of improvisation, enhance your creativity, and enjoy spontaneous collaboration in a fun and supportive environment!",
             "stream_link": null,
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/k67967bj",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 40,
