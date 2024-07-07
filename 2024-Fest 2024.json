@@ -710,7 +710,10 @@
             "event_ready": false,
             "project_id": 2,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 356,
+                "name": "Community_interview_.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 2,
