@@ -47,7 +47,7 @@
             "quest": false,
             "instance_url": null,
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 3,
             "Community": {
                 "id": 40,
