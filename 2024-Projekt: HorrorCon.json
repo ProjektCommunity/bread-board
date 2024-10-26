@@ -42,8 +42,8 @@
             "name": "Skits 'n' Bits Improv Show",
             "start_date": "2024-10-26T22:00:27.000Z",
             "end_date": "2024-10-26T23:00:27.000Z",
-            "marketing": null,
-            "stream_link": null,
+            "marketing": "Join us in HorrorCon Group Instance #92109 for the Skits'n'Bits Improv Show!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
             "instance_url": null,
             "event_public": true,
@@ -56,7 +56,10 @@
                 "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
                 "logo_id": 164
             },
-            "Poster": null,
+            "Poster": {
+                "id": 424,
+                "name": "World-Skits-'n-Bits-Theatre-Fami.file_1f315886-1d57-4c58-8749-64988ce9836d.1.png"
+            },
             "EventType": null,
             "Venue": null
         },
