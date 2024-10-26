@@ -22,7 +22,7 @@
             "name": "Tarot Card Readings",
             "start_date": "2024-10-26T20:30:23.000Z",
             "end_date": "2024-10-26T21:30:23.000Z",
-            "marketing": "hi",
+            "marketing": "Join us for Tarot Card Readings with Madame Macabre & Incognootle!",
             "stream_link": null,
             "quest": true,
             "instance_url": null,
@@ -30,7 +30,10 @@
             "event_ready": false,
             "project_id": 3,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 423,
+                "name": "Capmmmmmmmmmmmmmmmture.PNG"
+            },
             "EventType": null,
             "Venue": null
         },
