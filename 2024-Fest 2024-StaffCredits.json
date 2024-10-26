@@ -23,17 +23,17 @@
         {
             "departments": [
                 {
-                    "department": "Development",
+                    "department": "Business and Finance",
                     "jobTitles": [
-                        "Business",
-                        "Game Engineer"
+                        "Director",
+                        "Game Engineer",
+                        "Business"
                     ]
                 },
                 {
-                    "department": "Business and Finance",
+                    "department": "Development",
                     "jobTitles": [
                         "Game Engineer",
-                        "Director",
                         "Business"
                     ]
                 }
@@ -55,16 +55,16 @@
         {
             "departments": [
                 {
-                    "department": "Development",
+                    "department": "Media",
                     "jobTitles": [
-                        "Environmental Artist"
+                        "Music Crew",
+                        "Media Research & Development Crew"
                     ]
                 },
                 {
-                    "department": "Media",
+                    "department": "Development",
                     "jobTitles": [
-                        "Media Research & Development Crew",
-                        "Music Crew"
+                        "Environmental Artist"
                     ]
                 }
             ],
@@ -76,8 +76,8 @@
                     "department": "Media",
                     "jobTitles": [
                         "Team Leader",
-                        "Social Crew",
-                        "Media Administrations"
+                        "Media Administrations",
+                        "Social Crew"
                     ]
                 }
             ],
@@ -89,8 +89,8 @@
                     "department": "Media",
                     "jobTitles": [
                         "Production Crew",
-                        "Live Engineer",
                         "Live Crew",
+                        "Live Engineer",
                         "Actor crew"
                     ]
                 }
@@ -103,10 +103,10 @@
                     "department": "Media",
                     "jobTitles": [
                         "Production Crew",
-                        "Art Crew",
                         "Social Crew",
-                        "Actor crew",
-                        "Sound Design Crew"
+                        "Sound Design Crew",
+                        "Art Crew",
+                        "Actor crew"
                     ]
                 }
             ],
@@ -251,17 +251,17 @@
         {
             "departments": [
                 {
-                    "department": "Events",
+                    "department": "Media",
                     "jobTitles": [
-                        "Event Coordinator"
+                        "Music Crew",
+                        "Sound Design Crew",
+                        "Art Crew"
                     ]
                 },
                 {
-                    "department": "Media",
+                    "department": "Events",
                     "jobTitles": [
-                        "Art Crew",
-                        "Music Crew",
-                        "Sound Design Crew"
+                        "Event Coordinator"
                     ]
                 }
             ],

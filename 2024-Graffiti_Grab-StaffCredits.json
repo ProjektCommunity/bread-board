@@ -45,17 +45,17 @@
         {
             "departments": [
                 {
-                    "department": "Events",
+                    "department": "Media",
                     "jobTitles": [
-                        "Event Coordinator"
+                        "Music Crew",
+                        "Sound Design Crew",
+                        "Art Crew"
                     ]
                 },
                 {
-                    "department": "Media",
+                    "department": "Events",
                     "jobTitles": [
-                        "Art Crew",
-                        "Music Crew",
-                        "Sound Design Crew"
+                        "Event Coordinator"
                     ]
                 }
             ],

@@ -1,3 +1,551 @@
 {
-    "credits": []
+    "credits": [
+        {
+            "community": {
+                "id": 1,
+                "name": "Local Police Department",
+                "group_id": "grp_d594f074-ea42-4f47-bc68-b96f4ad2eda0",
+                "description": "Welcome the LPD, one of VRChats oldest and largest roleplaying groups bringing entertainment to public lobbies since 2018. The LPD hosts daily VRChat events where officers are assigned to a squad to create roleplay scenarios in public lobbies, themed around interactions with the public and emergency services. Due to the nature of improv, anything can happen during these events. From drug busts and shootouts, to checking mirror dwelling licenses. \n\nTo join the LPD check out the recruitment channel on our Discord at <color=#7289daff>discord.gg/lpd</color>. There you will find the application form as well as our handbook which is packed with all kinds of important information. Once accepted you will go through cadet training, before jumping into patrolling VRChat as an official LPD officer. When you have some experience under your belt you can take additional training to move up the ranks or specialize into other kinds of roleplay that we offer.\n\nPatrol officers will arrest people and bring them to the LPD station to take their mugshot that then gets posted on our discord server for everyone to see. If they choose to not come quietly we have our swat team, known as SLRT, to help persuade them. Once the suspect has been processed they will be handed over to our Corrections Officers and given a nice new home in the LPD Prison with all the other prisoners. And if anyone gets hurt in the process they can be treated by the LMT at our Hospital. To find out how you can help keep the streets of VRChat safe, join our Discord or follow us on Twitter @LPD_vr.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-20T16:12:01.000Z",
+                "deletedAt": null,
+                "logo_id": 134
+            },
+            "members": [
+                {
+                    "username": "Karet"
+                },
+                {
+                    "username": "pesky12"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "Kochō no Yakuza is a VRChat roleplay community themed after the Yakuza game series and Japanese culture in general. The group was founded on 1st of September 2021 by Ginger Tea. They wish to provide, bring together and entertain. Providing a friendlier place for VRChat public to roleplay in is one of the aims they wish to achieve, alongside with helping other communities with bigger projects. Bringing together both new and veteran players who have nowhere else to go, educating people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place. Entertaining both the public and their people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T01:01:55.000Z",
+                "deletedAt": null,
+                "logo_id": 155
+            },
+            "members": [
+                {
+                    "username": "Euky"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 105,
+                "name": "Forjadores Hispanic community of VRChat",
+                "group_id": "grp_36c41a0d-40dc-4e07-bd50-4bb4f53abed0",
+                "description": "We are a community of Hispanic creators that gets together to help and share knowledge about worlds, avatars and general content for VRChat. We have regular events on Sundays and or o big event called \"Forjaversario\" where we celebrate the anniversary of our community. ",
+                "createdAt": "2024-06-12T21:24:50.000Z",
+                "updatedAt": "2024-06-21T02:14:36.000Z",
+                "deletedAt": null,
+                "logo_id": 208
+            },
+            "members": [
+                {
+                    "username": "ForjadoresHispanos"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 125,
+                "name": "Fractured Thrones",
+                "group_id": "grp_0cb15b45-5ea7-43ed-b684-281801f320e5",
+                "description": "Fractured Thrones is a low-fantasy medieval roleplay inspired by LOTR‚ and Warhammer Fantasy‚ and created by Mr․ Brunswick․ It is comprised of many different role-players‚ custom assets‚ and tons of hard work and dedication․ We welcome new facesǃ",
+                "createdAt": "2024-06-13T00:05:03.000Z",
+                "updatedAt": "2024-06-21T02:29:25.000Z",
+                "deletedAt": null,
+                "logo_id": 228
+            },
+            "members": [
+                {
+                    "username": "death_map"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 115,
+                "name": "Studio Penrose",
+                "group_id": "grp_97ee3f29-2f38-4c1d-9e3e-a2483b2561b2",
+                "description": "Studio Penrose is an independent VR film studio striving to make new and unique lore-driven stories. The group is comprised of many members of all backgrounds who work together to create films for all audiences to enjoy. ",
+                "createdAt": "2024-06-12T21:53:24.000Z",
+                "updatedAt": "2024-06-21T02:19:22.000Z",
+                "deletedAt": null,
+                "logo_id": 216
+            },
+            "members": [
+                {
+                    "username": "PeachBight"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 9,
+                "name": "1st Imperial Guards Army",
+                "group_id": "grp_c4b5ba45-b82e-4ee6-8b2e-c481f88ced93",
+                "description": "Welcome to the 1st Imperial Guards Army!\r\n\r\nWe’re an alternate history WW1-military VRChat roleplay group.\r\n\r\nWe host weekly immersive RP events in the Kingdom of Prussia;\r\nDaily Life of Soldiers\r\nCombat RP\r\nMilitary Training\r\nCeremonies\r\n\r\nFrom epic battles in the front lines, to infiltrating enemy positions, or simply living out the daily life of a soldier, our events tell an ongoing narrative which is influenced by all of our members. Want to know more? If rising the ranks, serving the true King, and wearing good-looking uniforms appeals to you, then the 1st Imperial Guards Army is the place for you!\r\n\r\n- https://discord.gg/ZMP49H3zSY\r\n\r\nJoin now, become part of our growing community, and leave your mark on the 1st Imperial Guards Army!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:27:52.000Z",
+                "deletedAt": null,
+                "logo_id": 156
+            },
+            "members": [
+                {
+                    "username": "Gustav#7720"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 18,
+                "name": "666 Kitchen",
+                "group_id": "grp_812cc780-312a-4794-a559-5600618638f7",
+                "description": "We are VRChat's finest dining experience.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T01:02:42.000Z",
+                "deletedAt": null,
+                "logo_id": 158
+            },
+            "members": [
+                {
+                    "username": "Betty"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 160,
+                "name": "Lady Spookaria",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "LadySpookaria"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 165,
+                "name": "Midnight Researcher",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "MResearch_YT"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 158,
+                "name": "TubeToad Art",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "TubeToad"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 157,
+                "name": "Stink House Studio",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "StinkyTreen"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 152,
+                "name": "SlashCo VR",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Mantibro"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 148,
+                "name": "The Virtual Gauntlet",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Codeadvanced"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 164,
+                "name": "Xenohybrida",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "xenohybrida"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 171,
+                "name": "Sky's Creators",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "SkyBluefin"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 153,
+                "name": "Sefer Yetzirah",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Tips"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 70,
+                "name": "Uganda",
+                "group_id": "grp_4d71eca0-e978-4bb1-8693-8b347f39dab7",
+                "description": "Do u kno de wey? Clucking since 2017",
+                "createdAt": "2024-05-25T00:46:03.000Z",
+                "updatedAt": "2024-06-21T01:31:27.000Z",
+                "deletedAt": null,
+                "logo_id": 188
+            },
+            "members": [
+                {
+                    "username": "Legoman99573"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 156,
+                "name": "Roman Empire",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Lightningsnow"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 2,
+                "name": "Blue Star",
+                "group_id": "grp_df3d13cc-0bcc-4d4a-a011-c51fe616a8bb",
+                "description": "Blue Star is a VRChat roleplay community that displays a mix of vibrant and colourful themes inspired by games like Blue Archive and twists it by throwing in mysterious and dangerous entities inspired by those you would see in works such as the SCP archives or Lobotomy Corporation.\r\n\r\nYou work for Blue Star, a corporation that publicly displays itself as a security and research organisation, but behind closed doors they are dedicated to the research of the mysterious \"Rifts\" and the abnormalities that come from within them.\r\n\r\nPerhaps you are just a simple civilian looking for work when you stumbled across this company, or maybe you had an encounter with an abnormality which led to you discovering us, or maybe you have come from a rift yourself and find yourself seeking answers?\r\n\r\nWhatever the case, Blue Star is here to uncover the mysteries that await us beyond the veil and beyond what we understand as reality.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:23:40.000Z",
+                "deletedAt": null,
+                "logo_id": 153
+            },
+            "members": [
+                {
+                    "username": "Frozen Fire"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 169,
+                "name": "CosmicCosmas Nebulous Art",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "CosmicCosma"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 167,
+                "name": "Raujinn's Avatar Workshop",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "raujinn"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 150,
+                "name": "Wishes",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Wishes95"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 143,
+                "name": "Phoenix academy",
+                "group_id": "grp_64082d28-c099-4677-aa76-20a5edbee421 ",
+                "description": "Phoenix Academy is a VR language learning group, At Phoenix Academy, we are committed to providing you with an immersive English language learning experience through role-playing situations. Our goal is for you, the students, to speak English in a safe and encouraging environment for all ages.\n\nOur students have the opportunity to interact with native English speakers who are here to help and motivate them to practice and improve their language skills.\n\nClasses take place every other Wednesday, but we are working to increase the frequency and offer even more learning opportunities.\n\nJoin us at Phoenix Academy and discover how learning English can be exciting, challenging, and fun. We look forward to seeing your progress and success on this linguistic journey!\n",
+                "createdAt": "2024-10-02T16:44:00.000Z",
+                "updatedAt": "2024-10-02T20:55:38.000Z",
+                "deletedAt": null,
+                "logo_id": 358
+            },
+            "members": [
+                {
+                    "username": "Uranic"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 162,
+                "name": "ImaginemonsterVi",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Imaginemonstervi"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 49,
+                "name": "Traveling Circus",
+                "group_id": "grp_d1235214-759e-4ede-a794-9abe17825ddc",
+                "description": "A group of people who like to entertain as well as a place for those interested in becoming an audience member who's applicable to receive such entertainment! If either of these is true The Circus is for you!",
+                "createdAt": "2024-05-22T20:30:51.000Z",
+                "updatedAt": "2024-06-21T01:08:39.000Z",
+                "deletedAt": null,
+                "logo_id": 170
+            },
+            "members": [
+                {
+                    "username": "downlyric"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "createdAt": "2024-06-04T08:03:40.000Z",
+                "updatedAt": "2024-06-21T01:53:59.000Z",
+                "deletedAt": null,
+                "logo_id": 199
+            },
+            "members": [
+                {
+                    "username": "AstrixZ"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 50,
+                "name": "Noved Squad",
+                "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
+                "description": "Home of the Noved Notes Podcastǃ\r\nA VRChat Podcast that talks about the amazing creators of VRChatǃ\r\n\r\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ\r\n\r\nOverall we just like to have funǃ",
+                "createdAt": "2024-05-22T20:37:01.000Z",
+                "updatedAt": "2024-06-21T01:10:39.000Z",
+                "deletedAt": null,
+                "logo_id": 171
+            },
+            "members": [
+                {
+                    "username": "NovedPlayer"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 172,
+                "name": "Megabyte (Spike & Gen)",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "mrcreepypasta"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 173,
+                "name": "PinkEnigma Art",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-18T02:03:42.000Z",
+                "updatedAt": "2024-10-18T02:03:42.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "PinkEnigma"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 154,
+                "name": "Yukio's World Works",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "yukio okumura"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 155,
+                "name": "Pandemonium Of Fear",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "thesweetist"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 161,
+                "name": "ToyRabbitToys",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "toyrabbittoys"
+                }
+            ]
+        }
+    ]
 }
