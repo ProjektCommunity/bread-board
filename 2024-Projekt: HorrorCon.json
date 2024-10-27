@@ -142,7 +142,7 @@
             "name": "Haunted World Hop\t",
             "start_date": "2024-10-27T20:30:02.000Z",
             "end_date": "2024-10-27T21:30:02.000Z",
-            "marketing": null,
+            "marketing": "It's time for our World Hop! We'll be exploring some of the Spookality Showcase Worlds and ending off with our Vket's Komorisaki Village! \r\n\r\nWe'll be starting in Instance #96101!",
             "stream_link": null,
             "quest": false,
             "instance_url": null,
@@ -150,7 +150,10 @@
             "event_ready": false,
             "project_id": 3,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 427,
+                "name": "Skull Boi 2.0.1.png"
+            },
             "EventType": null,
             "Venue": null
         },
