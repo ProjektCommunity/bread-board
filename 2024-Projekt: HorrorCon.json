@@ -122,15 +122,18 @@
             "name": "Storytime w/ MrCreepyPasta!",
             "start_date": "2024-10-27T19:00:26.000Z",
             "end_date": "2024-10-27T20:00:26.000Z",
-            "marketing": null,
-            "stream_link": null,
+            "marketing": "It's time to listen to some spooOOooOOooOoky stories from MrCreepPasta! Join us in Instance #49127!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
             "project_id": 3,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 426,
+                "name": "IMG_1493.png"
+            },
             "EventType": null,
             "Venue": null
         },
