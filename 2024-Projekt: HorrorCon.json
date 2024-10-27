@@ -182,15 +182,18 @@
             "name": "\"Where Withered Flowers Grow\" Showcase\t",
             "start_date": "2024-10-27T23:30:48.000Z",
             "end_date": "2024-10-28T00:30:48.000Z",
-            "marketing": null,
-            "stream_link": null,
+            "marketing": "Come by and watch \"Where Withered Flowers Grow\" a VR Short Film created by D_Ghostly! \r\nWe'll have a Q&A after the screening!\r\n\r\nJoin us in Group Instance #49127!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
             "project_id": 3,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 430,
+                "name": "Picsart_24-10-26_10-21-58-917.png"
+            },
             "EventType": null,
             "Venue": null
         },
