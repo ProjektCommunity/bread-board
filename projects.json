@@ -17,6 +17,12 @@
             "eventsURL": "2024-Projekt: HorrorCon.json",
             "boothCreditsURL": "2024-Projekt: HorrorCon-BoothCredits.json",
             "staffCreditsURL": "2024-Projekt: HorrorCon-StaffCredits.json"
+        },
+        {
+            "projectName": "Fest 2025",
+            "eventsURL": "2025-Fest 2025.json",
+            "boothCreditsURL": "2025-Fest 2025-BoothCredits.json",
+            "staffCreditsURL": "2025-Fest 2025-StaffCredits.json"
         }
     ]
 }
