@@ -8,9 +8,9 @@
             "marketing": "Please ignore this event",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
-            "instance_url": null,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=This_is_a_Test_of_PJKT_Event_System~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 4,
             "Community": {
                 "id": 45,
