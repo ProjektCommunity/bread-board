@@ -782,6 +782,39 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 50,
+            "name": "PJKT Filming Test of Event System",
+            "start_date": "2025-06-15T00:00:16.000Z",
+            "end_date": "2025-06-15T02:30:16.000Z",
+            "marketing": "Please Ignore this Event, We are testing our system and using it for recording demo",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=PJKT_Filming_Test_of_Event_System~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(members)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 15,
+                "name": "Portal Media",
+                "group_id": "grp_33456634-f728-4fd9-abf6-6e21996f39d1",
+                "description": "VRChat Film Studio",
+                "logo_id": 122
+            },
+            "Poster": {
+                "id": 884,
+                "name": "PJKT-Falling-Revi-NaixEvoxy-v01-2.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
