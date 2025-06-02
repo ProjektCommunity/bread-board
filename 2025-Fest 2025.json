@@ -1,21 +1,3 @@
 {
-    "events": [
-        {
-            "id": 48,
-            "name": "test",
-            "start_date": "2025-06-18T22:30:36.000Z",
-            "end_date": "2025-06-19T01:00:36.000Z",
-            "marketing": "test",
-            "stream_link": "https://twitch.tv/ProjektCommunity",
-            "quest": false,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": true,
-            "project_id": 4,
-            "Community": null,
-            "Poster": null,
-            "EventType": null,
-            "Venue": null
-        }
-    ]
+    "events": []
 }
