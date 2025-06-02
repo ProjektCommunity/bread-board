@@ -25,9 +25,9 @@
                 "id": 6,
                 "name": "Kochō no Yakuza",
                 "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
-                "description": "Kochō no Yakuza is a VRChat roleplay community themed after the Yakuza game series and Japanese culture in general. The group was founded on 1st of September 2021 by Ginger Tea. They wish to provide, bring together and entertain. Providing a friendlier place for VRChat public to roleplay in is one of the aims they wish to achieve, alongside with helping other communities with bigger projects. Bringing together both new and veteran players who have nowhere else to go, educating people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place. Entertaining both the public and their people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to.",
+                "description": "We are a roleplay VRChat community themed after the Yakuza game series and Japanese culture in general. We wish to provide, bring together and entertain. \n\nProviding a friendlier place for VRChat public to roleplay in is one of the aims we wish to achieve, alongside with helping other communities with bigger projects.\n\nBringing together both new and veteran players who have nowhere else to go, educate people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place.\n\nEntertaining both the public and our own people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to. \n",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-06-21T01:01:55.000Z",
+                "updatedAt": "2025-03-28T15:43:50.000Z",
                 "deletedAt": null,
                 "logo_id": 155
             },
@@ -42,9 +42,9 @@
                 "id": 105,
                 "name": "Forjadores Hispanic community of VRChat",
                 "group_id": "grp_36c41a0d-40dc-4e07-bd50-4bb4f53abed0",
-                "description": "We are a community of Hispanic creators that gets together to help and share knowledge about worlds, avatars and general content for VRChat. We have regular events on Sundays and or o big event called \"Forjaversario\" where we celebrate the anniversary of our community. ",
+                "description": "We are a community of Hispanic creators that gets together to help and share knowledge about worlds, avatars and general content for VRChat. We have regular events on Sundays and our big event called \"Forjaversario\" where we celebrate the anniversary of our community. ",
                 "createdAt": "2024-06-12T21:24:50.000Z",
-                "updatedAt": "2024-06-21T02:14:36.000Z",
+                "updatedAt": "2025-03-28T15:45:08.000Z",
                 "deletedAt": null,
                 "logo_id": 208
             },
@@ -91,34 +91,17 @@
         {
             "community": {
                 "id": 9,
-                "name": "1st Imperial Guards Army",
+                "name": "1st Weimar Republic",
                 "group_id": "grp_c4b5ba45-b82e-4ee6-8b2e-c481f88ced93",
-                "description": "Welcome to the 1st Imperial Guards Army!\r\n\r\nWe’re an alternate history WW1-military VRChat roleplay group.\r\n\r\nWe host weekly immersive RP events in the Kingdom of Prussia;\r\nDaily Life of Soldiers\r\nCombat RP\r\nMilitary Training\r\nCeremonies\r\n\r\nFrom epic battles in the front lines, to infiltrating enemy positions, or simply living out the daily life of a soldier, our events tell an ongoing narrative which is influenced by all of our members. Want to know more? If rising the ranks, serving the true King, and wearing good-looking uniforms appeals to you, then the 1st Imperial Guards Army is the place for you!\r\n\r\n- https://discord.gg/ZMP49H3zSY\r\n\r\nJoin now, become part of our growing community, and leave your mark on the 1st Imperial Guards Army!",
+                "description": "Welcome to the 1st Weimar Republic!\n\nWe’re an alternate history VRChat roleplay group based around 1920's Interwar Germany.\n\nWe host weekly immersive RP events in the Weimar Republic;\nDaily Life of Soldiers\nCombat RP\nMilitary Training\nCeremonies\n\nFrom fighting in the street and countryside against uprisings to simply living out the daily life of a soldier, our events tell an ongoing narrative influenced by all of our members. Want to know more? If Immersive RP, Alt-History or History, and an interesting story appeal to you, then the 1st Weimar Republic is the place for you!\n\nhttps://discord.gg/ZMP49H3zSY\n\nJoin now, become part of our growing community, and leave your mark upon the Republic!",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-06-21T00:27:52.000Z",
+                "updatedAt": "2025-02-07T20:32:57.000Z",
                 "deletedAt": null,
                 "logo_id": 156
             },
             "members": [
                 {
                     "username": "Gustav#7720"
-                }
-            ]
-        },
-        {
-            "community": {
-                "id": 18,
-                "name": "666 Kitchen",
-                "group_id": "grp_812cc780-312a-4794-a559-5600618638f7",
-                "description": "We are VRChat's finest dining experience.",
-                "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-06-21T01:02:42.000Z",
-                "deletedAt": null,
-                "logo_id": 158
-            },
-            "members": [
-                {
-                    "username": "Betty"
                 }
             ]
         },
@@ -211,12 +194,12 @@
             "community": {
                 "id": 148,
                 "name": "The Virtual Gauntlet",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_85f7294d-6cf7-4319-847a-a3e7e8db1243",
+                "description": "The Virtual Gauntlet is a VR game show hosted in VRChat where two teams of four compete in fast-paced, skill-based obstacle course challenges. The show runs in seasons with a strong cyberpunk theme and features unique games like Dodge Wall, Rift Rush, and Grid Lock. We record and stream the matches, promote the teams involved, and offer in-world prizes like trophies and group shoutouts. It's built to spotlight player communities, bring hype energy to VR gaming, and create something exciting for both players and viewers.",
                 "createdAt": "2024-10-16T20:20:06.000Z",
-                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-05-14T18:18:07.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 473
             },
             "members": [
                 {
@@ -314,9 +297,9 @@
                 "id": 2,
                 "name": "Blue Star",
                 "group_id": "grp_df3d13cc-0bcc-4d4a-a011-c51fe616a8bb",
-                "description": "Blue Star is a VRChat roleplay community that displays a mix of vibrant and colourful themes inspired by games like Blue Archive and twists it by throwing in mysterious and dangerous entities inspired by those you would see in works such as the SCP archives or Lobotomy Corporation.\r\n\r\nYou work for Blue Star, a corporation that publicly displays itself as a security and research organisation, but behind closed doors they are dedicated to the research of the mysterious \"Rifts\" and the abnormalities that come from within them.\r\n\r\nPerhaps you are just a simple civilian looking for work when you stumbled across this company, or maybe you had an encounter with an abnormality which led to you discovering us, or maybe you have come from a rift yourself and find yourself seeking answers?\r\n\r\nWhatever the case, Blue Star is here to uncover the mysteries that await us beyond the veil and beyond what we understand as reality.",
+                "description": "\"We are a role-playing community inspired by games and media such as the SCP wiki, Lobotomy Corporation and Blue Archive.\n\nIn our role-playing group, our members are part of Blue Star, a security and research company that conducts research and experiments on abnormal objects and physical manifestations, that artificially aren't possible.\nWe operate under-ground, seeming to be just an ordinary security facility on the surface. While researching and containing abnormalities to protect the public. Preserving artifacts, and getting to abnormalities first before other organizations can do so, preventing them from being exploited. We use Rifts, in addition as well, to move our personnel to other parts of the multi-verse.\"",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2024-06-21T00:23:40.000Z",
+                "updatedAt": "2025-05-24T01:16:10.000Z",
                 "deletedAt": null,
                 "logo_id": 153
             },
@@ -347,12 +330,12 @@
             "community": {
                 "id": 167,
                 "name": "Raujinn's Avatar Workshop",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_492db67f-ecf5-4850-ae31-7469fa3958c0",
+                "description": "I make from-scratch original avatars and avatar assets, both for public and for sale.",
                 "createdAt": "2024-10-16T20:20:06.000Z",
-                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-04-07T01:26:07.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 549
             },
             "members": [
                 {
@@ -380,11 +363,11 @@
         {
             "community": {
                 "id": 143,
-                "name": "Phoenix academy",
+                "name": "Phoenix Academy",
                 "group_id": "grp_64082d28-c099-4677-aa76-20a5edbee421 ",
                 "description": "Phoenix Academy is a VR language learning group, At Phoenix Academy, we are committed to providing you with an immersive English language learning experience through role-playing situations. Our goal is for you, the students, to speak English in a safe and encouraging environment for all ages.\n\nOur students have the opportunity to interact with native English speakers who are here to help and motivate them to practice and improve their language skills.\n\nClasses take place every other Wednesday, but we are working to increase the frequency and offer even more learning opportunities.\n\nJoin us at Phoenix Academy and discover how learning English can be exciting, challenging, and fun. We look forward to seeing your progress and success on this linguistic journey!\n",
                 "createdAt": "2024-10-02T16:44:00.000Z",
-                "updatedAt": "2024-10-02T20:55:38.000Z",
+                "updatedAt": "2025-06-01T06:02:16.000Z",
                 "deletedAt": null,
                 "logo_id": 358
             },
@@ -450,9 +433,9 @@
                 "id": 50,
                 "name": "Noved Squad",
                 "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
-                "description": "Home of the Noved Notes Podcastǃ\r\nA VRChat Podcast that talks about the amazing creators of VRChatǃ\r\n\r\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ\r\n\r\nOverall we just like to have funǃ",
+                "description": "Welcome to the Noved Squadǃ \n\nHome of the Noved Notes Podcastǃ\nA VRChat Podcast that goes into the amazing creators of VRChatǃ\n\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ Overall we just like to have funǃ\n\nIf you are a creator ⁄ community rep that is interested in being on the podcast‚ join the discord and submit an applicationǃ",
                 "createdAt": "2024-05-22T20:37:01.000Z",
-                "updatedAt": "2024-06-21T01:10:39.000Z",
+                "updatedAt": "2025-03-28T05:57:15.000Z",
                 "deletedAt": null,
                 "logo_id": 171
             },
@@ -500,12 +483,12 @@
             "community": {
                 "id": 154,
                 "name": "Yukio's World Works",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_243d021b-28cf-4dec-9994-e5cf865e3c6e",
+                "description": "It is my world work because i make maps for VRChat",
                 "createdAt": "2024-10-16T20:20:06.000Z",
-                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-04-23T18:46:34.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 592
             },
             "members": [
                 {

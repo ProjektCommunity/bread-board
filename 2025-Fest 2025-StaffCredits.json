@@ -1,3 +1,38 @@
 {
-    "staffCredits": []
+    "staffCredits": [
+        {
+            "departments": [
+                {
+                    "department": "Business and Finance",
+                    "jobTitles": []
+                },
+                {
+                    "department": "Moderation",
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
+                }
+            ],
+            "user": "NovedPlayer"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Media Administrations",
+                        "Production Crew",
+                        "Social Crew",
+                        "Live Crew",
+                        "Actor crew"
+                    ]
+                }
+            ],
+            "user": "Compared"
+        },
+        {
+            "departments": [],
+            "user": "Uranic"
+        }
+    ]
 }

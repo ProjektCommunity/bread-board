@@ -19,6 +19,2584 @@
                     "username": "pesky12"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 48,
+                "name": "The Bakery",
+                "group_id": "grp_e637632e-e9cb-4a2c-96e7-d5eb2bb634c8",
+                "description": "The Bakery is a group of artists that primarily focus on digital art, 3d animation, and virtual reality environments, primarily based in VRChat. We enjoy creating stories with our art, and giving people something to enjoy!",
+                "createdAt": "2024-05-22T20:15:36.000Z",
+                "updatedAt": "2025-03-28T06:08:58.000Z",
+                "deletedAt": null,
+                "logo_id": 169
+            },
+            "members": [
+                {
+                    "username": "Wobblins"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 50,
+                "name": "Noved Squad",
+                "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
+                "description": "Welcome to the Noved Squadǃ \n\nHome of the Noved Notes Podcastǃ\nA VRChat Podcast that goes into the amazing creators of VRChatǃ\n\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ Overall we just like to have funǃ\n\nIf you are a creator ⁄ community rep that is interested in being on the podcast‚ join the discord and submit an applicationǃ",
+                "createdAt": "2024-05-22T20:37:01.000Z",
+                "updatedAt": "2025-03-28T05:57:15.000Z",
+                "deletedAt": null,
+                "logo_id": 171
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 127,
+                "name": "The Game Show Community of VRChat",
+                "group_id": "grp_62e1b8ed-15bc-410f-adb2-eee3f94d0abd",
+                "description": "GSGenesis and his friends/fellow game show fans operate and organize VR-based recreations of popular TV game shows from past and present! Attracting players since 2017, the Game Show Community of VRChat and its affiliates continue to provide a near-impossible life experience to thousands!",
+                "createdAt": "2024-06-13T14:28:46.000Z",
+                "updatedAt": "2024-06-21T23:27:26.000Z",
+                "deletedAt": null,
+                "logo_id": 241
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 10,
+                "name": "Legions Of Chaos",
+                "group_id": "grp_b8f6e788-d6e0-4b2c-91e2-326be5827365",
+                "description": "The Legions of Chaos is a VRChat PCVR Avatar PVP Group, which uses the Avatar PVP system created by GoFluffYaSelf!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:28:38.000Z",
+                "deletedAt": null,
+                "logo_id": 157
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 91,
+                "name": "Shopow's Corner",
+                "group_id": "grp_e2716537-d2e0-49a4-8072-61772d2deff5",
+                "description": "Sho's Wholesome Homies is our sanctuary in VRChat, filled with members with similiar interests, and a bunch of cats! Shopow posts about world updates, memes, and special announcements and events that will take place within this community.",
+                "createdAt": "2024-06-05T19:30:22.000Z",
+                "updatedAt": "2025-02-06T14:57:07.000Z",
+                "deletedAt": null,
+                "logo_id": 202
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 174,
+                "name": "BUDDYWORKS",
+                "group_id": "grp_6f4530c0-5ba5-4545-8007-705aaa2773af",
+                "description": "BUDDYWORKS is a community by creators for creators, helping and educating in all things unity and blender with VRC context.\n\nEveryone is happily invited to join in, every skill level, even just slight curiosity.\n\nMaybe you find the spark. ❤️",
+                "createdAt": "2025-02-07T20:26:17.000Z",
+                "updatedAt": "2025-02-08T17:00:24.000Z",
+                "deletedAt": null,
+                "logo_id": 453
+            },
+            "members": [
+                {
+                    "username": "Karet"
+                },
+                {
+                    "username": "Buddy_DE"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 100,
+                "name": "xCirrex Media",
+                "group_id": "grp_402966f5-cfb6-4e86-906c-474960e72b70",
+                "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
+                "createdAt": "2024-06-12T17:49:04.000Z",
+                "updatedAt": "2024-06-20T16:01:20.000Z",
+                "deletedAt": null,
+                "logo_id": 131
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 175,
+                "name": "Community Oasis",
+                "group_id": "grp_e5606ba8-309e-466c-aeb7-237b1867756d",
+                "description": "I make furniture and 3D models for Worlds",
+                "createdAt": "2025-02-26T14:35:46.000Z",
+                "updatedAt": "2025-05-24T00:44:45.000Z",
+                "deletedAt": null,
+                "logo_id": 496
+            },
+            "members": [
+                {
+                    "username": "emilhauge"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 248,
+                "name": "VRYodellers",
+                "group_id": "grp_e254d646-ef3a-4a3a-9f19-cd1ae533ef71",
+                "description": "A group for fans of VR Creations made by VRY!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-29T14:48:58.000Z",
+                "deletedAt": null,
+                "logo_id": 617
+            },
+            "members": [
+                {
+                    "username": "pesky12"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 271,
+                "name": "JP-GH Animations",
+                "group_id": null,
+                "description": "I'm a Digital Artist that specializes in Animation and making cool, slick illustrations. I'm also currently working on a full length, VRChat Feature Film.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:24:22.000Z",
+                "deletedAt": null,
+                "logo_id": 499
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 215,
+                "name": "White Tower Hall",
+                "group_id": "grp_8bf50789-a184-439f-b283-e6c510bdeba3",
+                "description": "\"Welcome to White Tower Hall!\"\nThis group is a hang out group were we chill‚ have good times‚ and have fun with everyone․ \n\nThis is a 2015 to 2018 group ǃ\n\nHangout group for the White Tower Hall who have been on VRChat and part of its community since 2018 and earlier! Group is for those 18 years of age and older․\n\nWhite Tower Hall is the name of the original huge building in the early 2018 world hub.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:06:25.000Z",
+                "deletedAt": null,
+                "logo_id": 495
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 221,
+                "name": "Black Wolves Rebellion",
+                "group_id": "grp_7dbee207-029e-414f-b852-10b1c866c19f",
+                "description": "a story driven vrchat roleplay about taking down a oppressively government one planet at a time",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T06:00:21.000Z",
+                "deletedAt": null,
+                "logo_id": 489
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 154,
+                "name": "Yukio's World Works",
+                "group_id": "grp_243d021b-28cf-4dec-9994-e5cf865e3c6e",
+                "description": "It is my world work because i make maps for VRChat",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-04-23T18:46:34.000Z",
+                "deletedAt": null,
+                "logo_id": 592
+            },
+            "members": [
+                {
+                    "username": "yukio okumura"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 196,
+                "name": "Ten Two and Fur Con",
+                "group_id": "grp_5f86e099-81e8-47e2-a0ae-d8ab894e5f86",
+                "description": "Ten Two and Fur Con is a VRChat rave group that promotes equality and inclusivity for anyone who would like to performǃ",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-28T05:38:38.000Z",
+                "deletedAt": null,
+                "logo_id": 479
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 293,
+                "name": "Koutarou_Araki's neko Cabin",
+                "group_id": "grp_53a0d10e-6887-40a4-9341-464153b1ee26",
+                "description": "Just a normal streaming community, sometimes will do events with rewards, also very chill.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:03:27.000Z",
+                "deletedAt": null,
+                "logo_id": 543
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 32,
+                "name": "LAB Unit",
+                "group_id": "grp_415e8d11-bb5a-49bb-af7e-eacd1b729429",
+                "description": "L.A.B. UNIT is an active PMC Roleplay group for those who don't want too many boundaries on personal characters and strive for a good standing with other groups. We host private roleplay events, joint operations, contracts with other mil-sim/roleplay communities, and handle everything from basic security to existential threats.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-25T18:48:34.000Z",
+                "deletedAt": null,
+                "logo_id": 319
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 69,
+                "name": "Megabuilding 325",
+                "group_id": "grp_ad7ea7ee-10d4-4f8a-bccb-b3fc7364e555",
+                "description": "Do you make anything? Music, painting, textures, 3D, 2D, animations, sculptures, etc ? Do you open for commissions? Do you also roleplay? Do you wish you had a virtual store? Do I have your attention yet? Then you should consider joining MEGABUILDING 325!\n\nM325 is a cyberpunk inspired roleplay group. If you enjoy stuff like Ghost in the Shell, Blade Runner, Apex, Titanfall, Akira, The Finals, Cyberpunk and more, then you'll fit right in! We offer creators of all kinds a place to hold a store (no Unity knowledge needed) and do some roleplay with a map that evolves with the players! \n\nNot a creator? Not a problem! Just come RP, join the guild, run missions and more! Found something cool in a mission? We'll add it to the map! That's right, what you do truly impacts the map here at M325.  Lobbies are every Tuesdays at 7:30 pm eastern. We are also Quest tolerant (Questies be warned, we do not impose players to have Quest avatars. Use your imagination, buddy.)",
+                "createdAt": "2024-05-24T12:07:25.000Z",
+                "updatedAt": "2025-03-28T06:01:10.000Z",
+                "deletedAt": null,
+                "logo_id": 187
+            },
+            "members": [
+                {
+                    "username": "Z!FF"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 27,
+                "name": "The Necron Empire",
+                "group_id": "grp_5c3434fc-ecd4-449e-aacd-5a262209f830",
+                "description": "The Necron Empire is a VRChat based Avatar PvP group‚ we use these Avatars to fight Duells all the way to 40 people Battles with the Theme being from Warhammer 40k․ （Dark Sci-Fi）\r\n\r\nWe enjoy a loose culture in our group and encourage a good‚ fun but semi serious attitude․\r\n\r\nDue to how our system works we are a PC only community",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-20T15:58:03.000Z",
+                "deletedAt": null,
+                "logo_id": 129
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 9,
+                "name": "1st Weimar Republic",
+                "group_id": "grp_c4b5ba45-b82e-4ee6-8b2e-c481f88ced93",
+                "description": "Welcome to the 1st Weimar Republic!\n\nWe’re an alternate history VRChat roleplay group based around 1920's Interwar Germany.\n\nWe host weekly immersive RP events in the Weimar Republic;\nDaily Life of Soldiers\nCombat RP\nMilitary Training\nCeremonies\n\nFrom fighting in the street and countryside against uprisings to simply living out the daily life of a soldier, our events tell an ongoing narrative influenced by all of our members. Want to know more? If Immersive RP, Alt-History or History, and an interesting story appeal to you, then the 1st Weimar Republic is the place for you!\n\nhttps://discord.gg/ZMP49H3zSY\n\nJoin now, become part of our growing community, and leave your mark upon the Republic!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-02-07T20:32:57.000Z",
+                "deletedAt": null,
+                "logo_id": 156
+            },
+            "members": [
+                {
+                    "username": "Gustav#7720"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 254,
+                "name": "Ezyne Planetarium",
+                "group_id": "grp_88c2375f-b06e-48f5-8234-1f8aafd062c9",
+                "description": "Welcome to the Ezyne Planetarium, the home of all things Ezyne and more! From Gaming to Music to General Small Talk, the Planetarium has a place for you. With the addition of Monthly Hosted Events which vary from Challenging Games, Fan Meetups or even simple Music Jamming Raves, there's sure to be something to your comfort. As a community founded upon a Jack-of-all-Trades Music Producer, Graphic Designer, Videographer, etc; we welcome your passions with open arms and invite you to share your dreams. So relax, make yourself at home, and welcome to the orbit~",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:44:26.000Z",
+                "deletedAt": null,
+                "logo_id": 482
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 21,
+                "name": "VRChat Kmart",
+                "group_id": "grp_8c7c423b-cfab-40f5-a53a-a8431655826b",
+                "description": "Community dedicated to preserving America's most popular store in virtual reality.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-04-06T11:33:12.000Z",
+                "deletedAt": null,
+                "logo_id": 457
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 187,
+                "name": "The Strange Pear Gallery of Fine Arts",
+                "group_id": "grp_36750235-eb7f-418b-981a-643309a68bf7",
+                "description": "A VRChat-based community fine-art gallery that changes the art monthly!",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-01T05:19:17.000Z",
+                "deletedAt": null,
+                "logo_id": 500
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 57,
+                "name": "7th Legion",
+                "group_id": "grp_ef9fe277-ac99-42da-96fc-72015325998d",
+                "description": "The 7th Legion of VRChat is an Avatar PvP community that participates in a variety of events (social, combat, rp, so on) within the group, community, and beyond!",
+                "createdAt": "2024-05-23T11:33:07.000Z",
+                "updatedAt": "2024-06-20T15:56:20.000Z",
+                "deletedAt": null,
+                "logo_id": 127
+            },
+            "members": [
+                {
+                    "username": "Bruva Det"
+                },
+                {
+                    "username": "Bruva Det"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 260,
+                "name": "Failed to Render",
+                "group_id": "grp_60776bcc-6315-451c-98c8-fc08d38cfe88",
+                "description": "Failed to Render Comedy Club is the longest-standing professional comedy club in virtual reality, running every week night, on Meta Horizon Worlds and VRChat.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T21:55:31.000Z",
+                "deletedAt": null,
+                "logo_id": 858
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 146,
+                "name": "The Helldivers of VRC",
+                "group_id": "grp_b30a10ad-a72a-4894-9c10-bf49882843fa",
+                "description": "We are a live action roleplay community based on the popular I.P Helldivers 2. We try to recreate the chaos and battles seen in Helldivers 2 and put them into VRChat with our own special twists that normally isn't seen within the helldivers lore.",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-03-28T14:54:22.000Z",
+                "deletedAt": null,
+                "logo_id": 472
+            },
+            "members": [
+                {
+                    "username": "SlendyPlayz"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 73,
+                "name": "The Grey Knights 40k PVP",
+                "group_id": "grp_a83db546-c29b-4024-89fd-8a24cf844104",
+                "description": "We are The Grey Knights PVP Group. We have multiple PVP events every week where our group battles other PVP groups in VRChat using a functional avatar based PVP System. We are based on the Grey Knight faction from 40k who are a mysterious Space Marine chapter who are specialized in fighting demons. With all Grey Knights being psykers, we have a verity of different play styles, all in a sci-fi knightly order.\n“I am the hammer, I am the right hand of the Emperor, the instrument of his will, the gauntlet about his fist, the tip of his spear, the edge of his sword!”",
+                "createdAt": "2024-05-28T19:53:16.000Z",
+                "updatedAt": "2024-06-26T11:54:17.000Z",
+                "deletedAt": null,
+                "logo_id": 321
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 176,
+                "name": "Sonic VRChat Roleplay",
+                "group_id": "grp_65042a73-0eb7-4114-97a7-449b2cfcb545",
+                "description": "We are a Sonic role-play group that focuses mainly on VRChat RPs‚ YouTube content and of course spending time with friendsǃ",
+                "createdAt": "2025-03-05T15:47:25.000Z",
+                "updatedAt": "2025-03-28T05:41:24.000Z",
+                "deletedAt": null,
+                "logo_id": 481
+            },
+            "members": [
+                {
+                    "username": "SciFai"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 167,
+                "name": "Raujinn's Avatar Workshop",
+                "group_id": "grp_492db67f-ecf5-4850-ae31-7469fa3958c0",
+                "description": "I make from-scratch original avatars and avatar assets, both for public and for sale.",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-04-07T01:26:07.000Z",
+                "deletedAt": null,
+                "logo_id": 549
+            },
+            "members": [
+                {
+                    "username": "raujinn"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 143,
+                "name": "Phoenix Academy",
+                "group_id": "grp_64082d28-c099-4677-aa76-20a5edbee421 ",
+                "description": "Phoenix Academy is a VR language learning group, At Phoenix Academy, we are committed to providing you with an immersive English language learning experience through role-playing situations. Our goal is for you, the students, to speak English in a safe and encouraging environment for all ages.\n\nOur students have the opportunity to interact with native English speakers who are here to help and motivate them to practice and improve their language skills.\n\nClasses take place every other Wednesday, but we are working to increase the frequency and offer even more learning opportunities.\n\nJoin us at Phoenix Academy and discover how learning English can be exciting, challenging, and fun. We look forward to seeing your progress and success on this linguistic journey!\n",
+                "createdAt": "2024-10-02T16:44:00.000Z",
+                "updatedAt": "2025-06-01T06:02:16.000Z",
+                "deletedAt": null,
+                "logo_id": 358
+            },
+            "members": [
+                {
+                    "username": "Uranic"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 63,
+                "name": "Metropolitan Police Service",
+                "group_id": "grp_676275ff-7524-497d-94a7-efd4389d5e0f",
+                "description": "We're a friendly police RP community, who patrol worlds of VRChat. As you can see, we have been heavily influenced by the real UK Met Police, which is of course our inspiration, and what we have based our department on.",
+                "createdAt": "2024-05-23T17:08:49.000Z",
+                "updatedAt": "2024-06-21T01:25:33.000Z",
+                "deletedAt": null,
+                "logo_id": 181
+            },
+            "members": [
+                {
+                    "username": "Supervigy"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 79,
+                "name": "Danger Noodle Animations",
+                "group_id": "grp_f8e0ec9c-6a4a-48de-bf35-7175fe8d7b04",
+                "description": "A cyberpunk shop for cell shaded assets. We're a small group of friends working on fan animation and props to sell.",
+                "createdAt": "2024-05-31T09:06:14.000Z",
+                "updatedAt": "2025-04-07T01:22:33.000Z",
+                "deletedAt": null,
+                "logo_id": 192
+            },
+            "members": [
+                {
+                    "username": "Steve The Mitochondria"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 224,
+                "name": "The US Marine Corps of the 1970's",
+                "group_id": "grp_faeda629-8f3c-4ef5-8872-0908e65a1fa4",
+                "description": "\"We are the United States Marine Corps of the 1970s\n\nWe are a Vietnam war era sever （1972）\n\nWe strive to keep the Ture knowledge and teachings of the marines\n\nJoin for Events‚ PVP‚ Drill ‚ RP‚ Tanks‚ Helicopters And more\n\n13＋ do to T․O․S\n\nOwner- ~Juns~\n\nThe Marine Corps is a tough and dedicated branch of the U․S․ military․ They're always ready to protect and defend their country․ They have a proud history of serving in conflicts worldwide․ Semper Fiǃ\"",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-07T01:08:27.000Z",
+                "deletedAt": null,
+                "logo_id": 544
+            },
+            "members": [
+                {
+                    "username": "The US Marine Corps of the 1970's"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 25,
+                "name": "United Republic",
+                "group_id": "grp_02cc7a38-1979-4196-85be-bfb5a6b5b607",
+                "description": "The United Republic is a multi-purpose PVP community and social hub, One of the oldest and still running PvP Star wars Communities on VR Chat. Events are hosted regularly by the week, participating in world hops, PVP matches with other Avatar PvP communities, Different types of Light RP, Large Scale Re-Created battles and more. Our leadership team is friendly and active with a large player base and many regulars. We welcome any and all to participate and enjoy the community we've grown!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-25T13:36:26.000Z",
+                "deletedAt": null,
+                "logo_id": 318
+            },
+            "members": [
+                {
+                    "username": "KoreFuze"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 178,
+                "name": "Comrades and Ops",
+                "group_id": "grp_31cb7da1-17be-4f84-97f0-182e5a0852c6",
+                "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming or social event. Time to rock and roll!",
+                "createdAt": "2025-03-05T15:49:58.000Z",
+                "updatedAt": "2025-04-12T16:32:32.000Z",
+                "deletedAt": null,
+                "logo_id": 558
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 217,
+                "name": "Creative Impressions",
+                "group_id": "grp_b69ca680-015c-43c5-895f-5450fc248a3d",
+                "description": "A social community that aims to bring light to talented artists in VR, with a focus on 3D modeling, illustration, and photography.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:42:11.000Z",
+                "deletedAt": null,
+                "logo_id": 501
+            },
+            "members": [
+                {
+                    "username": "Stellr"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 188,
+                "name": "World End Apocalypse",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "topdestruction"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 183,
+                "name": "Ukon XL",
+                "group_id": "grp_48c32541-f2d5-4c59-b613-72e6491b733e",
+                "description": "A VRC group based around the Ukon avatar base",
+                "createdAt": "2025-03-05T15:51:36.000Z",
+                "updatedAt": "2025-03-28T15:02:35.000Z",
+                "deletedAt": null,
+                "logo_id": 494
+            },
+            "members": [
+                {
+                    "username": "SnivyFC"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 326,
+                "name": "Doodle Dreamers",
+                "group_id": "grp_4167f539-8360-49c4-b212-e25b7f2f4b2a",
+                "description": "Welcoming but chaotic community entirely about inspiring creation and art!",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:28:01.000Z",
+                "deletedAt": null,
+                "logo_id": 600
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 305,
+                "name": "Zelen Factories Of Mechanical Equipment",
+                "group_id": "grp_650cb995-c5cf-4bf0-a2e0-80e0dd1b007e",
+                "description": "Zelen Factories is a server mainly used as a hub to all of my current and upcoming creations on VRChat, Most creations being both armed and unarmed vehicles, But sometimes it goes a little off course",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:30:01.000Z",
+                "deletedAt": null,
+                "logo_id": 551
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 54,
+                "name": "AWMC Industries",
+                "group_id": "grp_eefd8d03-f7a1-4572-933d-0b674edca67c",
+                "description": "Step into the boundless universe of the Allied Waifu Military Core Industries also known as AI‚ your premier universewide military arms dealerǃ\r\nSet in the spacefaring era of the year 2200＋‚ AWMC Industries stands as a beacon of innovation in the vast expanse of space․\r\n\r\nWhen Earth fell victim to an unknown extraterrestrial force during the chaos of the Third World War‚ advanced weaponry‚ including machine soldiers powered by artificial intelligence‚ clashed in a desperate bid for survival․ Amidst the devastation‚ these androids emerged‚ alerting humanity to the imminent threat approaching earth․\r\nDespite the warnings‚ blinded by greed‚ many humans ignored the approaching catastrophe․ Until it was too late․\r\nA select few androids and humans escaped Earth's demise‚ vowing to safeguard humanity's legacy and principles․ Thus‚ they founded a military dedicated to preserving these ideals‚ recognizing that a formidable arsenal is the way of survival․\r\nEmerging as a prominent arms manufacturer and formidable military force‚ AI stands as a beacon of strength and integrity‚ its vast fleet traversing the galaxies to uphold its values․\r\n\r\nWhether you're a seasoned spacefarer or a green recruit‚ AI welcomes all to forge the destiny of galaxies․ Enlist today and be the bastion of humanitys legacy․\r\n\r\nCaution˸ Enlisting requires disposal of your biological embodiment․",
+                "createdAt": "2024-05-22T20:46:55.000Z",
+                "updatedAt": "2024-06-21T01:15:09.000Z",
+                "deletedAt": null,
+                "logo_id": 173
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 64,
+                "name": "Ookami Collective",
+                "group_id": "grp_c4d17c71-ed90-4aee-9d9a-e1fb6386bb8f",
+                "description": "We are a Hub for people that loves Mikos and Ukon Avatars in General. our fanatism of these models/Characters, is what makes us happy.",
+                "createdAt": "2024-05-23T17:26:59.000Z",
+                "updatedAt": "2024-06-21T01:26:42.000Z",
+                "deletedAt": null,
+                "logo_id": 182
+            },
+            "members": [
+                {
+                    "username": "Makoto Aki"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 306,
+                "name": "The Goblin Cave",
+                "group_id": "grp_0add63cb-780d-4c14-9383-cb2b7619512e",
+                "description": "The Goblin Cave is a welcoming 'café' community ran by me!! MadzLvsBblz. Overrun by the most vibrant of lofi based goblins that was nearly destroyed by a multi-verse attack, The Goblin Café welcomes all kinds of people as we serve chaos, goblin vibes and full on positivity.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:33:15.000Z",
+                "deletedAt": null,
+                "logo_id": 552
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "We are a roleplay VRChat community themed after the Yakuza game series and Japanese culture in general. We wish to provide, bring together and entertain. \n\nProviding a friendlier place for VRChat public to roleplay in is one of the aims we wish to achieve, alongside with helping other communities with bigger projects.\n\nBringing together both new and veteran players who have nowhere else to go, educate people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place.\n\nEntertaining both the public and our own people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to. \n",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-03-28T15:43:50.000Z",
+                "deletedAt": null,
+                "logo_id": 155
+            },
+            "members": [
+                {
+                    "username": "Euky"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 47,
+                "name": "VRDancing",
+                "group_id": "grp_d960be54-cfc2-44cb-863d-6d624d8975c1",
+                "description": "\"VRDancing is a beginner-friendly community of dancers that host weekly dance, fitness and hangout events in EU and NA timezones. We welcome any dancer! \n\nNo Full Body Tracking required, some even join without VR! \n\nWhether you just started and lack confidence, or are a veteran dancer with years of IRL experience, we hope you'll find your place here! \n\nOur main dancing events are accessible to any skill level and are an excellent place to start dancing in VRChat! \"",
+                "createdAt": "2024-05-22T20:15:27.000Z",
+                "updatedAt": "2024-06-21T01:06:04.000Z",
+                "deletedAt": null,
+                "logo_id": 168
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 34,
+                "name": "Death Korps of VR",
+                "group_id": "grp_55b15c9c-af3c-4b06-a902-045eb8522253",
+                "description": "Established in 2019, the Death Korps of VR is a Avatar PVP / Role play group dedicated to the Death Korps of Krieg Regiment of the Astra Militarum in the Warhammer 40,000 Universe. The Kriegsmen of the Death Korps are steadfast soldiers of the Imperium of Man. They grind down their enemies with attrition, artillery, and zeal. Got what it takes to join the Korp? Jump in the trench line and charge forward for the emperor, shovel ,bayonet, and lasgun in hand.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-04-07T01:35:29.000Z",
+                "deletedAt": null,
+                "logo_id": 161
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 177,
+                "name": "Ancients of VRChat",
+                "group_id": "grp_7492bce5-8f3a-4183-b79d-caacf1e173da",
+                "description": "Ancients of VRChat is a server with over 17‚000 members for finding other adults to be friends with․ We host dozens of events of all varieties every week including 3 that are oriented toward getting new members involved․  Hangouts‚ Games‚ A Club‚ Workouts‚ Book Club‚ Watch Parties and more․",
+                "createdAt": "2025-03-05T15:47:25.000Z",
+                "updatedAt": "2025-03-28T05:58:56.000Z",
+                "deletedAt": null,
+                "logo_id": 488
+            },
+            "members": [
+                {
+                    "username": "Jere"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 222,
+                "name": "Beast Fitness",
+                "group_id": "grp_b3b4dccd-c416-4130-8e5b-3b82fbf18712",
+                "description": "Beast Fitness VRC is a fitness community based in VRChat that hosts public workout sessions on Tuesdays and Sundays! Come join us and work out with a NASM certified Elite Personal Trainerǃ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T16:12:02.000Z",
+                "deletedAt": null,
+                "logo_id": 510
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 31,
+                "name": "DalekHQ",
+                "group_id": "grp_c13988b8-cdd8-4455-a2ca-471313342aab",
+                "description": "Welcome to the Dalek HQ, the Go-to Doctor Who Fan  Community of VRChat. There is something for everyone in this community, wether you like to RP as a Dalek  or Doctor Who Character in-game, Show of your tactical prowess in  PvP, exercise your artistic side  in our discord Competitions, or show your devotion to the empire and work your way up the ranks.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T01:03:43.000Z",
+                "deletedAt": null,
+                "logo_id": 160
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 80,
+                "name": "Study-Japanese【 JapaNichijou ジャパ日常 】",
+                "group_id": "grp_b53f4ff9-a0da-4c41-a464-6ae95a27c4dd",
+                "description": "Our community is made up of people who have come together with the goal of enjoying learning Japanese.  \nWe host events twice every weekend, where we explore various ways to practice Japanese, including Japanese lessons, games using Japanese Language, and role-playing events that simulate real-life communication.  \nIf you're interested in Japanese Language or Japanese culture, feel free to stop by and join us! ありがとう！",
+                "createdAt": "2024-06-01T20:22:44.000Z",
+                "updatedAt": "2025-04-07T01:28:52.000Z",
+                "deletedAt": null,
+                "logo_id": 193
+            },
+            "members": [
+                {
+                    "username": "HayaTikaze"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 75,
+                "name": "VR Japan Tours",
+                "group_id": "grp_2af1b75e-ae07-40f9-8282-71f30cd364bc",
+                "description": "VR Japan Tours is an immersive virtual tour where you can experience the culture and art of Japan in the sophisticated Japanese virtual world with friendly guides and amazing performers.",
+                "createdAt": "2024-05-28T19:54:53.000Z",
+                "updatedAt": "2024-06-21T01:34:23.000Z",
+                "deletedAt": null,
+                "logo_id": 189
+            },
+            "members": [
+                {
+                    "username": "HayaTikaze"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 280,
+                "name": "Stuck at Home Con (SAHCon - The Official Homestuck Con)",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "HuuvurFeltur"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 241,
+                "name": "Paranormal Scene Investigators",
+                "group_id": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07",
+                "description": "Paranormal Scene Investigators is a roleplay group focused on the paranormal and unknown. We have weekly events where we delve into the eldritch, the paranormal and the unknown of the VR world\n\nFrom vampires and cryptids\nTo Ghosts and Spirits.\nTo Technological nightmares and cults....\nTo much much more.\n\nWe are our own original universe based on paranormal legends and folktales throughout the world\n\nSome of our events will use D20 to act out some of our roleplay. We are light hearted but most importantly fun!\nWe are PC and Quest compatible. We lean a bit more towards PC with special effects but try our best to accommodate Quest users.\nCome check us out!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T05:22:21.000Z",
+                "deletedAt": null,
+                "logo_id": 507
+            },
+            "members": [
+                {
+                    "username": "Paranormal Scene Investigators"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 62,
+                "name": "Metaverse Degen",
+                "group_id": "grp_c47b3db4-7ea8-49c7-a68f-f9ab0dcb7d28",
+                "description": "A podcast⁄talk show in vrchat where are interview the various personalities and communities from the platform Vrchat including club owners‚ djs‚ tiktokers‚ vtubers world and avatar creators and more․ Featuring˸ dirtyraptor & LionTurtle",
+                "createdAt": "2024-05-23T11:53:07.000Z",
+                "updatedAt": "2024-06-21T01:24:33.000Z",
+                "deletedAt": null,
+                "logo_id": 180
+            },
+            "members": [
+                {
+                    "username": "Metaverse Degen"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 250,
+                "name": "Safety Realm",
+                "group_id": "grp_2138d510-fbdb-4483-be62-0d1c5430a146",
+                "description": "a community built around giving others a safe place to share ambitions and stream together. Building each other up.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:40:22.000Z",
+                "deletedAt": null,
+                "logo_id": 480
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 72,
+                "name": "Ultramarines",
+                "group_id": "grp_1b397e3c-d37e-43a4-98a9-cde2e6759862",
+                "description": "We are pvp multi purpose community and a social hub for all the people who love 40k, pvp or just want to lay back and a good time.",
+                "createdAt": "2024-05-26T12:47:00.000Z",
+                "updatedAt": "2024-06-20T15:52:24.000Z",
+                "deletedAt": null,
+                "logo_id": 123
+            },
+            "members": []
+        },
+        {
+            "community": {
+                "id": 265,
+                "name": "Honey's Cozy Cottage",
+                "group_id": "grp_2a8273fe-2c42-4f1a-8687-6c514b88eb88",
+                "description": "Welcome to the Cozy Cottageǃǃǃ HoneyHoTkiss is a Honey⁄Teddy Bear VTuber that goes on adventures with her bee buddy‚ Drizzleǃǃǃ She has been a content creator for 3+ years of experience. Started out small on Twitch, followed by YouTube 1-2 years later. She is also representing Wave 2 of Okimi Cafe since October 2022. You may also know her as a Werehog Simp in certain streams from time to time. If you wanted to see some comfy, cozy vibes, along with some chaos into the mix, you're in for a treat!!! I hope you'll enjoy your stayǃǃǃ Stay tuned and stay cozy~ǃǃǃǃ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:45:33.000Z",
+                "deletedAt": null,
+                "logo_id": 483
+            },
+            "members": [
+                {
+                    "username": "HoneyHoTkiss"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 264,
+                "name": "MyroP's group",
+                "group_id": "grp_3b8f67a7-6c29-4a68-8ca0-bf8c348e6c0b",
+                "description": "I make worlds, prefabs and sometimes shaders",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:52:00.000Z",
+                "deletedAt": null,
+                "logo_id": 505
+            },
+            "members": [
+                {
+                    "username": "MyroP"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 125,
+                "name": "Fractured Thrones",
+                "group_id": "grp_0cb15b45-5ea7-43ed-b684-281801f320e5",
+                "description": "Fractured Thrones is a low-fantasy medieval roleplay inspired by LOTR‚ and Warhammer Fantasy‚ and created by Mr․ Brunswick․ It is comprised of many different role-players‚ custom assets‚ and tons of hard work and dedication․ We welcome new facesǃ",
+                "createdAt": "2024-06-13T00:05:03.000Z",
+                "updatedAt": "2024-06-21T02:29:25.000Z",
+                "deletedAt": null,
+                "logo_id": 228
+            },
+            "members": [
+                {
+                    "username": "death_map"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 85,
+                "name": "Resurrected Mercenaries PMC",
+                "group_id": "grp_adc03055-6a1d-46c8-998f-062658aad8d6",
+                "description": "\"We are a light mercenary RP group that focuses on roleplay scenarios with other groups &\norganizations. Our main goal is to have **FUN** not just with ourselves but with all who we\ninteract with.\"",
+                "createdAt": "2024-06-03T18:53:11.000Z",
+                "updatedAt": "2024-06-21T01:53:15.000Z",
+                "deletedAt": null,
+                "logo_id": 198
+            },
+            "members": [
+                {
+                    "username": "RedZ3r0"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 268,
+                "name": "Pika1up",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "pika1up"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 256,
+                "name": "Chyado Sensei's Classroom",
+                "group_id": "grp_3f308196-8ceb-43ac-a55a-8a0b955f974c",
+                "description": "ChyadoSensei's Class is the community of those who watch ChyadoSensei‚ are looking to learn about Japan and Japanese‚ explore worlds and play games togetherǃ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T14:50:49.000Z",
+                "deletedAt": null,
+                "logo_id": 493
+            },
+            "members": [
+                {
+                    "username": "ChyadoSensei"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 181,
+                "name": "Kitsune Sisters",
+                "group_id": "grp_bb8fa58d-c468-41b3-bd8d-de06320786b9",
+                "description": "An Action Adventure roleplay where people can fight against evil along with the Nine Kitsune Sisters as Time passes on.",
+                "createdAt": "2025-03-05T15:50:48.000Z",
+                "updatedAt": "2025-03-28T05:49:05.000Z",
+                "deletedAt": null,
+                "logo_id": 485
+            },
+            "members": [
+                {
+                    "username": "iBRSMikuru"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "createdAt": "2024-06-04T08:03:40.000Z",
+                "updatedAt": "2024-06-21T01:53:59.000Z",
+                "deletedAt": null,
+                "logo_id": 199
+            },
+            "members": [
+                {
+                    "username": "AstrixZ"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 59,
+                "name": "Tuatha Dé Danann",
+                "group_id": "grp_8465845b-5d7f-4d2b-b665-e649dcaea501",
+                "description": "Welcome to Tuatha Dé Danann, a community which revolves around a hidden society of mages and their many associates‚ all of which have evaded the ever-watching eyes of a world ruled by corrupt Megacorps․\r\n\r\nWe'll be offering a variety of fun and unique activities for our members‚ such as story-based events‚ hangouts‚ game nights‚ and many moreǃ It should also be mentioned that the Tuatha Dé Danann isn't just for members of our community‚ but also for friends and and people looking to have funǃ If you're still reading this‚ then we've probably caught your interest․ Perhaps continue and see what else is in store?",
+                "createdAt": "2024-05-23T11:33:07.000Z",
+                "updatedAt": "2024-06-21T01:21:20.000Z",
+                "deletedAt": null,
+                "logo_id": 176
+            },
+            "members": [
+                {
+                    "username": "Tuatha De Danann"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 319,
+                "name": "Jacknife's Talent Show",
+                "group_id": "grp_8c5fd7a9-ae69-4c70-8fb9-2e0e5060d650",
+                "description": "We're an annual talent show held over three nights that gives performers a spotlight to showcase their talents, connect with a vibrant community, and compete for real cash prizes.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:26:32.000Z",
+                "deletedAt": null,
+                "logo_id": 599
+            },
+            "members": [
+                {
+                    "username": "Jacknife03"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 235,
+                "name": "Salamanders Chapter PC PVP",
+                "group_id": "grp_842e6d9f-265c-4196-b52d-95396a0fb0cd",
+                "description": "Do you enjoy fighting for the Emperor of Mankind, flamers, and saving the innocent citizens of the Imperium? Then the Salamanders are just for you! Our times are European friendly, from 5PM EST to 6PM EST. If you enjoy Warhammer40k, give us a try!  ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T05:55:16.000Z",
+                "deletedAt": null,
+                "logo_id": 509
+            },
+            "members": [
+                {
+                    "username": "Knarkhi"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 30,
+                "name": "Hidden Reality",
+                "group_id": "grp_745d526b-a280-40d3-ae8e-3cc13eef10ec",
+                "description": "Hidden Reality specializes in hosting mind-blowing virtual raves that redefine the traditional club experince. Our community thrives on innovation, constantly seeking to enhance the virtual experience for all members.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-20T16:09:57.000Z",
+                "deletedAt": null,
+                "logo_id": 132
+            },
+            "members": [
+                {
+                    "username": "AliceD"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 324,
+                "name": "Omega's Art Cave",
+                "group_id": "grp_692a312d-eade-42b1-b827-cb18896bc489",
+                "description": "Art and chaos by OmegaAmaya",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-06-01T22:01:03.000Z",
+                "deletedAt": null,
+                "logo_id": 859
+            },
+            "members": [
+                {
+                    "username": "Omega_Amaya"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 84,
+                "name": "Atelier Maineria",
+                "group_id": "grp_57d2ce51-761c-4c10-976d-a9c54ec1e7a9",
+                "description": "Avatar commissions",
+                "createdAt": "2024-06-03T17:34:38.000Z",
+                "updatedAt": "2024-06-21T01:40:33.000Z",
+                "deletedAt": null,
+                "logo_id": 197
+            },
+            "members": [
+                {
+                    "username": "Maineria"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 307,
+                "name": "NovaSlicers",
+                "group_id": "grp_1d415d36-ce94-4f16-a468-5fe3b4a3a573",
+                "description": "A virtual punk/metal group that breaks the boundaries and proves that long distance doesn't stop you from being a great band.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-05-24T01:15:16.000Z",
+                "deletedAt": null,
+                "logo_id": 748
+            },
+            "members": [
+                {
+                    "username": "JohnieCanine"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 45,
+                "name": "Wolveeps Fan Club",
+                "group_id": "grp_561e2113-17dc-4e84-93d7-ea0e86cc8766",
+                "description": "Wolveeps Fan club is fun inspirational community around Wovleeps creatives works and content․ We hold events‚ hangouts‚ and meetups․",
+                "createdAt": "2024-05-22T16:17:15.000Z",
+                "updatedAt": "2024-06-20T15:58:46.000Z",
+                "deletedAt": null,
+                "logo_id": 130
+            },
+            "members": [
+                {
+                    "username": "Wolveeps"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 316,
+                "name": "Sunset Plaza",
+                "group_id": "grp_09a57bbb-06c4-44f4-9846-4604904437d1",
+                "description": "Sunset Plaza, is an 18+ mall community dedicated to fun and social engagement. Attend our weekly events, unwind with a drink, and find your perfect shop. Verification is mandatory to maintain a welcoming and respectful space shop.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-05-24T01:19:58.000Z",
+                "deletedAt": null,
+                "logo_id": 749
+            },
+            "members": [
+                {
+                    "username": "Ermina West"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 2,
+                "name": "Blue Star",
+                "group_id": "grp_df3d13cc-0bcc-4d4a-a011-c51fe616a8bb",
+                "description": "\"We are a role-playing community inspired by games and media such as the SCP wiki, Lobotomy Corporation and Blue Archive.\n\nIn our role-playing group, our members are part of Blue Star, a security and research company that conducts research and experiments on abnormal objects and physical manifestations, that artificially aren't possible.\nWe operate under-ground, seeming to be just an ordinary security facility on the surface. While researching and containing abnormalities to protect the public. Preserving artifacts, and getting to abnormalities first before other organizations can do so, preventing them from being exploited. We use Rifts, in addition as well, to move our personnel to other parts of the multi-verse.\"",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-05-24T01:16:10.000Z",
+                "deletedAt": null,
+                "logo_id": 153
+            },
+            "members": [
+                {
+                    "username": "Frozen Fire"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 53,
+                "name": "Wardens Roleplay",
+                "group_id": "grp_030c8982-b486-451a-91c3-e6cf1de307b1",
+                "description": "Wardens is Flintlock Fantasy Roleplay in VR",
+                "createdAt": "2024-05-22T20:44:00.000Z",
+                "updatedAt": "2024-06-21T01:14:36.000Z",
+                "deletedAt": null,
+                "logo_id": 172
+            },
+            "members": [
+                {
+                    "username": "Elusif_Wardens"
+                },
+                {
+                    "username": "Wardens"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 309,
+                "name": "RWBY Converged Realms",
+                "group_id": "grp_f73c931f-dd0b-42c4-bb4f-daa138d5013d",
+                "description": "We are a beginner and quest friendly Roleplay group set with former RoosterTeeth universe of RWBY.",
+                "createdAt": "2025-04-09T14:12:19.000Z",
+                "updatedAt": "2025-04-12T16:28:02.000Z",
+                "deletedAt": null,
+                "logo_id": 556
+            },
+            "members": [
+                {
+                    "username": "TheFallenEngi"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 105,
+                "name": "Forjadores Hispanic community of VRChat",
+                "group_id": "grp_36c41a0d-40dc-4e07-bd50-4bb4f53abed0",
+                "description": "We are a community of Hispanic creators that gets together to help and share knowledge about worlds, avatars and general content for VRChat. We have regular events on Sundays and our big event called \"Forjaversario\" where we celebrate the anniversary of our community. ",
+                "createdAt": "2024-06-12T21:24:50.000Z",
+                "updatedAt": "2025-03-28T15:45:08.000Z",
+                "deletedAt": null,
+                "logo_id": 208
+            },
+            "members": [
+                {
+                    "username": "ForjadoresHispanos"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 318,
+                "name": "DegenTech Inc",
+                "group_id": "grp_b2a19685-c53e-4c5a-9503-744a5373bf2c",
+                "description": "Group of professional furries working in STEMM fields (Science, Technology, Engineering, Mathematics, Medical). We hangout in VR and organize on Discord! Check out some of the techiest nerds you'll meet on VRchat!",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-05-09T20:03:11.000Z",
+                "deletedAt": null,
+                "logo_id": 641
+            },
+            "members": [
+                {
+                    "username": "degentech"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 234,
+                "name": "House of Resurrection",
+                "group_id": "grp_6f5080c8-6547-4010-8409-b9e0649085c5",
+                "description": "a PVP/RP Group based within the Destiny Franchise.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:50:10.000Z",
+                "deletedAt": null,
+                "logo_id": 504
+            },
+            "members": [
+                {
+                    "username": "RedEternal"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 55,
+                "name": "RIFT",
+                "group_id": "grp_680d2e7e-e34f-41cb-a424-cb3a074f5216",
+                "description": "We are a sci-fi, lore based rave community focused on uplifting and promoting those in the VRC rave scene in a positive direction!",
+                "createdAt": "2024-05-22T20:52:13.000Z",
+                "updatedAt": "2025-03-28T14:53:49.000Z",
+                "deletedAt": null,
+                "logo_id": 174
+            },
+            "members": [
+                {
+                    "username": "AztecAngelo"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 126,
+                "name": "Children of Time",
+                "group_id": "grp_adf03ac3-a36c-4a39-9e45-95ef234466aa",
+                "description": "We are a improv RP group that is a magic and steampunk style.",
+                "createdAt": "2024-06-13T11:53:20.000Z",
+                "updatedAt": "2025-03-28T06:05:51.000Z",
+                "deletedAt": null,
+                "logo_id": 229
+            },
+            "members": [
+                {
+                    "username": "L0tusBunBun"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 230,
+                "name": "Rusk Shack",
+                "group_id": "grp_7a73b817-99e6-4274-a635-db3272576ef7",
+                "description": "Rusk Shack is a community for people who like to use Rusk avatars",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T06:05:18.000Z",
+                "deletedAt": null,
+                "logo_id": 491
+            },
+            "members": [
+                {
+                    "username": "VerSe10"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 228,
+                "name": "Fandom Mayhem",
+                "group_id": "grp_889fced1-5302-46b2-969a-5979dc6bb069",
+                "description": "We roleplay as cannon characters or original characters in various fandoms",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T05:18:46.000Z",
+                "deletedAt": null,
+                "logo_id": 842
+            },
+            "members": [
+                {
+                    "username": "MadLuck"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 148,
+                "name": "The Virtual Gauntlet",
+                "group_id": "grp_85f7294d-6cf7-4319-847a-a3e7e8db1243",
+                "description": "The Virtual Gauntlet is a VR game show hosted in VRChat where two teams of four compete in fast-paced, skill-based obstacle course challenges. The show runs in seasons with a strong cyberpunk theme and features unique games like Dodge Wall, Rift Rush, and Grid Lock. We record and stream the matches, promote the teams involved, and offer in-world prizes like trophies and group shoutouts. It's built to spotlight player communities, bring hype energy to VR gaming, and create something exciting for both players and viewers.",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-05-14T18:18:07.000Z",
+                "deletedAt": null,
+                "logo_id": 473
+            },
+            "members": [
+                {
+                    "username": "Codeadvanced"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 98,
+                "name": "The Iron Hands",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2024-06-11T20:01:55.000Z",
+                "updatedAt": "2025-04-25T05:47:36.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Intecris"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 41,
+                "name": "CozyCon Online",
+                "group_id": "grp_497b720f-cdee-44d3-b724-f6b4dc334643",
+                "description": "CozyCon is a free yearly multi-fandom virtual convention on Discord/VRChat/Twitch that runs in September, but also hosts monthly events. We have skilled vendors, DJs and Panelists every year, sweet themed merch designed by our artists, and year-round community space to chat, organize games, share your creative works and much more.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-05-14T18:16:24.000Z",
+                "deletedAt": null,
+                "logo_id": 165
+            },
+            "members": [
+                {
+                    "username": "LilitheLotor"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 338,
+                "name": "Wolfie's Hangout",
+                "group_id": "grp_d8d23dde-5339-498c-9329-bbebc59f1af1",
+                "description": "A safe place for furries and non furries alike",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:34:19.000Z",
+                "deletedAt": null,
+                "logo_id": 753
+            },
+            "members": [
+                {
+                    "username": "wolfieshangout"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 346,
+                "name": "The Ashen Empire",
+                "group_id": "grp_6aece5e1-eba7-44be-a1c5-c609ba7c8255",
+                "description": "The Ashen empire is a Star wars inspired avatar PvP PC and Quest community. \nWe engage in several different forms of combat such as TDM, FFA, hostage rescue, boss battles and many more. We also play games outside of PvP events in both vrchat and other games. We host events most days between 4pm EST and 8pm EST.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:10:04.000Z",
+                "deletedAt": null,
+                "logo_id": 745
+            },
+            "members": [
+                {
+                    "username": "Jacen2005"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 364,
+                "name": "ValenVRC",
+                "group_id": "grp_32fd99ba-2ec3-4408-9dce-74cf4ea0b713",
+                "description": "I'm a freelancer developer and vrchat mapmaker from Argentina, I specialize in the creation of assets and systems that use U#!",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T00:58:02.000Z",
+                "deletedAt": null,
+                "logo_id": 738
+            },
+            "members": [
+                {
+                    "username": "valenvrc"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 225,
+                "name": "Fluffy Snakes",
+                "group_id": "grp_d8266402-2413-4ed0-95ad-c7fe6c9d1ff6",
+                "description": "\"A cozy place for all ankle biters‚ big or small‚ to chill‚ hang out‚ and feel at home․\n\nWe're here to make sure you have a safe and fun experience with COOKIES includedǃ\n\nOur mission? Nibble some ankles and brighten your dayǃ\n\nEveryone is welcome‚ but watch out your ankles might be at riskǃ We're all about cuddles‚ chats‚ and good vibes․\n\nOur spaces are moderated to ensure you have the best experience possible․ Come join us and let's make memories togetherǃ\"",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-05-14T18:15:52.000Z",
+                "deletedAt": null,
+                "logo_id": 671
+            },
+            "members": [
+                {
+                    "username": "Cake"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 281,
+                "name": "Galactic Clone Army Refuge",
+                "group_id": "grp_ac96ae8e-f802-414d-b93e-26918c527113",
+                "description": "Clone Wars Milsim done right․ A place to leave behind the drama‚ the baggage‚ and all the other issues we're all tired from․ Its time to set down all that weight‚ and find a home in the Refuge․ Rejoice and Fight on!",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:03:59.000Z",
+                "deletedAt": null,
+                "logo_id": 524
+            },
+            "members": [
+                {
+                    "username": "VisforVenus"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 372,
+                "name": "Blumonstersartdance",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Blumonsterghoul"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 363,
+                "name": "The Warp",
+                "group_id": "grp_e315bbd1-d323-454a-a08c-17ec517c0016",
+                "description": "Based on EVE Online and Dust 514, the worlds I create are tailored more towards hosting club events and are open to all other groups who like to host any event at these worlds. The Warp is the primary group that hosts its own events and is where I showcase my works at.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:02:02.000Z",
+                "deletedAt": null,
+                "logo_id": 740
+            },
+            "members": [
+                {
+                    "username": "MKNTSH"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 342,
+                "name": "Viral Hit",
+                "group_id": "grp_aa82b6b1-73b8-407c-ac41-892aa677bfe7",
+                "description": "The story begins in the world of Viral Hit‚ where content creators‚ YouTubers‚ and streamers use their fame and influence to bully those without ＂clout․＂ The character I play was one of their victims until he decided he'd had enough․ He started streaming himself fighting back against these bullies‚ learning real-world combat techniques along the way․\n\nOver time‚ he formed a group with like-minded individuals‚ but they eventually lost contact when the world underwent a massive change․ Gates began opening‚ people were assigned ranks‚ and individuals from other worlds arrived with their own abilities․ Gods intervened‚ stealing‚ replacing‚ and altering things across different realities․ In the chaos‚ a God blinded his sister and took his family from him․ Many of the original members of Viral Hit also went missing․\nDetermined to find his friends and family‚ he became a hunter․",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:03:47.000Z",
+                "deletedAt": null,
+                "logo_id": 741
+            },
+            "members": [
+                {
+                    "username": "Viral Hit"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 197,
+                "name": "Coalition of Allied Nations",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Coalition of Allied Nations"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 313,
+                "name": "Those Who Remain",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T00:01:11.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "ThePotatoKing23"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 286,
+                "name": "Hidden Haven",
+                "group_id": "grp_ec2a4122-431d-4bb4-9133-4778438fba6e",
+                "description": "A Sci-Fantasy themed Metaverse Roleplay group with origin roots in things like Starbound",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-05-14T18:43:48.000Z",
+                "deletedAt": null,
+                "logo_id": 530
+            },
+            "members": [
+                {
+                    "username": "Light The Espeon Medic"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 348,
+                "name": "Weaboo Weekend",
+                "group_id": "grp_09d563fd-8c09-4745-9c21-8a74880cace4",
+                "description": "Weaboo Weekend is a free-to-attend annual music festival celebrating the vibrant worlds of anime, comics, and video games. Our mission is to deliver an unforgettable, immersive experience for fans and enthusiasts alike. Our mission is to an experience that stands apart from anything else on the platform. At the same time, we are dedicated to raising funds for charity. Backed by a passionate and experienced team, along with the support of collaborating communities, we are committed to providing a high-quality event that both entertains and shines a light on charity.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:07:54.000Z",
+                "deletedAt": null,
+                "logo_id": 743
+            },
+            "members": [
+                {
+                    "username": "Weaboo Weekend"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 300,
+                "name": "Pony's Barn",
+                "group_id": "grp_e8e9728e-c80d-4771-a2af-f8f2aa048b1f",
+                "description": "This is a community of horse lovers alike! For both PVP RolePlay, and Games together! We Strive For Making Horse Characters As Models & Story :D",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:16:26.000Z",
+                "deletedAt": null,
+                "logo_id": 528
+            },
+            "members": [
+                {
+                    "username": "DicloniusPony"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 298,
+                "name": "Alterview",
+                "group_id": "grp_9ad6f16a-517d-4bc2-889b-09b9c80e251c",
+                "description": "A film studio that specializes in VR filmmaking.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:05:43.000Z",
+                "deletedAt": null,
+                "logo_id": 525
+            },
+            "members": [
+                {
+                    "username": "BuddyBall"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 294,
+                "name": "SkyeSage Creations",
+                "group_id": "grp_92ce5ad2-b34b-40eb-917a-c8add4484e4f",
+                "description": "My specialty is in cinematic storytelling, aiming to transport audiences to new worlds existing solely in the realm of imagination. I find inspiration from the underground dance and particle animation communities, and my goal is to create experiences that not only break new ground, but also evoke powerful emotions in those who engage in them.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:08:47.000Z",
+                "deletedAt": null,
+                "logo_id": 526
+            },
+            "members": [
+                {
+                    "username": "SkyeSage"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 275,
+                "name": "Waifuwehr",
+                "group_id": "grp_c5c71aa6-14a0-4289-b5f9-98e2620bd5e8",
+                "description": "We are the Waifuwehr! VRChat's oldest still surviving Military RP community founded back in 2017. The community aims to offer a realistic, dynamic, and educational military experience to those belonging to cultures worldwide, all connected under one organization, regardless of one’s personal background.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T10:53:07.000Z",
+                "deletedAt": null,
+                "logo_id": 521
+            },
+            "members": [
+                {
+                    "username": "Anon27"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 287,
+                "name": "Sith Empire",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "TheJokester"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 321,
+                "name": "UranictheWolf",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T00:01:11.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "UranicTheWolf"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 52,
+                "name": "RWBY Journey Beyond Remnant",
+                "group_id": "grp_08e34d54-757e-48b3-b34c-338fae5e9e34",
+                "description": "RWBY JBR is a Canon multi-crossover AU VRC RP that has a wide variety of characters from a variety of different series and franchises that come together in one place.\r\n\r\nThe focus of the roleplay will be on exploring the different plot points of each season, delving into the perspectives of each character. It's worth noting that certain significant details might undergo alterations, like the demise of a character or a shift in the timeline of events. As seasons unfolds, we'll remain engaged in the otherworldly realm or dimension we find ourselves in. Throughout the replay, the choices you make will shape your character, highlighting both your strengths and weaknesses. Moreover, your decisions will also have a direct impact on the overall narrative of the story",
+                "createdAt": "2024-05-22T20:43:53.000Z",
+                "updatedAt": "2024-06-25T04:59:40.000Z",
+                "deletedAt": null,
+                "logo_id": 128
+            },
+            "members": [
+                {
+                    "username": "Aaliyah1023"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 283,
+                "name": "Izanagi Academy",
+                "group_id": "grp_f66764db-ab4a-455c-9cbf-a51a127cf2f0",
+                "description": "a roleplay group focusing on a magical academy in VRChat",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:19:44.000Z",
+                "deletedAt": null,
+                "logo_id": 529
+            },
+            "members": [
+                {
+                    "username": "MidnightJayd"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 74,
+                "name": "The Dark Angels 40k PVP",
+                "group_id": "grp_dd0baa23-bfac-4cfe-b6da-698e9c07b4b2",
+                "description": "We are the honored 1st Legion, more commonly known as the Dark Angels Chapter. We are one of the space marine groups within the 40k hub, and are always looking for new members to join our ranks. We have a wide variety of models that suit all playstyles. Whether you like to be up close and personal with melee, or laying down heavy fire with a powerful gun we have a model for you. While we do take part in combat events multiple times a week, we also do occasionally host various events outside of VRChat. These include game nights on deathwing and darktide and even jackbox game nights.",
+                "createdAt": "2024-05-28T19:53:25.000Z",
+                "updatedAt": "2025-05-26T00:00:26.000Z",
+                "deletedAt": null,
+                "logo_id": 325
+            },
+            "members": [
+                {
+                    "username": "ersiefer"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 46,
+                "name": "The Mighty Gym",
+                "group_id": "grp_9f4aeb1f-bac7-4a09-a0ce-ab516c82e6b0",
+                "description": "The Mighty Gym is the ultimate social fitness experience in VRǃ Join us for group classes of up to 30 people‚ lead by real certified instructors‚ where you can test your fitness skills in one of our 9 themed workouts․ With technology to track your form‚ and give you a score for your performance‚ you can be sure to hit your fitness goals and have loads of fun with your friends every timeǃ",
+                "createdAt": "2024-05-22T20:15:12.000Z",
+                "updatedAt": "2024-06-21T01:00:31.000Z",
+                "deletedAt": null,
+                "logo_id": 167
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
+                },
+                {
+                    "username": "Beany273"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 285,
+                "name": "Academy for Good and Evil \"A.G.E\"",
+                "group_id": "grp_d6fa61ff-5e2d-45ab-bdc6-b4767de8b63c",
+                "description": "We are an 18+ VRChat roleplay community where heroes and villains are forged. Our immersive roleplay focuses on shaping students' talents and imagination, preparing them to embark on their own personal conquests—whether for justice or chaos.\n\nIf you love crafting unique characters, developing rich lore, and bringing your creations to life in VRChat, you’ve found the right place.\n",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-05-09T19:58:46.000Z",
+                "deletedAt": null,
+                "logo_id": 640
+            },
+            "members": [
+                {
+                    "username": "Kindred Melody"
+                },
+                {
+                    "username": "age"
+                },
+                {
+                    "username": "UpliftedMax"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 29,
+                "name": "Mythos Makers",
+                "group_id": "grp_60db80f0-2d88-47a0-8e74-a3d1d63a56b5",
+                "description": "Mythos Makers is a general entertainment and online media content creation site featuring several storytellers and creators with several backgrounds including Comic Writing and Drawing, General Writing, Video Game Development, Video Creation, Podcast Creation, and so on so forth.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-04-06T11:30:29.000Z",
+                "deletedAt": null,
+                "logo_id": 532
+            },
+            "members": [
+                {
+                    "username": "John Coday"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 267,
+                "name": "TrueAquaPsych's Complex",
+                "group_id": "grp_dc6e95c8-a354-4ebb-b950-4d1f0a9809c8",
+                "description": "A group for VRChat puzzle solving enthusiasts.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-12T16:29:46.000Z",
+                "deletedAt": null,
+                "logo_id": 557
+            },
+            "members": [
+                {
+                    "username": "TrueAquaPsych"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 122,
+                "name": "The Great Religion",
+                "group_id": "grp_37b712ce-59ee-4a05-8fbf-bf8c0137e910",
+                "description": "We are avid pug goers, and also we are home to Celeste-AI!",
+                "createdAt": "2024-06-12T21:58:15.000Z",
+                "updatedAt": "2024-06-21T02:26:43.000Z",
+                "deletedAt": null,
+                "logo_id": 225
+            },
+            "members": [
+                {
+                    "username": "operator"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 331,
+                "name": "Virtual Relics",
+                "group_id": "grp_bad8ba0b-34cf-4ea3-8680-c99f5f980783",
+                "description": "a cozy‚ 18＋SFW VRChat community based in Europe‚ perfect for both newcomers and returning players alike․ We offer a laid-back‚ friendly environment where you can enjoy a variety of activities - whether its weekly game nights‚ movie nights‚ parties‚ or even spontaneous events․ From small‚ intimate meetups to larger gatherings‚ theres always something for everyone․ If you're looking for a fun‚ relaxed space to connect and unwind with others in VRChat‚ youll feel right at home here․",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:21:06.000Z",
+                "deletedAt": null,
+                "logo_id": 750
+            },
+            "members": [
+                {
+                    "username": "-Seraphim-"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 89,
+                "name": "SCP Foundation of VR",
+                "group_id": "grp_ea06f6c6-fb86-4bc2-948f-22ea5733fb57",
+                "description": "The SCP Foundation of VRChat is a roleplay community inspired by the SCP universe. We utilize our own content and lore to keep things new and engaging. Players can create their own characters, anomalies and stories and have it all played out in our weekly events. ",
+                "createdAt": "2024-06-05T16:41:08.000Z",
+                "updatedAt": "2024-06-21T01:55:43.000Z",
+                "deletedAt": null,
+                "logo_id": 200
+            },
+            "members": [
+                {
+                    "username": "Scoron"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 218,
+                "name": "Virtualis Res Online Film Festival",
+                "group_id": "grp_b40ee5ef-6aa7-40d0-b7e7-67e1758384af",
+                "description": "A virtual film festival spanning two weeks promoting various art forms within VRChat, from films to photography to music.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T06:03:26.000Z",
+                "deletedAt": null,
+                "logo_id": 490
+            },
+            "members": [
+                {
+                    "username": "VROFF"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 95,
+                "name": "Anime Ships United",
+                "group_id": "grp_cc2e2204-df5f-4996-8778-f87dbcdeecbf",
+                "description": "The Anime Ships United (ASU) are a group of shipgirl fans come together to enjoy sharing and talking about warships and shipgirls from all fandoms.\nWe also do weekly game nights along with random RP moments.\nOver all we are a chill hangout group for the most part, though if folks want to be more RP engaged we also have the United Shipgirl Navy (USN) which is a more RP focused sub-group and just getting its feet wet, the USN will be doing weekly RP events and has a dedicated tabletop game that the members play weekly.\nIf you like or love ships or interested in all things boat and shipgirl then come join the navy!",
+                "createdAt": "2024-06-09T21:05:54.000Z",
+                "updatedAt": "2024-06-28T00:08:09.000Z",
+                "deletedAt": null,
+                "logo_id": 342
+            },
+            "members": [
+                {
+                    "username": "A.Acronza"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 311,
+                "name": "Virtual FurMix",
+                "group_id": "grp_43ddeac9-55b4-4a55-a9cd-ac34cdcbf6cc",
+                "description": "Virtual FurMix is a virtual reality experience that takes place on VRChat. It was born from the dream of the Brazilian Furry community to have a place to call their own, where we seek to celebrate the fandom by getting together and having fun. The event takes place with the presence of our fandom DJs that mark the soundtrack of this unforgettable night.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:17:08.000Z",
+                "deletedAt": null,
+                "logo_id": 594
+            },
+            "members": [
+                {
+                    "username": "CatOPanda"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 269,
+                "name": "Milofox Assets",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Milofox"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 170,
+                "name": "EraiShukai_今日も一日生き延びてえらい！集会",
+                "group_id": "grp_53e6ad3f-c3ac-4fd3-b50c-651a94225408",
+                "description": "「今日もお疲れ様！生き延びてえらい！」という言葉を合言葉に一日の終わりに開催する「おかえり」が待っている集会です。",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-06-01T05:22:03.000Z",
+                "deletedAt": null,
+                "logo_id": 843
+            },
+            "members": [
+                {
+                    "username": "今日も一日生き延びてえらい！集会"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 332,
+                "name": "Shiba Squad",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Pikapetey"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 180,
+                "name": "Masked Sanctuary",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-05T15:50:22.000Z",
+                "updatedAt": "2025-03-05T15:50:22.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "MaskedTearZ"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 67,
+                "name": "Team Nakama Vibes",
+                "group_id": null,
+                "description": "The Official Home of The Self-Employed Idiots™ - A group of “semi-functional” homies out on a mission to spread some good vibes.",
+                "createdAt": "2024-05-24T12:06:36.000Z",
+                "updatedAt": "2024-06-21T01:28:28.000Z",
+                "deletedAt": null,
+                "logo_id": 185
+            },
+            "members": [
+                {
+                    "username": "NanoBunTV"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 68,
+                "name": "NanoBunTV",
+                "group_id": "grp_b02bffdb-e861-4b1a-9bc5-3099c3462597",
+                "description": "🥕 Professional Idiot Robo-Bunny from the virtual world! 🥕 Jack of all trades, master of... maybe a few (but it's all too much to fit into this little bio)",
+                "createdAt": "2024-05-24T12:07:08.000Z",
+                "updatedAt": "2025-03-28T16:17:20.000Z",
+                "deletedAt": null,
+                "logo_id": 186
+            },
+            "members": [
+                {
+                    "username": "NanoBunTV"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 366,
+                "name": "Happy Hutch",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "nagia"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 65,
+                "name": "Chimkins",
+                "group_id": "grp_b09525bf-4e83-4f3e-9231-0df3dac38dd6",
+                "description": "We are a small team working on VRChat worlds and planning to release more in the future. Our main goal is to make a world that is fun to play and great for hanging out with friends.\n\nWe currently have 3 worlds released publicly:\n- Zombie Survival\n- The Hunt\n- Deagle Duel",
+                "createdAt": "2024-05-23T17:34:47.000Z",
+                "updatedAt": "2025-03-28T16:03:16.000Z",
+                "deletedAt": null,
+                "logo_id": 183
+            },
+            "members": [
+                {
+                    "username": "Teal"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 323,
+                "name": "srpapa23",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T00:01:11.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "srpapa23"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 357,
+                "name": "Kookie Music Enjoyers",
+                "group_id": "grp_9ecdbb39-1862-4730-8f52-c81db839bb42",
+                "description": "Fan group for the artist Kookie, who makes hyperpop adjacent pop music with a focus on lyrical content.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-01T05:17:54.000Z",
+                "deletedAt": null,
+                "logo_id": 841
+            },
+            "members": [
+                {
+                    "username": "djredpanda"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 340,
+                "name": "BridgeMakers",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "ArmaniXR"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 229,
+                "name": "The WAWWA Hut",
+                "group_id": "grp_69a862ef-c21a-44b0-be87-8e1dfde8fca1",
+                "description": "The WAWWA Hut is a community that is open for people from any walk of life. We are a place for encouragement and inspiration. At the end of the day the culture in which we live doesn't share enough of the positivity towards one another so we do the best we can to lift others up when they are down and inspire everyone to pursue whatever it is they want to pursue in life. We have a decent sized gaming community, a music community and a few other sub communities.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:54:48.000Z",
+                "deletedAt": null,
+                "logo_id": 487
+            },
+            "members": [
+                {
+                    "username": "LifeCrafter98"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 368,
+                "name": "Hanami Enjoyers",
+                "group_id": "grp_d7c5e6df-593a-41d3-b20c-c5da0b47b8f0",
+                "description": "A community centered around the worlds and creations of Reth Sogen.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:00:25.000Z",
+                "deletedAt": null,
+                "logo_id": 739
+            },
+            "members": [
+                {
+                    "username": "Reth Sogen"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 341,
+                "name": "Ultimate Alliance VR",
+                "group_id": "grp_7c5712e0-1444-4a35-b892-ea8a92c46203",
+                "description": "A roleplay group set in the world of comic books inspired by the Marvel Ultimate Alliance series.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:12:41.000Z",
+                "deletedAt": null,
+                "logo_id": 747
+            },
+            "members": [
+                {
+                    "username": "Nergana"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 131,
+                "name": "No Friends Friends Club",
+                "group_id": "grp_693ddad7-3e90-46c6-bd38-04ccb1734420",
+                "description": "A social group and gathering that focuses on helping people struggling with social anxiety to come out and practice social skills while making friends along the way.",
+                "createdAt": "2024-06-14T22:15:14.000Z",
+                "updatedAt": "2024-06-21T02:33:04.000Z",
+                "deletedAt": null,
+                "logo_id": 231
+            },
+            "members": [
+                {
+                    "username": "SirEcho"
+                },
+                {
+                    "username": "cubee"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 291,
+                "name": "リーチャ隊長",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-05-27T04:48:41.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "rietzscha"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 308,
+                "name": "Zekk's Shaders and Support",
+                "group_id": "grp_b0cc7324-62c8-4f37-aa64-3d7d8570e1c4",
+                "description": "A place to discuss all details about Zekk shaders and prefabs, as well as any other general Unity questions!  ",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-06-01T05:26:35.000Z",
+                "deletedAt": null,
+                "logo_id": 846
+            },
+            "members": [
+                {
+                    "username": "Zekk"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 263,
+                "name": "Onix Angel Creations",
+                "group_id": "grp_2f961411-b179-4907-a8fd-c55a20b5a52e",
+                "description": "A SFW and LGBTQIA＋ community for meeting people‚ making friends‚ creating art and exploring interests",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T06:12:51.000Z",
+                "deletedAt": null,
+                "logo_id": 851
+            },
+            "members": [
+                {
+                    "username": "OnixAngel"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 349,
+                "name": "Neon Nexus",
+                "group_id": "grp_61c5af0f-ed5f-4621-ab8c-59f6a9bbdd1f",
+                "description": "Neon Nexus is a VTuber Mixer event for VTubers by VTubers",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-01T05:24:16.000Z",
+                "deletedAt": null,
+                "logo_id": 844
+            },
+            "members": [
+                {
+                    "username": "AkaneChiba"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 39,
+                "name": "The Blood Ravens",
+                "group_id": "grp_f498926a-9804-4ed5-b19a-d95b54a4d199",
+                "description": "The Blood Ravens are a multi-purpose PVP community and social hub, One of the oldest still running Warhammer Community on VR Chat. Events are hosted regularly by the week, participating in world hops, PVP matches with other Warhammer communities, Laserdome tournaments, game nights, and more. Our leadership team is friendly and active with a large playerbase and many regulars. We welcome any and all to participate and enjoy the community we've grown.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:57:58.000Z",
+                "deletedAt": null,
+                "logo_id": 163
+            },
+            "members": [
+                {
+                    "username": "TheFlyingFlapjack"
+                },
+                {
+                    "username": "Technomancer"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 284,
+                "name": "Galaxy Fleet Command",
+                "group_id": "grp_8241b351-ee54-4ac0-b515-d41be001b60c",
+                "description": "Galaxy Fleet Command is a group of Star Trek enthusiasts in locations scattered around planet earth, who have taken up virtual residence in SecondLife and VRChat. It is here, in this virtual world where we come to live, work and play out our roles as Star Fleet Officers, Shuttle Pilots, Academy Instructors, Engineers, Medical personnel, and various other functions.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T10:55:50.000Z",
+                "deletedAt": null,
+                "logo_id": 522
+            },
+            "members": [
+                {
+                    "username": "SybilFaewolf"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 261,
+                "name": "DJ Red Panda",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "djredpanda"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 302,
+                "name": "Baobab Crossing",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Sheena_baobab"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 93,
+                "name": "Ministry Promotions",
+                "group_id": "grp_584541a2-a29f-43c9-9b3b-e63b08d7ca7f",
+                "description": "Aproffessional & strategic option for vr event logistics an promotions",
+                "createdAt": "2024-06-07T17:10:21.000Z",
+                "updatedAt": "2024-06-21T02:09:18.000Z",
+                "deletedAt": null,
+                "logo_id": 203
+            },
+            "members": [
+                {
+                    "username": "Skoot"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 4,
+                "name": "Rindo Cult",
+                "group_id": "grp_c04c75e4-f49d-482a-a8ac-a43cb6aecdbd",
+                "description": "Built upon a foundation of love towards the Rindo base model (By Jingo Channel), Rindo cult is a fusion blend of cultures and bases, proud to offer a place of unity and joy to all. Whether you seek intellectual discussions, artistic collaborations, or simply a space to unwind and let loose, Rindo Cult offers it all. With events that span across all time zones of the world Rindo *Not-A-Cult* welcomes you with open arms, no matter your affinity!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:24:33.000Z",
+                "deletedAt": null,
+                "logo_id": 154
+            },
+            "members": [
+                {
+                    "username": "Azumazz"
+                },
+                {
+                    "username": "Rielyn"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 233,
+                "name": "El Alba",
+                "group_id": "grp_6f6744c5-4ca0-44a4-8a91-1cb4e5d167ad",
+                "description": "Bilingual (Spanish-English) VRChat community dedicated to providing a safe and welcoming environment to enjoy all that the game and its people have to offer.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:49:03.000Z",
+                "deletedAt": null,
+                "logo_id": 503
+            },
+            "members": [
+                {
+                    "username": "Yugenki"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 199,
+                "name": "The Faceless",
+                "group_id": "grp_0723d245-33b3-4929-a27b-f0d96435b71d",
+                "description": "The Faceless, founded by the Blind Prophet, serves the Many-Faced God by fostering balance—introducing chaos where needed and peace where there's excess chaos. Our 18+ community, based in the VRUnderground Oasis, operates The Temple, a free online educational and community center. We offer a wide range of courses and events, including arts, sciences, technology, music, dance, wellness, gaming, and cultural history, with many more subjects available.",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-01T05:57:27.000Z",
+                "deletedAt": null,
+                "logo_id": 849
+            },
+            "members": [
+                {
+                    "username": "Nekoyori"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 139,
+                "name": "VRelium",
+                "group_id": "grp_39a94c64-9712-4680-9758-db25fde037f4",
+                "description": "VRelium is a dynamic and inclusive community within VRChat‚ built around a shared passion for music and creativity․ We are dedicated to supporting and showcasing the talents of virtual artists‚ DJs‚ and performers‚ providing a platform for them to connect with audiences and share their craft in meaningful ways.\n\nAt the heart of VRelium is the belief that music has the power to bring people together‚ and we aim to create unforgettable experiences that inspire connection and collaboration․ Through our events‚ we celebrate the diverse and ever-evolving virtual music scene‚ from intimate performances to large-scale festivals․\n\n\nCharity is a key part of what we do‚ as we believe in using our platform to make a positive impact․ By hosting charity-focused festivals‚ we bring the community together to support important causes and demonstrate the potential of VR to create real-world change․\n\n\nVRelium is more than just a place for music, its a space for building friendships‚ exploring creativity‚ and shaping the future of VR entertainment․ \n\nWhether youre an artist‚ a performer‚ or someone who simply loves music‚ VRelium is a welcoming space where you can be part of something bigger",
+                "createdAt": "2024-06-23T11:37:37.000Z",
+                "updatedAt": "2025-04-24T12:33:50.000Z",
+                "deletedAt": null,
+                "logo_id": 341
+            },
+            "members": [
+                {
+                    "username": "goldielounge"
+                },
+                {
+                    "username": "djredpanda"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 262,
+                "name": "Kudalyn's Creations",
+                "group_id": "grp_8b9e3ab9-6a60-42f2-b491-a0cd4bcaa915",
+                "description": "Hi! I'm Kuda, and I make customizable furry models for VRChat, along with various clothing and other accessories for them. I also host once a month meetups for my avatar community , so folks can show off what they've been working on, and bring their friends along to chill!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T06:48:40.000Z",
+                "deletedAt": null,
+                "logo_id": 853
+            },
+            "members": [
+                {
+                    "username": "Kudalyn"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 276,
+                "name": "Fort Victoria Recruitment Base",
+                "group_id": "grp_6b26600c-18e2-436b-ba13-a65a97398ae5",
+                "description": "Fort Victoria offers a military base for groups seeking to recruit and hold military events․ This map was built specifically for VRChat Mil-Sim communities and the general public‚ likewise․",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:01:17.000Z",
+                "deletedAt": null,
+                "logo_id": 523
+            },
+            "members": [
+                {
+                    "username": "Jay3112"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 81,
+                "name": "ARK Station VRChat Avatar PVP",
+                "group_id": "grp_4b0ef747-1022-4745-9925-e95704ac2f27",
+                "description": "ARK Station is a VRChat Community HUB Based on Creativity, Interaction, and Having Fun. We aim to create a server/environment for people to relax, enjoy, or just hang out after a long day of Work, School, or Life. While also focusing on being able to interact with your friends on a whole new level. Providing a place where you can download Prefabs based on this idea of interaction. Letting Players Create their Avatars or Worlds And using them in our Events. We aim to push the limits of what VRChat can be, not only the things we create but each other. We are a VRChat community HUB, and all communities are welcome.",
+                "createdAt": "2024-06-02T12:07:19.000Z",
+                "updatedAt": "2025-06-01T05:23:26.000Z",
+                "deletedAt": null,
+                "logo_id": 194
+            },
+            "members": [
+                {
+                    "username": "GoFluffYaself"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 292,
+                "name": "The Improvatars",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Callamander"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 189,
+                "name": "Togare Termini",
+                "group_id": "grp_720e533f-4df0-453d-bda2-1e9d6feebfe8",
+                "description": "Togare Termini is a Metaverse Roleplay Lobby set in a Train Station. \nStop in with a connecting tram as you travel across the Metaverse, or stay a long while to visit our shops and learn about our in-house lore. We are Beginner friendly & Horror coded - Goofs, Gaffs, and Slice-of-Life welcome. ",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-28T05:34:09.000Z",
+                "deletedAt": null,
+                "logo_id": 478
+            },
+            "members": [
+                {
+                    "username": "Insanitorium9"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 120,
+                "name": "Projekt G.A.T.E",
+                "group_id": "grp_85e5e21c-2f49-4c3f-9343-624958202795",
+                "description": "Projekt G.A.T.E is a milsim group based on the anime/manga called, \"Jieitai Kanochi nite, Kaku Tatakaeri or Gate: Thus, the Japanese Self-Defense Force Fought There.\" Using our own flare of the storyline of the anime/manga to get us there in roleplay.",
+                "createdAt": "2024-06-12T21:56:40.000Z",
+                "updatedAt": "2024-06-21T02:25:02.000Z",
+                "deletedAt": null,
+                "logo_id": 223
+            },
+            "members": [
+                {
+                    "username": "DatMasterHunts"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 226,
+                "name": "VI Legion",
+                "group_id": "grp_94d8ca63-d730-4aa2-8f02-2b74aa774b9b",
+                "description": "A Warhammer PVP/Chill ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-07T01:21:48.000Z",
+                "deletedAt": null,
+                "logo_id": 547
+            },
+            "members": [
+                {
+                    "username": "CrAzY_hAwK2341"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 238,
+                "name": "Virtual Performing Live Music Events",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "djembedragon"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 114,
+                "name": "Eliteiment's Worldtopia",
+                "group_id": "grp_2a96ec52-d479-466e-9ba4-c954733a2df8",
+                "description": "A community of game world enthusiasts revolving around Eliteiment's creations.",
+                "createdAt": "2024-06-12T21:49:39.000Z",
+                "updatedAt": "2025-03-28T14:55:22.000Z",
+                "deletedAt": null,
+                "logo_id": 215
+            },
+            "members": [
+                {
+                    "username": "Eliteiment"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 191,
+                "name": "KVRR (Virtual Reality Radio)",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Glitch The Fox"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 236,
+                "name": "Subsystem Virtual Events",
+                "group_id": "grp_d1b5bba8-1521-4dbf-aec8-c8159173bf36",
+                "description": "Subsystem is at the forefront of european virtual raves, offering immersive experiences that redefine electronic music events and push the boundaries of VRChat's capabilities. By merging cutting-edge production with pulsating electronic music, Subsystem invites music lovers to an unparalleled journey into digital bliss from anywhere around the world. \nIt's the ultimate destination for those seeking a unique and unforgettable rave experience.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:47:50.000Z",
+                "deletedAt": null,
+                "logo_id": 502
+            },
+            "members": [
+                {
+                    "username": "FPaul"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 310,
+                "name": "Osiris Division",
+                "group_id": "grp_3d07743c-7655-402b-9b67-a06e2837c96e",
+                "description": "A group of Titanfall fans recreating the iconic franchise in VR through large scale events, Roleplay, and content creation.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:14:40.000Z",
+                "deletedAt": null,
+                "logo_id": 593
+            },
+            "members": [
+                {
+                    "username": "TheFriday"
+                }
+            ]
         }
     ]
 }

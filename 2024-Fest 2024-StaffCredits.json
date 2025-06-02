@@ -100,13 +100,13 @@
         {
             "departments": [
                 {
-                    "department": "Media",
+                    "department": "Business and Finance",
+                    "jobTitles": []
+                },
+                {
+                    "department": "Moderation",
                     "jobTitles": [
-                        "Production Crew",
-                        "Social Crew",
-                        "Sound Design Crew",
-                        "Art Crew",
-                        "Actor crew"
+                        "Team Leader"
                     ]
                 }
             ],
@@ -270,6 +270,21 @@
         {
             "departments": [],
             "user": "EmmaTorch"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Media Administrations",
+                        "Production Crew",
+                        "Social Crew",
+                        "Live Crew",
+                        "Actor crew"
+                    ]
+                }
+            ],
+            "user": "Compared"
         }
     ]
 }
