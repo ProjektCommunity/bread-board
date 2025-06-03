@@ -120,7 +120,11 @@
                 "deletedAt": null,
                 "logo_id": 131
             },
-            "members": []
+            "members": [
+                {
+                    "username": "xCirrex"
+                }
+            ]
         },
         {
             "community": {
