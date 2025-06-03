@@ -2597,6 +2597,23 @@
                     "username": "TheFriday"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 373,
+                "name": "Skulls Nightshade - Afterlife",
+                "group_id": "grp_f24acd6e-7cc0-4884-a88b-b2a6935611ca",
+                "description": "The Afterlife Official VR Chat Community - Lead by VTuber ＆ Event Host Skulls Nightshade",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-02T19:47:42.000Z",
+                "deletedAt": null,
+                "logo_id": 878
+            },
+            "members": [
+                {
+                    "username": "NovedPlayer"
+                }
+            ]
         }
     ]
 }
