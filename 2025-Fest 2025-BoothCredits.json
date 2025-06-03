@@ -2631,6 +2631,23 @@
                     "username": "Elocin_anagram"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 227,
+                "name": "Mosaic",
+                "group_id": "grp_a11c7e33-a1e1-4806-9310-6625b7644120",
+                "description": "Mosaic is a place for creators of all kinds to connect, collaborate, and elevate their craft. Whether you want to promote yourself, participate in creative projects, or help communities with media content, there’s a role for you here.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T14:39:20.000Z",
+                "deletedAt": null,
+                "logo_id": 492
+            },
+            "members": [
+                {
+                    "username": "Panda"
+                }
+            ]
         }
     ]
 }
