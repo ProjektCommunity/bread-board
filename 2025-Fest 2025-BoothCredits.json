@@ -2614,6 +2614,23 @@
                     "username": "NovedPlayer"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 219,
+                "name": "Refraction VR",
+                "group_id": "grp_429dae44-8af3-45a5-b5d9-ae674d97a22c",
+                "description": "Refraction VR is a moderated public VRChat group dedicated to providing a safe and inclusive space for LGBTQ+ individuals and allies. We offer a welcoming community where members can connect, express themselves, and find support within the virtual world of VRChat. Come check out our daily instances and weekly events!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-07T01:27:48.000Z",
+                "deletedAt": null,
+                "logo_id": 550
+            },
+            "members": [
+                {
+                    "username": "Elocin_anagram"
+                }
+            ]
         }
     ]
 }
