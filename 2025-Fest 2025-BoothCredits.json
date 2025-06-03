@@ -2703,6 +2703,23 @@
                     "username": "ChrisKani"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 334,
+                "name": "Bossun's Gladiators",
+                "group_id": "grp_339935e1-74e8-441b-9478-611afb8f0dd0",
+                "description": "Workout Crew focused on improving wellbeing.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T00:28:14.000Z",
+                "deletedAt": null,
+                "logo_id": 733
+            },
+            "members": [
+                {
+                    "username": "Bossun21"
+                }
+            ]
         }
     ]
 }
