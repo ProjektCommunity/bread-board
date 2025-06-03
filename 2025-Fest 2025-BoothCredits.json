@@ -2652,6 +2652,23 @@
                     "username": "Panda"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 186,
+                "name": "The Mandalorian Covert of VRC",
+                "group_id": "grp_8117ad89-0d9c-4477-8ccb-b456c9709a3f",
+                "description": "The Mandalorian Covert of VRChat is a casual Milsim/Roleplay community focusing on the Mandalorian from Star Wars, with active event hosts, and many avatars/worlds made by our own dev team.",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-28T15:16:18.000Z",
+                "deletedAt": null,
+                "logo_id": 498
+            },
+            "members": [
+                {
+                    "username": "bragfilly"
+                }
+            ]
         }
     ]
 }
