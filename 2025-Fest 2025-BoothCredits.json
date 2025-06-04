@@ -61,7 +61,11 @@
                 "deletedAt": null,
                 "logo_id": 241
             },
-            "members": []
+            "members": [
+                {
+                    "username": "GSGenesis"
+                }
+            ]
         },
         {
             "community": {
