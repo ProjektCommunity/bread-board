@@ -2294,10 +2294,10 @@
             "community": {
                 "id": 302,
                 "name": "Baobab Crossing",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_bb4f14af-4cbc-439a-8ce6-9189c615a2c9",
+                "description": "Baobab Crossing delivers Blooming Moments—a celebration of fleeting encounters, cherished connections, and music that resonates beyond the moment.",
                 "createdAt": "2025-04-06T01:54:18.000Z",
-                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-06-04T21:56:26.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
