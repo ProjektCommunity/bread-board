@@ -2920,6 +2920,23 @@
                     "username": "Synthia"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 355,
+                "name": "DJJackSpade's Corner",
+                "group_id": "grp_5854fe75-935b-4da9-894c-bf64c19786b1",
+                "description": "My Community is for my fans and friends of all kind:3 i try my best to give 100% with everything i do. My community is there for everyone to be respectful to eachother and to show eachother love and support while aldo having fun",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T00:34:48.000Z",
+                "deletedAt": null,
+                "logo_id": 737
+            },
+            "members": [
+                {
+                    "username": "DJJackSpade"
+                }
+            ]
         }
     ]
 }
