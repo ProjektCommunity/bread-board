@@ -2859,6 +2859,46 @@
                     "username": "NovedPlayer"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 328,
+                "name": "Avatelier / Sinrith Studios",
+                "group_id": "grp_bf36862d-78ec-42c2-85dc-bb06deaee622",
+                "description": "Sinrith Studio's is a cozy avatar brand featuring kemonomimi avatars - Avatelier is a new community, centered around creating and customizing avatars. We aim to learn and grow together, while promoting each other. ",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-06-01T05:16:50.000Z",
+                "deletedAt": null,
+                "logo_id": 840
+            },
+            "members": [
+                {
+                    "username": "Sinrith"
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 35,
+                "name": "The Synapse",
+                "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
+                "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2024-06-21T00:57:42.000Z",
+                "deletedAt": null,
+                "logo_id": 162
+            },
+            "members": [
+                {
+                    "username": "church_vr"
+                },
+                {
+                    "username": "Wolveeps"
+                },
+                {
+                    "username": "spookyghostboo"
+                }
+            ]
         }
     ]
 }
