@@ -2759,10 +2759,10 @@
             "community": {
                 "id": 345,
                 "name": "Mugoobers",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_6099c30b-fa1d-45e4-9a99-c88f9e805779",
+                "description": "VRChat Cafe and social community serving coffees and providing good vibes for players to meet new friends",
                 "createdAt": "2025-05-18T23:34:55.000Z",
-                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-04T22:10:01.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
