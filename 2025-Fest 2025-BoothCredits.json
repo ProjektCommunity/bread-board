@@ -2842,6 +2842,23 @@
                     "username": "thepugtater"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 374,
+                "name": "Sonic Speed Network",
+                "group_id": "grp_dc9fd62c-da65-4d1b-b4cf-31f7c0cac174",
+                "description": "You just found the FASTEST channel on YouTube.\nWelcome to Sonic Speed Network — home of Sonic The VTuber, where the news is fresh, the takes are hot, and the gameplay? Absolutely UNHINGED. \n\nNew Sonic drops? We’re on it.\nGameplay? Speedrun vibes only.\nDiscussions? Chaotic, loud, and full of ring energy.\nMemes, moments, and maybe a meltdown or two.\n\nThis ain’t just a channel — it’s a Zone.\nSubscribe and join the Speedster Family, or get left in the loop-de-loop.\nLet’s make some noise!",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-04T10:11:48.000Z",
+                "deletedAt": null,
+                "logo_id": 914
+            },
+            "members": [
+                {
+                    "username": "NovedPlayer"
+                }
+            ]
         }
     ]
 }
