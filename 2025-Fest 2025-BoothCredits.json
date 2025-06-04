@@ -2754,6 +2754,26 @@
                     "username": "Pancho0308"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 345,
+                "name": "Mugoobers",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Jamaun"
+                },
+                {
+                    "username": "Jamaun"
+                }
+            ]
         }
     ]
 }
