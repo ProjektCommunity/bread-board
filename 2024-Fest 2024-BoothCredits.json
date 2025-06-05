@@ -879,11 +879,11 @@
         {
             "community": {
                 "id": 53,
-                "name": "Wardens Roleplay",
+                "name": "Wardens of Leefside",
                 "group_id": "grp_030c8982-b486-451a-91c3-e6cf1de307b1",
-                "description": "Wardens is Flintlock Fantasy Roleplay in VR",
+                "description": "Wardens is Fantasy Roleplay in VR",
                 "createdAt": "2024-05-22T20:44:00.000Z",
-                "updatedAt": "2024-06-21T01:14:36.000Z",
+                "updatedAt": "2025-06-05T23:14:45.000Z",
                 "deletedAt": null,
                 "logo_id": 172
             },
