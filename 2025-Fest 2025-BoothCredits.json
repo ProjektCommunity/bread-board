@@ -3039,6 +3039,23 @@
                     "username": "Happyrobot33"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 352,
+                "name": "Mapache Entertainment Café",
+                "group_id": "grp_9e556ea2-cd9f-4669-a672-0a8854edced1",
+                "description": "We are a maid & butler café, dedicated to providing a pleasant experience for all our guests and brightening their day, especially when it hasn't been the best.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:22:15.000Z",
+                "deletedAt": null,
+                "logo_id": 751
+            },
+            "members": [
+                {
+                    "username": "MapacheEntCafe"
+                }
+            ]
         }
     ]
 }
