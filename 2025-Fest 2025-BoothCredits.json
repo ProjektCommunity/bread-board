@@ -2971,6 +2971,23 @@
                     "username": "Corbelle"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 359,
+                "name": "im_naku",
+                "group_id": "grp_c7cf8b2b-85b8-433f-bb07-0913062282a2",
+                "description": "Music centric content creator, im_naku's official group consists of tri-weekly acoustic sessions, booked dj venue performances, and large scale music events once a year.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:11:43.000Z",
+                "deletedAt": null,
+                "logo_id": 746
+            },
+            "members": [
+                {
+                    "username": "naku"
+                }
+            ]
         }
     ]
 }
