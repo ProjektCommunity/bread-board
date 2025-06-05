@@ -2088,10 +2088,10 @@
             "community": {
                 "id": 340,
                 "name": "BridgeMakers",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_42e5e4a9-830e-45ba-9a85-f093d1d3d576",
+                "description": "We envision virtual reality communities that thrive on collaboration and resilience by aiming to foster inclusive, transformative spaces where challenges become opportunities for innovation and growth.",
                 "createdAt": "2025-05-18T23:34:55.000Z",
-                "updatedAt": "2025-06-05T23:18:28.000Z",
+                "updatedAt": "2025-06-05T23:18:43.000Z",
                 "deletedAt": null,
                 "logo_id": 962
             },
