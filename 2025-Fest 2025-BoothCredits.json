@@ -3124,6 +3124,23 @@
                     "username": "CuddleBudz"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 240,
+                "name": "Rainbow Library",
+                "group_id": "grp_1134d194-858d-4407-9df2-18ae9089d86d",
+                "description": "The Rainbow Library is a safe haven where LGBTQ+ individuals and allies come together to connect, grow, and support one another.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-04-07T01:19:23.000Z",
+                "deletedAt": null,
+                "logo_id": 546
+            },
+            "members": [
+                {
+                    "username": "RainbowLibrary"
+                }
+            ]
         }
     ]
 }
