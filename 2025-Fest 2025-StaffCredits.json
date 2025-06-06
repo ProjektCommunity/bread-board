@@ -33,6 +33,17 @@
         {
             "departments": [],
             "user": "Uranic"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Art Crew"
+                    ]
+                }
+            ],
+            "user": "Evoxy"
         }
     ]
 }
