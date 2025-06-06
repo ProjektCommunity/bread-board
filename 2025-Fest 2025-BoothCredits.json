@@ -3252,6 +3252,23 @@
                     "username": "Unifox"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 333,
+                "name": "The Jazz Lounge",
+                "group_id": "grp_67eda0fd-4c1b-4187-a568-44f2fc6949d7",
+                "description": "The Jazz Lounge is a social community dedicated to bringing people together to enjoy Jazz music and events together. Hosting not only Jazz DJ events, but also live musical performances with jazz musicians and artists within VRchat. Our goal is to provide a haven for jazz lovers to enjoy music, socialize, and have a place to relax in within the VRchat sphere",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T00:31:28.000Z",
+                "deletedAt": null,
+                "logo_id": 735
+            },
+            "members": [
+                {
+                    "username": "lanzor"
+                }
+            ]
         }
     ]
 }
