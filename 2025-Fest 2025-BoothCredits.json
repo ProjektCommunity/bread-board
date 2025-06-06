@@ -3286,6 +3286,23 @@
                     "username": "Glitch The Fox"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 141,
+                "name": "ArgusVRC",
+                "group_id": "grp_982d0224-a61a-4bbf-8386-adc547355436",
+                "description": "We are a team and community creating a Sword Art Online VRChat game. Our project features an interactive world, save systems, PVP/PVE combat, and community events. Join us to experience the world of Sword Art Online in VRChat!",
+                "createdAt": "2024-06-23T13:54:58.000Z",
+                "updatedAt": "2024-06-23T17:57:20.000Z",
+                "deletedAt": null,
+                "logo_id": 291
+            },
+            "members": [
+                {
+                    "username": "Savvy Chap"
+                }
+            ]
         }
     ]
 }
