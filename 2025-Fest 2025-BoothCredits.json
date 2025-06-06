@@ -3303,6 +3303,23 @@
                     "username": "Savvy Chap"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 367,
+                "name": "Ferryman Collective",
+                "group_id": "grp_f047adb3-7efa-4a7b-8d53-5c82d5bb35c8",
+                "description": "Ferryman Collective is an award-winning company of immersive theatre makers redefining live performance through virtual reality․ We're uniting a vibrant‚ inclusive community of artists‚ audiences‚ researchers‚ and collaborators who share a passion for the art of live theatre in virtual spaces․ This growing network supports experimentation‚ dialogue‚ and access to immersive performance‚ fostering a global stage where anyone‚ anywhere can take part․",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:04:56.000Z",
+                "deletedAt": null,
+                "logo_id": 742
+            },
+            "members": [
+                {
+                    "username": "screamingcolor"
+                }
+            ]
         }
     ]
 }
