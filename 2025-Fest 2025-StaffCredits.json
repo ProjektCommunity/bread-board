@@ -46,7 +46,16 @@
             "user": "Evoxy"
         },
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Production Crew",
+                        "Music Crew",
+                        "Art Crew"
+                    ]
+                }
+            ],
             "user": "Ezyne"
         }
     ]
