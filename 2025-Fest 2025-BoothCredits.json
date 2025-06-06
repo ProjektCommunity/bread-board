@@ -3341,6 +3341,23 @@
                     "username": "Comedian't"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 336,
+                "name": "United Front NATO RP",
+                "group_id": "grp_cfed9369-1a2d-460f-8495-e47bb3102510",
+                "description": "A military roleplay group focusing on the North Atlantic Treaty Organization and the militaries of it's member countries. ",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-06T18:24:34.000Z",
+                "deletedAt": null,
+                "logo_id": 736
+            },
+            "members": [
+                {
+                    "username": "Sugar_Lillie"
+                }
+            ]
         }
     ]
 }
