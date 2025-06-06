@@ -322,11 +322,11 @@
         {
             "community": {
                 "id": 21,
-                "name": "VRChat Kmart",
+                "name": "VRC Kmart",
                 "group_id": "grp_8c7c423b-cfab-40f5-a53a-a8431655826b",
                 "description": "Community dedicated to preserving America's most popular store in virtual reality.",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2025-04-06T11:33:12.000Z",
+                "updatedAt": "2025-06-06T12:47:05.000Z",
                 "deletedAt": null,
                 "logo_id": 457
             },
