@@ -3320,6 +3320,23 @@
                     "username": "screamingcolor"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 140,
+                "name": "Family Friendly Cult",
+                "group_id": "grp_7171bda3-6954-440d-a92f-7bf58d4df206",
+                "description": "The group is mostly just a chill hangout group originally made for people \"enjoying\" the Uko avatars (still dont know why anyone would). We do weekly events such as playing various games, hanging out or exploring different places in Vrchat.",
+                "createdAt": "2024-06-23T11:38:26.000Z",
+                "updatedAt": "2024-06-27T13:10:56.000Z",
+                "deletedAt": null,
+                "logo_id": 332
+            },
+            "members": [
+                {
+                    "username": "Comedian't"
+                }
+            ]
         }
     ]
 }
