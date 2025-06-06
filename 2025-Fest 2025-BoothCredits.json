@@ -410,7 +410,11 @@
                 "deletedAt": null,
                 "logo_id": 321
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Philosophy101"
+                }
+            ]
         },
         {
             "community": {
