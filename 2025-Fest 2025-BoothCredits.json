@@ -201,7 +201,11 @@
                 "deletedAt": null,
                 "logo_id": 489
             },
-            "members": []
+            "members": [
+                {
+                    "username": "Ashen Phoenix Games"
+                }
+            ]
         },
         {
             "community": {
