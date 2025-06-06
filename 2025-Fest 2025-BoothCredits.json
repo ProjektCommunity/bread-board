@@ -3198,6 +3198,23 @@
                     "username": "Lirodon"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 96,
+                "name": "SKULLco",
+                "group_id": null,
+                "description": "SKULLco is a brand focused on developing digital assets. These assets come in a wide variety. From 3dmodels, to videos, sounds files, VFX and so on. Our main strength is 3d assets of the SciFI/Cyberpunk themes. However, we have skills in developing all different styles. SKULLco takes pride in the attnetion to detail. Not only making good looking assets, but assets that function consistantly and properly. You can find our assets at either our Gumroad or Booth stores.",
+                "createdAt": "2024-06-10T21:22:00.000Z",
+                "updatedAt": "2024-06-27T22:32:45.000Z",
+                "deletedAt": null,
+                "logo_id": 337
+            },
+            "members": [
+                {
+                    "username": "I Skully I"
+                }
+            ]
         }
     ]
 }
