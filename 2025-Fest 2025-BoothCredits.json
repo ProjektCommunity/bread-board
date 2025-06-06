@@ -3235,6 +3235,23 @@
                     "username": "FireteamVR"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 317,
+                "name": "The Energetic Convention",
+                "group_id": "grp_68436afe-3d3a-4455-b88c-c8fa6924e4e0",
+                "description": "We are a small online furry convention based in Canada! We have events in VRChat, Minecraft, Beat Saber, and more! We run twice a year, and we hope to see you join us!",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:25:06.000Z",
+                "deletedAt": null,
+                "logo_id": 598
+            },
+            "members": [
+                {
+                    "username": "Unifox"
+                }
+            ]
         }
     ]
 }
