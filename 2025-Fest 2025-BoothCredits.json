@@ -3535,6 +3535,23 @@
                     "username": "Gayming_Nights"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 279,
+                "name": "Sundrop",
+                "group_id": "grp_15d0436c-3236-4fc5-a3f9-89e97d1e6921",
+                "description": "When the sun drops‚ the party starts․ \n\nWe are the premiere 18＋ social hub․ We host a wide variety of events throughout the week‚ including parties‚ pop-up gatherings‚ live entertainment‚ and more․ Whether you're here to dance‚ meet new people‚ or simply vibe with the group‚ Sundrop is the perfect escape from reality․\n\nCheck our discord for Pop-ups and full scheduleǃ",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:11:37.000Z",
+                "deletedAt": null,
+                "logo_id": 545
+            },
+            "members": [
+                {
+                    "username": "CRyptekCypher"
+                }
+            ]
         }
     ]
 }
