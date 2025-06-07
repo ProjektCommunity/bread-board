@@ -569,10 +569,10 @@
             "community": {
                 "id": 188,
                 "name": "World End Apocalypse",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_845f6e70-3972-4b90-9af0-47aa3134a157",
+                "description": "We are a heavy apocalypse role play community with real consequences for character actions.",
                 "createdAt": "2025-03-05T16:01:18.000Z",
-                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T22:31:38.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
