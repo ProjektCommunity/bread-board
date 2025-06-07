@@ -3807,6 +3807,23 @@
                     "username": "Hella_Faith"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 314,
+                "name": "El Pecado",
+                "group_id": "grp_9ae92661-0679-42a9-a1ff-5ac7f11bfb87",
+                "description": "Interdisciplinary Latino group. Organizing music, dance, and special events to promote union, diversity, and entertainment within, and outside our communities.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:20:39.000Z",
+                "deletedAt": null,
+                "logo_id": 596
+            },
+            "members": [
+                {
+                    "username": "DannyLasagna"
+                }
+            ]
         }
     ]
 }
