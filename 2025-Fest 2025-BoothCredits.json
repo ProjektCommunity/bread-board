@@ -3654,6 +3654,23 @@
                     "username": "starheart"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 200,
+                "name": "NIIC's Fangsters",
+                "group_id": "grp_2af2e430-79c7-44af-82ae-7e2002b8a754",
+                "description": "We’re a joy-fueled, music-loving community centered around NIIC the Singing Dog—where good vibes, queer pride, and furry fun take center stage! From our lively karaoke nights to cozy movie watch parties and hangouts in VRChat, we create a safe, uplifting space where everyone can be their full self. Whether you're belting out bops or vibing with friends, you're always welcome in our den. 💚🐾",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T01:42:45.000Z",
+                "deletedAt": null,
+                "logo_id": 998
+            },
+            "members": [
+                {
+                    "username": "n i i c"
+                }
+            ]
         }
     ]
 }
