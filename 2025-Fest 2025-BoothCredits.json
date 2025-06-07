@@ -2186,11 +2186,11 @@
         {
             "community": {
                 "id": 291,
-                "name": "リーチャ隊長",
+                "name": "無所属",
                 "group_id": null,
-                "description": null,
+                "description": "拙者は流浪人…",
                 "createdAt": "2025-04-06T01:54:18.000Z",
-                "updatedAt": "2025-05-27T04:48:41.000Z",
+                "updatedAt": "2025-06-07T22:28:34.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
