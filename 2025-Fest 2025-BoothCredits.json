@@ -3620,6 +3620,23 @@
                     "username": "HENDENBERGTITAN"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 304,
+                "name": "Spooky's Corner",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "SpookyObak"
+                }
+            ]
         }
     ]
 }
