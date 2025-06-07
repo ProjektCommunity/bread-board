@@ -2571,9 +2571,9 @@
                 "id": 191,
                 "name": "KVRR (Virtual Reality Radio)",
                 "group_id": null,
-                "description": null,
+                "description": "Virtual Reality Radio is a radio station where you can hear performers/ musicians from across virtual reality",
                 "createdAt": "2025-03-05T16:01:18.000Z",
-                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T22:30:48.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
