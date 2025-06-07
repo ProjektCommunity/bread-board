@@ -2832,10 +2832,10 @@
             "community": {
                 "id": 278,
                 "name": "The T'au Empire",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_214c7202-3e99-4a19-a37a-970478b9c949",
+                "description": "The T'au Empire is a VRChat PVP group based on the faction of the same name from the Warhammer 40k Universe. We use the latest ARK Avatar PVP systems allowing us to battle other ARK40K factions using custom avatars made by our esteemed Earth Caste. We also host other Tau themed social events including Roleplay missions, gamenights, and more!",
                 "createdAt": "2025-04-06T01:54:18.000Z",
-                "updatedAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-06-07T22:58:28.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
