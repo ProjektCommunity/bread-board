@@ -3518,6 +3518,23 @@
                     "username": "SylanTroh"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 193,
+                "name": "Gayming Nights",
+                "group_id": "grp_d9c7f0e4-b0ae-443a-a7cc-d67b7988b71f",
+                "description": "Essentially a place for gamers to play games and vibe! Everyone above the age of 18 is more than welcome to join.",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-03-28T05:47:52.000Z",
+                "deletedAt": null,
+                "logo_id": 484
+            },
+            "members": [
+                {
+                    "username": "Gayming_Nights"
+                }
+            ]
         }
     ]
 }
