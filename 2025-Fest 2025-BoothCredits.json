@@ -1530,10 +1530,10 @@
             "community": {
                 "id": 197,
                 "name": "Coalition of Allied Nations",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_412f8405-4f93-4925-b15f-bd84d017bbe0",
+                "description": "A military Roleplay group, created by people with experience and the will to explore the high of the RP niche.",
                 "createdAt": "2025-03-05T16:01:18.000Z",
-                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T22:59:13.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
