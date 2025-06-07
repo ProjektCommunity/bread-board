@@ -3552,6 +3552,23 @@
                     "username": "CRyptekCypher"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 115,
+                "name": "Studio Penrose",
+                "group_id": "grp_97ee3f29-2f38-4c1d-9e3e-a2483b2561b2",
+                "description": "Studio Penrose is an independent VR film studio striving to make new and unique lore-driven stories. The group is comprised of many members of all backgrounds who work together to create films for all audiences to enjoy. ",
+                "createdAt": "2024-06-12T21:53:24.000Z",
+                "updatedAt": "2024-06-21T02:19:22.000Z",
+                "deletedAt": null,
+                "logo_id": 216
+            },
+            "members": [
+                {
+                    "username": "PeachBight"
+                }
+            ]
         }
     ]
 }
