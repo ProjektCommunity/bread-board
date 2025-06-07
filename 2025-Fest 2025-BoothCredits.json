@@ -3573,11 +3573,11 @@
         {
             "community": {
                 "id": 195,
-                "name": "Channel 9",
-                "group_id": null,
+                "name": "Channel 9 Entertainment",
+                "group_id": "grp_4913a1c1-4b14-4024-ab91-59bca0ff5cb2",
                 "description": null,
                 "createdAt": "2025-03-05T16:01:18.000Z",
-                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T22:33:27.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
