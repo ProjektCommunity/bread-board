@@ -3705,6 +3705,23 @@
                     "username": "VirtuaLilly"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 135,
+                "name": "Hoppou Sanctuary",
+                "group_id": "grp_69d54d91-cc57-49ed-8f44-2f96cfe5e264",
+                "description": "We are Hoppou Sanctuary․ A VRChat Hoppou Community that our goal is create a safehaven for everyone․\n\nWe do hoppou raids․\n\nEvents of all kinds And Also have a whole part dedicated to story telling and media creation from videos to more․",
+                "createdAt": "2024-06-20T21:10:23.000Z",
+                "updatedAt": "2025-06-07T02:34:47.000Z",
+                "deletedAt": null,
+                "logo_id": 1002
+            },
+            "members": [
+                {
+                    "username": "jackiebunbun"
+                }
+            ]
         }
     ]
 }
