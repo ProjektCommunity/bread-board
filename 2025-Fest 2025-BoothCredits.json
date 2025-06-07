@@ -3608,10 +3608,10 @@
             "community": {
                 "id": 190,
                 "name": "Fellowship of Null",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_8e48a42b-bc59-475b-a081-6c7dcdf950f1",
+                "description": "Hoppou based role play group themed around a cult of bells. Very lighthearted overall.",
                 "createdAt": "2025-03-05T16:01:18.000Z",
-                "updatedAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-07T22:32:02.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
