@@ -3845,6 +3845,23 @@
                     "username": "PablosCorner"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 315,
+                "name": "Spanish Dance Community",
+                "group_id": "grp_d8b39868-8710-485c-b24a-58797f667eea",
+                "description": "Hispanic dance community and academy",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:22:50.000Z",
+                "deletedAt": null,
+                "logo_id": 597
+            },
+            "members": [
+                {
+                    "username": "ayamemai"
+                }
+            ]
         }
     ]
 }
