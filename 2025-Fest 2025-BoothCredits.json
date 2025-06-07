@@ -3688,6 +3688,23 @@
                     "username": "Zombiepunk~"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 259,
+                "name": "VirtuaFest",
+                "group_id": "grp_91ef6f33-8ff9-46ad-b22a-f84a5f54b97a",
+                "description": "VirtuaFest is a community-driven celebration of music, and performance in VRChat bringing together DJs, dancers, live acts, and creative talent in immersive virtual spaces. It's more than a festival it’s where virtual culture comes alive.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-05-24T00:51:14.000Z",
+                "deletedAt": null,
+                "logo_id": 497
+            },
+            "members": [
+                {
+                    "username": "VirtuaLilly"
+                }
+            ]
         }
     ]
 }
