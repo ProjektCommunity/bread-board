@@ -380,7 +380,11 @@
                 "deletedAt": null,
                 "logo_id": 858
             },
-            "members": []
+            "members": [
+                {
+                    "username": "PablosCorner"
+                }
+            ]
         },
         {
             "community": {
