@@ -2706,10 +2706,10 @@
             "community": {
                 "id": 375,
                 "name": "The Otterwave Resort",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_8b277259-5909-4103-9b8b-f055cecd5798",
+                "description": "Want a one-stop shop that has events, livestreams, and even some fun people that you may recognize? Welcome to unKANIvalley, where borders don't exist and we have free tacos every Tuesday. We're always open to collaborations and finding like-minded people that just want to create crazy things. Share your ideas and let's get to work!",
                 "createdAt": "2025-05-18T23:34:55.000Z",
-                "updatedAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-06-07T01:39:43.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
