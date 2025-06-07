@@ -1679,12 +1679,12 @@
             "community": {
                 "id": 321,
                 "name": "UranictheWolf",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_f5185d21-99ff-4cae-840a-e2a113ae60e6",
+                "description": "I am a 3D animator who likes to make a difference.",
                 "createdAt": "2025-04-24T00:01:11.000Z",
-                "updatedAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-06-07T22:30:11.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1049
             },
             "members": [
                 {
