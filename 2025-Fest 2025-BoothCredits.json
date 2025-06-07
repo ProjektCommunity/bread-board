@@ -1662,10 +1662,10 @@
             "community": {
                 "id": 287,
                 "name": "Sith Empire",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_750eaf38-a05a-462e-a12d-6c49a37c632e",
+                "description": "The Sith Empire is a multi-purpose PvP Community & Social Hub for those who are fans of star wars or just battling goofballs in vrchat. We are based around the Sith empire during the times of the Old Republic. Not to be confused with the Empire we see in the movies! We offer lots of promotion opportunities, friendly community and staff, openness to ideas/recommendations, and lots of fun events! Events are hosted multiple times a week, from PvP battles with other communities, game nights, hangouts, and more! Our Leadership team is very friendly so if you have any questions and concerns, don't be afraid to reach out to them!\n\nWe welcome any and all to participate and enjoy the community that we are growing together!",
                 "createdAt": "2025-04-06T01:54:18.000Z",
-                "updatedAt": "2025-06-07T02:40:52.000Z",
+                "updatedAt": "2025-06-07T03:13:32.000Z",
                 "deletedAt": null,
                 "logo_id": 1003
             },
