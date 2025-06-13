@@ -3680,10 +3680,10 @@
             "community": {
                 "id": 231,
                 "name": "Couture",
-                "group_id": null,
+                "group_id": "grp_13ebc4a7-f4e1-4a64-87e0-ed513aad36a7",
                 "description": "Couture is a high-fashion-inspired events club that transcends the ordinary․ We focus on curating exclusive‚ design-forward experiences that blend luxury‚ creativity‚ and community․",
                 "createdAt": "2025-03-27T18:56:30.000Z",
-                "updatedAt": "2025-06-13T23:57:47.000Z",
+                "updatedAt": "2025-06-13T23:58:02.000Z",
                 "deletedAt": null,
                 "logo_id": 1071
             },
