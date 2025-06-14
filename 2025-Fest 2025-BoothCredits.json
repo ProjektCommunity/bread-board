@@ -3510,12 +3510,12 @@
             "community": {
                 "id": 239,
                 "name": "The Toolshed",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_260f23ab-6adc-49c9-a3e1-7b74d352ae76",
+                "description": "Helloǃ The Toolshed is a community for VRRP （Virtual Reality Roleplayǃ We currently meet Saturdays at 2PM ET （Eastern time in the U․S․） in a discussion space for anything Roleplay related․",
                 "createdAt": "2025-03-27T18:56:30.000Z",
-                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-14T00:01:25.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1072
             },
             "members": [
                 {
