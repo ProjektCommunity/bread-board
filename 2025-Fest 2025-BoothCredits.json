@@ -1547,10 +1547,10 @@
             "community": {
                 "id": 313,
                 "name": "Those Who Remain",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_8b6bfece-bba2-44d7-9e6c-4726e03be327",
+                "description": "A community set 20 years into a worldwide zombie apocalypse‚ similar to the video game ＂The Last Of Us＂ with some other extra additives from other zombie games․",
                 "createdAt": "2025-04-24T00:01:11.000Z",
-                "updatedAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-06-14T00:02:54.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
