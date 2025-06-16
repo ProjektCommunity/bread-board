@@ -437,9 +437,10 @@
       "slotNumber": 49,
       "isActive": false,
       "fileName": "FEST2025_Poster_49.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_49.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_49.jpg",
       "title": "Paranormal Scene Investigators",
-      "lastModified": "2025-06-16T05:13:58.837Z"
+      "lastModified": "2025-06-16T05:14:02.448Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 50,
