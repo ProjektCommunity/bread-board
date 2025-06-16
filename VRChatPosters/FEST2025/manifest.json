@@ -80,11 +80,11 @@
     },
     {
       "slotNumber": 10,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_10.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_10.jpg",
       "title": "Placeholder Slot 10",
-      "lastModified": "2025-06-15T20:55:17.358Z"
+      "lastModified": "2025-06-16T02:05:22.203Z"
     },
     {
       "slotNumber": 11,
