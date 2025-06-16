@@ -158,9 +158,10 @@
       "slotNumber": 18,
       "isActive": false,
       "fileName": "FEST2025_Poster_18.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_18.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_18.jpg",
       "title": "Failed to Render Poster",
-      "lastModified": "2025-06-16T02:42:09.648Z"
+      "lastModified": "2025-06-16T02:42:12.714Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 19,
