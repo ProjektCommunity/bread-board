@@ -102,11 +102,11 @@
     },
     {
       "slotNumber": 12,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_12.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_12.jpg",
       "title": "Forjaversario Poster WIDE",
-      "lastModified": "2025-06-16T02:40:15.673Z",
+      "lastModified": "2025-06-16T06:07:48.654Z",
       "isLandscape": true
     },
     {
