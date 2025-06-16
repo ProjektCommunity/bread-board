@@ -374,9 +374,10 @@
       "slotNumber": 42,
       "isActive": false,
       "fileName": "FEST2025_Poster_42.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_42.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_42.jpg",
       "title": "VirtuaFest",
-      "lastModified": "2025-06-16T05:00:31.263Z"
+      "lastModified": "2025-06-16T05:00:34.580Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 43,
