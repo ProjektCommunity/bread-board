@@ -39,11 +39,11 @@
     },
     {
       "slotNumber": 5,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_05.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_05.jpg",
       "title": "Tuatha De Danann Poster",
-      "lastModified": "2025-06-16T05:56:37.674Z",
+      "lastModified": "2025-06-16T06:07:40.504Z",
       "isLandscape": true
     },
     {
