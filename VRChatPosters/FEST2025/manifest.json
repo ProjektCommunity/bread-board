@@ -392,9 +392,10 @@
       "slotNumber": 44,
       "isActive": false,
       "fileName": "FEST2025_Poster_44.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_44.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_44.jpg",
       "title": "Placeholder Slot 44",
-      "lastModified": "2025-06-15T20:55:17.358Z"
+      "lastModified": "2025-06-16T05:05:41.660Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 45,
