@@ -1,0 +1,820 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Opening Ceremony",
+            "start_date": "2025-06-28T18:00:49.000Z",
+            "end_date": "2025-06-28T19:00:49.000Z",
+            "marketing": null,
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 336,
+                "name": "PJKT-01.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 2,
+            "name": "PJKT: FEST Opening Concert",
+            "start_date": "2025-06-28T19:00:18.000Z",
+            "end_date": "2025-06-28T21:00:18.000Z",
+            "marketing": null,
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 3,
+            "name": "Laserdome II Tournament",
+            "start_date": "2025-06-28T22:00:10.000Z",
+            "end_date": "2025-06-29T01:00:10.000Z",
+            "marketing": "Come by and watch various teams get together and test their aim in the brand new Laserdome II Arena!",
+            "stream_link": "https://www.twitch.tv/xcirrex",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 100,
+                "name": "xCirrex Media",
+                "group_id": "grp_402966f5-cfb6-4e86-906c-474960e72b70",
+                "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
+                "logo_id": 131
+            },
+            "Poster": {
+                "id": 338,
+                "name": "Tournament_1_PJKT_Landscape_copy.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 5,
+            "name": "Working Out w/ Soaring Fitness",
+            "start_date": "2025-06-29T19:00:15.000Z",
+            "end_date": "2025-06-29T20:00:15.000Z",
+            "marketing": "Come get a taste of what Soaring Fitness has to offer! Sora and a team of VR fitness instructors will go over the basics of working out in VR, lead some routines that everyone can participate in, and explain how VR can become an integral part of your own personal fitness journey. All skill levels are welcome, and no extra equipment is required.",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": "https://vrch.at/zdpm5rjy",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 129,
+                "name": "Soaring Fitness",
+                "group_id": "grp_465007ac-1c72-40d3-aa78-01c9b6075ffa",
+                "description": "We are a VR-based workout group, focused on being freely accessible. Our hard working team of Volunteers offer their time and experience to make it all possible. Our Certified Personal Trainers work with our Volunteer Instructors to bring you workouts 7 days a week! We believe good health and fitness should not be gated behind a paywall! ",
+                "logo_id": 230
+            },
+            "Poster": {
+                "id": 267,
+                "name": "Soaring Fitness-logo.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 6,
+            "name": "Pool Tournament with Pool Parlor",
+            "start_date": "2025-06-29T21:00:13.000Z",
+            "end_date": "2025-06-30T00:00:13.000Z",
+            "marketing": "Pool Parlor welcomes everyone to come grab some popcorn and join in watching a friendly tournament! Players will be going up against one another in hopes of being the winner! The Winner will get their picture in the world, the tournament winner cue, and a discord role in their server! All participants and referees will get a special cue for playing in the tournament.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 60,
+                "name": "Pool Parlor",
+                "group_id": "grp_f5fad4e3-9388-40e4-bda7-47fde177bee1",
+                "description": "The Pool Parlor is a community striving to make a strong connection with everyone and one of the best pool tables around! ",
+                "logo_id": 177
+            },
+            "Poster": {
+                "id": 274,
+                "name": "Poolparol-01.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 7,
+            "name": "The Basics and Essentials of Cinematic Storytelling",
+            "start_date": "2025-06-30T19:00:44.000Z",
+            "end_date": "2025-06-30T20:00:44.000Z",
+            "marketing": "Wanna learn what it takes to make a film? Well then Gerzybow's got your back! With over 7+ years of video production experience, feel free to hop in as one of the Studio Executives at Portal Media demonstrates tips and tricks to telling your story in the most visually compelling ways possible!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": "https://vrch.at/xrcuu3a5",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 15,
+                "name": "Portal Media",
+                "group_id": "grp_33456634-f728-4fd9-abf6-6e21996f39d1",
+                "description": "VRChat Film Studio",
+                "logo_id": 122
+            },
+            "Poster": {
+                "id": 268,
+                "name": "Portal Media-logo.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 8,
+            "name": "Game Night w/ The Synapse",
+            "start_date": "2025-07-01T01:00:10.000Z",
+            "end_date": "2025-07-01T03:00:10.000Z",
+            "marketing": "Come vibe and hang out with your friends at The Synapse Game Night! The Synapse will be hosting their regular Sunday Night Game Night where they'll be starting with prison escape and then let the group decide from there! So have fun and make some memories at The Synapse Game Night at PJKT!!! ",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": "https://vrch.at/hzkucs3j",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 35,
+                "name": "The Synapse",
+                "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
+                "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
+                "logo_id": 162
+            },
+            "Poster": {
+                "id": 269,
+                "name": "The Synapse-logo.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 5,
+                "name": "Game Night w/Synapse",
+                "url": "https://vrchat.com/home/world/wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+                "world_id": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 10,
+            "name": "DDVR | MVP | Rizumu Afterparty 2",
+            "start_date": "2025-07-07T00:00:10.000Z",
+            "end_date": "2025-07-07T06:45:10.000Z",
+            "marketing": "Hey all! We've partnered with DanceDanceVR, Miami Vice Parties, and Rizumu to bring you two awesome afterparties this weekend! So please come drop by and show our lineup some support!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 11,
+            "name": "Improv Basics Workshop",
+            "start_date": "2025-07-06T21:00:27.000Z",
+            "end_date": "2025-07-06T23:00:27.000Z",
+            "marketing": "Join Skits'n'Bits for an introductory improv workshop to learn the basics of improvisation, enhance your creativity, and enjoy spontaneous collaboration in a fun and supportive environment!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": "https://vrch.at/k67967bj",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 40,
+                "name": "Skits'N'Bits",
+                "group_id": "grp_ad6507be-1878-48e3-ba57-043592de9da9",
+                "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
+                "logo_id": 164
+            },
+            "Poster": {
+                "id": 355,
+                "name": "2025.06.06_-_SnB_x_PJKT_VRchat_Poster.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 4,
+                "name": "Skits 'n' Bits Theatre",
+                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 12,
+            "name": "No Friends Friends Club Introduction!",
+            "start_date": "2025-07-06T19:00:45.000Z",
+            "end_date": "2025-07-06T20:00:45.000Z",
+            "marketing": "The No Friends Friends Club is an inclusive group for those who struggle with social anxiety. They host events, game nights, meetings and share information to help each other grow socially and learn to manage their social lives.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/azzxaprf",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 131,
+                "name": "No Friends Friends Club",
+                "group_id": "grp_693ddad7-3e90-46c6-bd38-04ccb1734420",
+                "description": "A social group and gathering that focuses on helping people struggling with social anxiety to come out and practice social skills while making friends along the way.",
+                "logo_id": 231
+            },
+            "Poster": {
+                "id": 354,
+                "name": "NFFC_PANEL.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 7,
+                "name": "No Friends Friends Club",
+                "url": "https://vrchat.com/home/world/wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "world_id": "wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 13,
+            "name": "Kocho no Boss Rush",
+            "start_date": "2025-07-01T18:00:53.000Z",
+            "end_date": "2025-07-01T20:00:53.000Z",
+            "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/pz4rjjgf",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "We are a roleplay VRChat community themed after the Yakuza game series and Japanese culture in general. We wish to provide, bring together and entertain. \n\nProviding a friendlier place for VRChat public to roleplay in is one of the aims we wish to achieve, alongside with helping other communities with bigger projects.\n\nBringing together both new and veteran players who have nowhere else to go, educate people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place.\n\nEntertaining both the public and our own people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to. \n",
+                "logo_id": 155
+            },
+            "Poster": {
+                "id": 270,
+                "name": "KochÅ no Yakuza-logo.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 6,
+                "name": "Kamurocho",
+                "url": "https://vrchat.com/home/world/wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "world_id": "wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 14,
+            "name": "DDVR / MVP / Rizumu day 1",
+            "start_date": "2025-07-06T00:00:24.000Z",
+            "end_date": "2025-07-06T06:45:24.000Z",
+            "marketing": "Hey all! We've partnered with DanceDanceVR, Miami Vice Parties, and Rizumu to bring you two awesome afterparties this weekend! So please come drop by and show our lineup some support!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 15,
+            "name": "Improv Live Show",
+            "start_date": "2025-07-05T21:00:09.000Z",
+            "end_date": "2025-07-05T23:00:09.000Z",
+            "marketing": "Enjoy a fun evening of laughter with Skits'n'Bits Improv as audience suggestions fuel unplanned and unscripted scenes of comedic surprises.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/h4cwcfjm",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 40,
+                "name": "Skits'N'Bits",
+                "group_id": "grp_ad6507be-1878-48e3-ba57-043592de9da9",
+                "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
+                "logo_id": 164
+            },
+            "Poster": {
+                "id": 353,
+                "name": "2025.06.06_-_SnB_x_PJKT_VRchat_Poster.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 4,
+                "name": "Skits 'n' Bits Theatre",
+                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 17,
+            "name": "Behind the Scenes of PJKT Media",
+            "start_date": "2025-07-03T00:00:47.000Z",
+            "end_date": "2025-07-03T02:00:47.000Z",
+            "marketing": "A panel talk with Wolveeps and PJKT media staff members as they explain the behind-the-scenes of PJKT Media production. Down to how they operate, what discoveries they have made this past year, and what is next in the upcoming horizon! Come and join us to see what PJKT media has to offer! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": "https://vrch.at/7ayc9tma",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 349,
+                "name": "BIGFUCK_copy-05.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 18,
+            "name": "Dance Lesson w/ DustBunny",
+            "start_date": "2025-07-02T22:00:20.000Z",
+            "end_date": "2025-07-02T23:00:20.000Z",
+            "marketing": "Join DustBunny from VR Dance Academy for a one-hour dance lesson! This dance lesson will cover dance concepts, which will help improve your freestyle dancing!",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/7ayc9tma",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 138,
+                "name": "VR Dance Academy",
+                "group_id": "grp_51ebfdd0-ed38-4d73-aa56-c16bd95d7856",
+                "description": "For those who are interested in VR Ballroom Dance Classes ＆ Social Dancing Eventsǃ",
+                "logo_id": 271
+            },
+            "Poster": {
+                "id": 348,
+                "name": "dust.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 20,
+            "name": "Paraclete Program Showcase",
+            "start_date": "2025-07-01T23:00:19.000Z",
+            "end_date": "2025-07-02T00:00:19.000Z",
+            "marketing": "Come get a sneak peek and early access to an upcoming role-play community that is themed around angels in a mythical heaven-like world called The Synapse. Learn about the story development and the history of The Synapse community and how they came to be! This might just be your next roleplay community.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": "https://vrch.at/wsy26ab9",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 35,
+                "name": "The Synapse",
+                "group_id": "grp_f3518074-c206-4dc1-b17d-0864d46f8c98",
+                "description": "We are a fun-loving community focusing on weekly VR games and events. Along with games and events, we emphasize art and media creation, support for artists, manga development, and community fundraising and charities. The Synapse aims to be the community guides of VRChat, providing an amazing and friendly place for people to hangout and be themselves.",
+                "logo_id": 162
+            },
+            "Poster": {
+                "id": 344,
+                "name": "PJKT_Summer_2025_APP_Poster_FINAL.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 21,
+            "name": "MOKURI Meetup!",
+            "start_date": "2025-06-30T01:00:40.000Z",
+            "end_date": "2025-06-30T02:00:40.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 22,
+            "name": "Algorithms & Team Building w/ SuperXavier",
+            "start_date": "2025-06-30T23:00:42.000Z",
+            "end_date": "2025-07-01T00:30:42.000Z",
+            "marketing": "Join SuperXavier as he discusses tips & tricks for using the YouTube Algorithm to your advantage and his methods of building healthy team relationships!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/a5xxw0n4",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 339,
+                "name": "SuperXavier_Event.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 23,
+            "name": "PJKT: INK Speaker: GoFluffYaself",
+            "start_date": "2025-07-01T21:00:37.000Z",
+            "end_date": "2025-07-01T22:00:37.000Z",
+            "marketing": "Come by to our first Projekt: INK Talk hosted by GoFluffYaself, he'll be discussing Avatar PvP, it's development, and the impact it's had over various communities! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/q3ab346h",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 343,
+                "name": "ink-02.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 24,
+            "name": "PJKT: INK Speaker: DX",
+            "start_date": "2025-07-02T20:00:00.000Z",
+            "end_date": "2025-07-02T21:00:00.000Z",
+            "marketing": "It's time for our second PJKT: INK talk! Come and listen to DX_30 discuss his most recent projects including, Camera Path, DX Overlay, Holospace, and more!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/dhhr6m4m",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 347,
+                "name": "ink-02.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 25,
+            "name": "Community Interviews! Pt. 1",
+            "start_date": "2025-07-03T18:00:27.000Z",
+            "end_date": "2025-07-03T20:00:27.000Z",
+            "marketing": "Come by and watch our Media Team Interview the various representatives of the communities exhibiting this year! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=Community_Interviews__Pt__1~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 350,
+                "name": "PJKTFESTsmolres.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 27,
+            "name": "Electric Bloom w/ Terminus",
+            "start_date": "2025-07-03T23:00:39.000Z",
+            "end_date": "2025-07-04T00:30:39.000Z",
+            "marketing": "Join us for an Animation Particle Show featuring Live Dance and Storylike performances from Terminus!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/kmwwg25d",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 340,
+                "name": "Copy_of_Copy_of_Terminus_-_Sounds_of_Summer.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 28,
+            "name": "Vket Showcase!",
+            "start_date": "2025-07-04T01:30:43.000Z",
+            "end_date": "2025-07-04T04:30:43.000Z",
+            "marketing": "Join us in Vket's Weekly Wednesday World Hop! Come by and hang out with the Vket Global Team as they explore PJKT! ",
+            "stream_link": "https://www.twitch.tv/vketchannel",
+            "quest": true,
+            "instance_url": "https://vrch.at/zjza802m",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 101,
+                "name": "Virtual Market",
+                "group_id": "grp_b39cfe35-8a86-4454-ad2b-3649b3702793",
+                "description": "\"One of world's largest VR events - a virtual exhibition of 3D avatars and assets, physical products (fashion, PCs, food products, etc.) on the metaverse\n\n*The Guinness World Record™ was achieved for having \"\"most booths at a virtual reality market event\"\".\"",
+                "logo_id": 204
+            },
+            "Poster": {
+                "id": 351,
+                "name": "VKET-WorldHop-05.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 29,
+            "name": "PJKT: INK Speaker: ArgusVRC",
+            "start_date": "2025-07-05T19:00:16.000Z",
+            "end_date": "2025-07-05T20:00:16.000Z",
+            "marketing": "It's time for our third an final PJKT: INK talk! Come and listen to the ArgusVRC Team discuss their Project Aincrad! The recreation of SAO in VRChat!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/wqemdf80",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 352,
+                "name": "ink-02.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 30,
+            "name": "Closing Ceremony",
+            "start_date": "2025-07-07T23:00:29.000Z",
+            "end_date": "2025-07-08T00:00:29.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 2,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 31,
+            "name": "Community Interviews 2",
+            "start_date": "2025-07-07T20:30:34.000Z",
+            "end_date": "2025-07-07T22:30:34.000Z",
+            "marketing": "Come by and watch part 2 of our Media Team Interviewing the various representatives of communities exhibiting this year! There are a lot more reps in this round of interviews so be sure to tune in!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=Community_Interviews_2~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 356,
+                "name": "Community_interview_.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 34,
+            "name": "Operation: Iron Exodus w/ L.A.B. Unit",
+            "start_date": "2025-07-03T03:00:15.000Z",
+            "end_date": "2025-07-03T05:00:15.000Z",
+            "marketing": "A L.A.B. Unit Joint operation (milsim RP event)\r\n\r\nIn the year 2043, a JTF Formed by L.A.B. Unit was put together for a contract to Retrieve a NFFA Government official from South American Federation custody in a maximum-security prison. Tensions are high and actions need to be taken quickly.",
+            "stream_link": "https://www.twitch.tv/kaoskarasu",
+            "quest": false,
+            "instance_url": "https://vrch.at/0tu0v0m5",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 32,
+                "name": "LAB Unit",
+                "group_id": "grp_415e8d11-bb5a-49bb-af7e-eacd1b729429",
+                "description": "L.A.B. UNIT is an active PMC Roleplay group for those who don't want too many boundaries on personal characters and strive for a good standing with other groups. We host private roleplay events, joint operations, contracts with other mil-sim/roleplay communities, and handle everything from basic security to existential threats.",
+                "logo_id": 319
+            },
+            "Poster": {
+                "id": 346,
+                "name": "Picsart_23-01-16_20-54-00-914.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 49,
+            "name": "This is a Test of PJKT Event System",
+            "start_date": "2025-06-14T22:01:14.000Z",
+            "end_date": "2025-06-15T00:31:14.000Z",
+            "marketing": "Please ignore this event",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=This_is_a_Test_of_PJKT_Event_System~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 45,
+                "name": "Wolveeps Fan Club",
+                "group_id": "grp_561e2113-17dc-4e84-93d7-ea0e86cc8766",
+                "description": "Wolveeps Fan club is fun inspirational community around Wovleeps creatives works and content․ We hold events‚ hangouts‚ and meetups․",
+                "logo_id": 130
+            },
+            "Poster": {
+                "id": 883,
+                "name": "PJKT-Falling-Revi-NaixEvoxy-v01-2.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 50,
+            "name": "PJKT Filming Test of Event System",
+            "start_date": "2025-06-15T00:00:16.000Z",
+            "end_date": "2025-06-15T02:30:16.000Z",
+            "marketing": "Please Ignore this Event, We are testing our system and using it for recording demo",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=PJKT_Filming_Test_of_Event_System~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(members)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 15,
+                "name": "Portal Media",
+                "group_id": "grp_33456634-f728-4fd9-abf6-6e21996f39d1",
+                "description": "VRChat Film Studio",
+                "logo_id": 122
+            },
+            "Poster": {
+                "id": 884,
+                "name": "PJKT-Falling-Revi-NaixEvoxy-v01-2.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2025",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        }
+    ]
+}
