@@ -401,9 +401,10 @@
       "slotNumber": 45,
       "isActive": false,
       "fileName": "FEST2025_Poster_45.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_45.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_45.jpg",
       "title": "DegenTech Inc",
-      "lastModified": "2025-06-16T05:07:37.546Z"
+      "lastModified": "2025-06-16T05:07:40.780Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 46,
