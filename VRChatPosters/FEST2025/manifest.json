@@ -149,9 +149,10 @@
       "slotNumber": 17,
       "isActive": false,
       "fileName": "FEST2025_Poster_17.jpg",
-      "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/VRChatPosters/FEST2025/FEST2025_Poster_17.jpg",
+      "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_17.jpg",
       "title": "Forjadores Poster",
-      "lastModified": "2025-06-16T02:41:58.024Z"
+      "lastModified": "2025-06-16T02:42:01.497Z",
+      "isLandscape": false
     },
     {
       "slotNumber": 18,
