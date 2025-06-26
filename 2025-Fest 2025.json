@@ -65,6 +65,29 @@
             "Venue": null
         },
         {
+            "id": 56,
+            "name": "VRDA Ballroom Dance Showcase!",
+            "start_date": "2025-06-28T19:00:11.000Z",
+            "end_date": "2025-06-28T21:00:11.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 138,
+                "name": "VR Dance Academy",
+                "group_id": "grp_51ebfdd0-ed38-4d73-aa56-c16bd95d7856",
+                "description": "For those who are interested in VR Ballroom Dance Classes ＆ Social Dancing Eventsǃ",
+                "logo_id": 271
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 58,
             "name": "Comrades & Ops Games!",
             "start_date": "2025-06-28T16:00:47.000Z",
