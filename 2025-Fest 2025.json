@@ -1,3 +1,91 @@
 {
-    "events": []
+    "events": [
+        {
+            "id": 53,
+            "name": "Opening Ceremony",
+            "start_date": "2025-06-27T19:30:15.000Z",
+            "end_date": "2025-06-27T20:00:15.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "PJKT: FEST 2024",
+                "url": "https://vrchat.com/home/world/wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "world_id": "wrld_2477f028-88e4-4302-b9bb-ee555258d32c",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 54,
+            "name": "Opening Concert",
+            "start_date": "2025-06-27T21:00:37.000Z",
+            "end_date": "2025-06-27T23:00:37.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 55,
+            "name": "PJKT x OMEGA: NEON THREADS",
+            "start_date": "2025-06-28T00:00:12.000Z",
+            "end_date": "2025-06-28T01:00:12.000Z",
+            "marketing": null,
+            "stream_link": "https://twitch.tv/astrixzvr",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "logo_id": 199
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 58,
+            "name": "Comrades & Ops Games!",
+            "start_date": "2025-06-28T16:00:47.000Z",
+            "end_date": "2025-06-28T18:00:47.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 178,
+                "name": "Comrades and Ops",
+                "group_id": "grp_31cb7da1-17be-4f84-97f0-182e5a0852c6",
+                "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming or social event. Time to rock and roll!",
+                "logo_id": 558
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        }
+    ]
 }
