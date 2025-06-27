@@ -84,11 +84,11 @@
     },
     {
       "slotNumber": 10,
-      "isActive": true,
+      "isActive": false,
       "fileName": "FEST2025_Poster_10.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_10.jpg",
       "title": "Ghost Quarts",
-      "lastModified": "2025-06-27T03:46:11.500Z",
+      "lastModified": "2025-06-27T03:46:17.377Z",
       "isLandscape": false
     },
     {
