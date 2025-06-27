@@ -88,36 +88,6 @@
             "Venue": null
         },
         {
-            "id": 57,
-            "name": "Skits'n'Bits Improv Show!",
-            "start_date": "2025-06-28T21:00:30.000Z",
-            "end_date": "2025-06-28T23:00:30.000Z",
-            "marketing": null,
-            "stream_link": " https://twitch.tv/ProjektCommunity",
-            "quest": true,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 4,
-            "Community": {
-                "id": 40,
-                "name": "Skits'N'Bits",
-                "group_id": "grp_ad6507be-1878-48e3-ba57-043592de9da9",
-                "description": "We're a creative‚ fun‚ and welcoming improv community offering weekly workshops for all skill levels 18 and older and serve as a hub for skits‚ sketches, projects‚ and other VR performative collabsǃ",
-                "logo_id": 164
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 4,
-                "name": "Skits 'n' Bits Theatre",
-                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
-                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
-                "orgOwned": false,
-                "community_id": null
-            }
-        },
-        {
             "id": 58,
             "name": "Comrades & Ops Games!",
             "start_date": "2025-06-28T16:00:47.000Z",
