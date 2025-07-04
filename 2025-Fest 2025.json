@@ -388,7 +388,7 @@
             "end_date": "2025-07-04T14:00:02.000Z",
             "marketing": null,
             "stream_link": null,
-            "quest": true,
+            "quest": false,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
