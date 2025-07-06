@@ -560,7 +560,7 @@
             "end_date": "2025-07-07T01:00:05.000Z",
             "marketing": null,
             "stream_link": " https://twitch.tv/ProjektCommunity",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
