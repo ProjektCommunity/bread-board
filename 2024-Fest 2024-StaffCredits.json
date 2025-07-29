@@ -36,6 +36,12 @@
                         "Game Engineer",
                         "Business"
                     ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Event Coordinator"
+                    ]
                 }
             ],
             "user": "Karet"
