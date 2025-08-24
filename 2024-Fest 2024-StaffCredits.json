@@ -297,6 +297,19 @@
                 }
             ],
             "user": "Compared"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Team Leader",
+                        "Event Coordinator",
+                        "Event Host"
+                    ]
+                }
+            ],
+            "user": "DELTA"
         }
     ]
 }
