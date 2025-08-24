@@ -109,6 +109,25 @@
                 }
             ],
             "user": "Compared"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Team Leader",
+                        "Media Administrations",
+                        "Social Crew"
+                    ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
+                }
+            ],
+            "user": "Euky"
         }
     ]
 }
