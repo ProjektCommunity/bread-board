@@ -36,6 +36,23 @@
                     "username": "pesky12"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 9,
+                "name": "1st Weimar Republic",
+                "group_id": "grp_c4b5ba45-b82e-4ee6-8b2e-c481f88ced93",
+                "description": "Welcome to the 1st Weimar Republic!\n\nWe’re an alternate history VRChat roleplay group based around 1920's Interwar Germany.\n\nWe host weekly immersive RP events in the Weimar Republic;\nDaily Life of Soldiers\nCombat RP\nMilitary Training\nCeremonies\n\nFrom fighting in the street and countryside against uprisings to simply living out the daily life of a soldier, our events tell an ongoing narrative influenced by all of our members. Want to know more? If Immersive RP, Alt-History or History, and an interesting story appeal to you, then the 1st Weimar Republic is the place for you!\n\nhttps://discord.gg/ZMP49H3zSY\n\nJoin now, become part of our growing community, and leave your mark upon the Republic!",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-02-07T20:32:57.000Z",
+                "deletedAt": null,
+                "logo_id": 156
+            },
+            "members": [
+                {
+                    "username": "Gustav#7720"
+                }
+            ]
         }
     ]
 }
