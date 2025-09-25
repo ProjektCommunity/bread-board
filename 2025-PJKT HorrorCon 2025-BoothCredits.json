@@ -87,6 +87,23 @@
                     "username": "gopalmetro"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 382,
+                "name": "Vagabonds Haven",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-09-02T04:49:00.000Z",
+                "updatedAt": "2025-09-02T04:49:00.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Vagabonds Haven"
+                }
+            ]
         }
     ]
 }
