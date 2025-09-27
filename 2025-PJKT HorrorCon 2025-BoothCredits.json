@@ -121,6 +121,23 @@
                     "username": "NovedPlayer"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 284,
+                "name": "Galaxy Fleet Command",
+                "group_id": "grp_8241b351-ee54-4ac0-b515-d41be001b60c",
+                "description": "Galaxy Fleet Command is a group of Star Trek enthusiasts in locations scattered around planet earth, who have taken up virtual residence in SecondLife and VRChat. It is here, in this virtual world where we come to live, work and play out our roles as Star Fleet Officers, Shuttle Pilots, Academy Instructors, Engineers, Medical personnel, and various other functions.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T10:55:50.000Z",
+                "deletedAt": null,
+                "logo_id": 522
+            },
+            "members": [
+                {
+                    "username": "SybilFaewolf"
+                }
+            ]
         }
     ]
 }
