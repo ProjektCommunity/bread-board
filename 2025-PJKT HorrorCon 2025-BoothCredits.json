@@ -172,6 +172,23 @@
                     "username": "ForjadoresHispanos"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 6,
+                "name": "Kochō no Yakuza",
+                "group_id": "grp_ad7a3665-e4d3-4a3a-9356-ab498b128adf",
+                "description": "We are a roleplay VRChat community themed after the Yakuza game series and Japanese culture in general. We wish to provide, bring together and entertain. \n\nProviding a friendlier place for VRChat public to roleplay in is one of the aims we wish to achieve, alongside with helping other communities with bigger projects.\n\nBringing together both new and veteran players who have nowhere else to go, educate people about VRChat as a whole and keeping them up to date on what is going on in this vast but confusing place.\n\nEntertaining both the public and our own people with external and internal roleplay which are still in development. Giving people a place to feel welcomed and a place anybody can feel they belong to. \n",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-03-28T15:43:50.000Z",
+                "deletedAt": null,
+                "logo_id": 155
+            },
+            "members": [
+                {
+                    "username": "Euky"
+                }
+            ]
         }
     ]
 }
