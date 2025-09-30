@@ -257,6 +257,23 @@
                     "username": "yukio okumura"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 383,
+                "name": "The Rocky Horror Picture Show",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-09-02T04:49:00.000Z",
+                "updatedAt": "2025-09-02T04:49:00.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "stogie_era"
+                }
+            ]
         }
     ]
 }
