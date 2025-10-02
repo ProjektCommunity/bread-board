@@ -342,6 +342,23 @@
                     "username": "Mantibro"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 387,
+                "name": "Kursenic Bureau of Anomali",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-09-02T04:49:02.000Z",
+                "updatedAt": "2025-09-02T04:49:02.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Kursenic Bureau of Anomali"
+                }
+            ]
         }
     ]
 }
