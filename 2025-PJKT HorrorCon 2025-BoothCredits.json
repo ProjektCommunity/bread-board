@@ -359,6 +359,23 @@
                     "username": "Kursenic Bureau of Anomali"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 148,
+                "name": "The Virtual Gauntlet",
+                "group_id": "grp_85f7294d-6cf7-4319-847a-a3e7e8db1243",
+                "description": "The Virtual Gauntlet is a VR game show hosted in VRChat where two teams of four compete in fast-paced, skill-based obstacle course challenges. The show runs in seasons with a strong cyberpunk theme and features unique games like Dodge Wall, Rift Rush, and Grid Lock. We record and stream the matches, promote the teams involved, and offer in-world prizes like trophies and group shoutouts. It's built to spotlight player communities, bring hype energy to VR gaming, and create something exciting for both players and viewers.",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-05-14T18:18:07.000Z",
+                "deletedAt": null,
+                "logo_id": 473
+            },
+            "members": [
+                {
+                    "username": "Codeadvanced"
+                }
+            ]
         }
     ]
 }
