@@ -433,6 +433,23 @@
                     "username": "Have"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "createdAt": "2024-06-04T08:03:40.000Z",
+                "updatedAt": "2024-06-21T01:53:59.000Z",
+                "deletedAt": null,
+                "logo_id": 199
+            },
+            "members": [
+                {
+                    "username": "AstrixZ"
+                }
+            ]
         }
     ]
 }
