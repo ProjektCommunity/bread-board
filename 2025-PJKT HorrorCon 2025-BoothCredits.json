@@ -484,6 +484,23 @@
                     "username": "ItsCripsy"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 234,
+                "name": "House of Resurrection",
+                "group_id": "grp_6f5080c8-6547-4010-8409-b9e0649085c5",
+                "description": "\"We are a Fallen based server based upon the Destiny Franchise‚\nOur community is a combat based server filled with events both filled with Lore and VRChatPVP aspects․\"",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-05T23:06:32.000Z",
+                "deletedAt": null,
+                "logo_id": 504
+            },
+            "members": [
+                {
+                    "username": "RedEternal"
+                }
+            ]
         }
     ]
 }
