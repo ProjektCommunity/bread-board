@@ -691,6 +691,23 @@
                     "username": "BASICBIT"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 393,
+                "name": "EksCelle",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-09-02T04:49:04.000Z",
+                "updatedAt": "2025-09-02T04:49:04.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "EksCelle"
+                }
+            ]
         }
     ]
 }
