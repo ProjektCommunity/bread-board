@@ -1,2 +1,4 @@
-Name,Staff,Team Lead
-Pesky12,TRUE,TRUE
+Name,Community Relations,Creator Rep,Development Team,Directors,Events Team,Media Team,Representative,Staff,Team Lead
+Pesky12,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Euky,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+Karet,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
