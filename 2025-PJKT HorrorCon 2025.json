@@ -85,6 +85,26 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 84,
+            "name": "Skits'n'Bits Improv Show!\t",
+            "start_date": "2025-10-25T23:00:46.000Z",
+            "end_date": "2025-10-26T00:30:46.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": {
+                "id": 1167,
+                "name": "World-Skits-n-Bits-Theatre-Fami.png"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
