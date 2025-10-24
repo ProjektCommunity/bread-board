@@ -173,6 +173,26 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 90,
+            "name": "HorrorConVR Closing Panel!",
+            "start_date": "2025-10-27T02:30:05.000Z",
+            "end_date": "2025-10-27T03:30:05.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": {
+                "id": 1169,
+                "name": "horrorlogos-09.png"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
