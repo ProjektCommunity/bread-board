@@ -122,6 +122,23 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 86,
+            "name": "Autumn Ivy: Horror Game VA Q&A!!",
+            "start_date": "2025-10-26T19:00:13.000Z",
+            "end_date": "2025-10-26T20:00:13.000Z",
+            "marketing": "It's time to hear from Autumn what it's like to be a Voice Actor in the Horror Game sphere!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
