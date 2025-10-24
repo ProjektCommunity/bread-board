@@ -1,3 +1,70 @@
 {
-    "events": []
+    "events": [
+        {
+            "id": 80,
+            "name": "Opening Ceremony 2025",
+            "start_date": "2025-10-24T17:00:38.000Z",
+            "end_date": "2025-10-24T17:30:38.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": {
+                "id": 1168,
+                "name": "horrorlogos-09.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 81,
+            "name": "Spookality World Hop #1 w/ Noved Squad!",
+            "start_date": "2025-10-25T01:00:47.000Z",
+            "end_date": "2025-10-25T02:00:47.000Z",
+            "marketing": "Get ready for a spooky adventureǃ The Noved Squad will be collaborating with Projekt Community during their HorrorCon event and will be hosting a World Hop going through a bunch of the Spookality Worldsǃ \r\n\r\nPack your Flashlights‚ EMF Readers‚ and Survival Gearǃ You won't want to miss this explorationǃ\r\n",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": {
+                "id": 50,
+                "name": "Noved Squad",
+                "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
+                "description": "Welcome to the Noved Squadǃ \n\nHome of the Noved Notes Podcastǃ\nA VRChat Podcast that goes into the amazing creators of VRChatǃ\n\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ Overall we just like to have funǃ\n\nIf you are a creator ⁄ community rep that is interested in being on the podcast‚ join the discord and submit an applicationǃ",
+                "logo_id": 171
+            },
+            "Poster": {
+                "id": 1164,
+                "name": "SPookality_World_Hop_Group_Fair.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 82,
+            "name": "Storytime w/ MrCreepyPasta!!",
+            "start_date": "2025-10-25T02:30:48.000Z",
+            "end_date": "2025-10-25T03:30:48.000Z",
+            "marketing": "It's time to listen to some spooOOooOOooOoky stories from MrCreepPasta!",
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": {
+                "id": 1165,
+                "name": "IMG_1493.png"
+            },
+            "EventType": null,
+            "Venue": null
+        }
+    ]
 }
