@@ -175,6 +175,23 @@
             "Venue": null
         },
         {
+            "id": 89,
+            "name": "PSI: Costume Contest!",
+            "start_date": "2025-10-26T23:30:38.000Z",
+            "end_date": "2025-10-27T01:30:38.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 90,
             "name": "HorrorConVR Closing Panel!",
             "start_date": "2025-10-27T02:30:05.000Z",
