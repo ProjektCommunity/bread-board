@@ -65,6 +65,26 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 83,
+            "name": "SpokenHeart: Spooky Edition!!",
+            "start_date": "2025-10-25T20:30:05.000Z",
+            "end_date": "2025-10-25T22:30:05.000Z",
+            "marketing": null,
+            "stream_link": " https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": {
+                "id": 1166,
+                "name": "131st_Edition.png"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
