@@ -156,6 +156,23 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 88,
+            "name": "Exploring the Anomalous Research Lab w/ Vket!",
+            "start_date": "2025-10-26T22:00:28.000Z",
+            "end_date": "2025-10-26T23:00:28.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 5,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
