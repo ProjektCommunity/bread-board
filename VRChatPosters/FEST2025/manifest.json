@@ -363,11 +363,11 @@
     },
     {
       "slotNumber": 41,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_41.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_41.jpg",
       "title": "The Faceless",
-      "lastModified": "2025-11-17T00:35:49.894Z",
+      "lastModified": "2025-11-17T00:35:52.616Z",
       "isLandscape": false
     },
     {
