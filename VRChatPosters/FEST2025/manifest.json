@@ -21,11 +21,11 @@
     },
     {
       "slotNumber": 3,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_03.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_03.jpg",
       "title": "Squad Forever Fest",
-      "lastModified": "2025-11-17T00:35:39.776Z",
+      "lastModified": "2025-11-17T00:35:41.083Z",
       "isLandscape": true
     },
     {
