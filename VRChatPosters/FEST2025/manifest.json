@@ -174,11 +174,11 @@
     },
     {
       "slotNumber": 20,
-      "isActive": true,
+      "isActive": false,
       "fileName": "FEST2025_Poster_20.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_20.jpg",
       "title": "KitKatSingsPoster",
-      "lastModified": "2025-11-17T00:18:13.689Z",
+      "lastModified": "2025-11-17T00:18:45.739Z",
       "isLandscape": false
     },
     {
