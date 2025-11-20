@@ -264,11 +264,11 @@
     },
     {
       "slotNumber": 30,
-      "isActive": false,
+      "isActive": true,
       "fileName": "FEST2025_Poster_30.jpg",
       "imageUrl": "https://ProjektCommunity.github.io/bread-board/VRChatPosters/FEST2025/FEST2025_Poster_30.jpg",
       "title": "VRCA",
-      "lastModified": "2025-11-20T01:35:34.631Z",
+      "lastModified": "2025-11-20T01:35:36.350Z",
       "isLandscape": true
     },
     {
