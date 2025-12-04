@@ -569,6 +569,23 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 91,
+            "name": "Exhibitors Meetup - FestMas",
+            "start_date": "2025-12-10T23:00:28.000Z",
+            "end_date": "2025-12-11T03:00:28.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
