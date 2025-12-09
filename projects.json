@@ -35,6 +35,12 @@
             "eventsURL": "2026-FANG.json",
             "boothCreditsURL": "2026-FANG-BoothCredits.json",
             "staffCreditsURL": "2026-FANG-StaffCredits.json"
+        },
+        {
+            "projectName": "Winter 2025",
+            "eventsURL": "2025-Winter 2025.json",
+            "boothCreditsURL": "2025-Winter 2025-BoothCredits.json",
+            "staffCreditsURL": "2025-Winter 2025-StaffCredits.json"
         }
     ]
 }
