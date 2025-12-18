@@ -615,6 +615,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 94,
+            "name": "AstrixZ - Fashion Show",
+            "start_date": "2025-12-26T01:00:16.000Z",
+            "end_date": "2025-12-26T03:00:16.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "logo_id": 199
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
