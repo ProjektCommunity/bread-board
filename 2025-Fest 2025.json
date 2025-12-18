@@ -640,6 +640,29 @@
             "Venue": null
         },
         {
+            "id": 95,
+            "name": "PSI - Tentative",
+            "start_date": "2025-12-27T23:00:59.000Z",
+            "end_date": "2025-12-28T00:00:59.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 241,
+                "name": "Paranormal Scene Investigators",
+                "group_id": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07",
+                "description": "Paranormal Scene Investigators is a roleplay group focused on the paranormal and unknown. We have weekly events where we delve into the eldritch, the paranormal and the unknown of the VR world\n\nFrom vampires and cryptids\nTo Ghosts and Spirits.\nTo Technological nightmares and cults....\nTo much much more.\n\nWe are our own original universe based on paranormal legends and folktales throughout the world\n\nSome of our events will use D20 to act out some of our roleplay. We are light hearted but most importantly fun!\nWe are PC and Quest compatible. We lean a bit more towards PC with special effects but try our best to accommodate Quest users.\nCome check us out!",
+                "logo_id": 507
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 96,
             "name": "Virtual Gauntlet - Game Night",
             "start_date": "2025-12-26T16:00:57.000Z",
