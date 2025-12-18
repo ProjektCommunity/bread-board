@@ -638,6 +638,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 96,
+            "name": "Virtual Gauntlet - Game Night",
+            "start_date": "2025-12-26T16:00:57.000Z",
+            "end_date": "2025-12-26T18:00:57.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 4,
+            "Community": {
+                "id": 148,
+                "name": "The Virtual Gauntlet",
+                "group_id": "grp_85f7294d-6cf7-4319-847a-a3e7e8db1243",
+                "description": "The Virtual Gauntlet is a VR game show hosted in VRChat where two teams of four compete in fast-paced, skill-based obstacle course challenges. The show runs in seasons with a strong cyberpunk theme and features unique games like Dodge Wall, Rift Rush, and Grid Lock. We record and stream the matches, promote the teams involved, and offer in-world prizes like trophies and group shoutouts. It's built to spotlight player communities, bring hype energy to VR gaming, and create something exciting for both players and viewers.",
+                "logo_id": 473
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
