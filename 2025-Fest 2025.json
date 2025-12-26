@@ -701,6 +701,32 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 98,
+            "name": "Into the Unjust - Helldivers PVE/PVP Event",
+            "start_date": "2025-12-26T23:00:51.000Z",
+            "end_date": "2025-12-27T01:00:51.000Z",
+            "marketing": "Join the Helldivers today for Democracy!",
+            "stream_link": null,
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 146,
+                "name": "The Helldivers of VRC",
+                "group_id": "grp_b30a10ad-a72a-4894-9c10-bf49882843fa",
+                "description": "We are a live action roleplay community based on the popular I.P Helldivers 2. We try to recreate the chaos and battles seen in Helldivers 2 and put them into VRChat with our own special twists that normally isn't seen within the helldivers lore.",
+                "logo_id": 472
+            },
+            "Poster": {
+                "id": 1174,
+                "name": "HellDivers_Festmas_Events.png"
+            },
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
