@@ -727,6 +727,29 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 99,
+            "name": "Open Mic with the Faceless",
+            "start_date": "2025-12-27T01:00:46.000Z",
+            "end_date": "2025-12-27T03:00:46.000Z",
+            "marketing": "Join us as we open the mic to our lovely artist to sign you a cheer!",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 199,
+                "name": "The Faceless",
+                "group_id": "grp_0723d245-33b3-4929-a27b-f0d96435b71d",
+                "description": "The Faceless, founded by the Blind Prophet, serves the Many-Faced God by fostering balance—introducing chaos where needed and peace where there's excess chaos. Our 18+ community, based in the VRUnderground Oasis, operates The Temple, a free online educational and community center. We offer a wide range of courses and events, including arts, sciences, technology, music, dance, wellness, gaming, and cultural history, with many more subjects available.",
+                "logo_id": 849
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
