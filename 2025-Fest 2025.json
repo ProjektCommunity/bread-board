@@ -750,6 +750,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 100,
+            "name": "Ministry Promotions Afterparty",
+            "start_date": "2025-12-27T03:00:22.000Z",
+            "end_date": "2025-12-27T07:00:22.000Z",
+            "marketing": "Let us celebrate the with DJ night After party",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 93,
+                "name": "Ministry Promotions",
+                "group_id": "grp_584541a2-a29f-43c9-9b3b-e63b08d7ca7f",
+                "description": "Aproffessional & strategic option for vr event logistics an promotions",
+                "logo_id": 203
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
