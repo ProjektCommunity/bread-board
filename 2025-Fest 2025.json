@@ -773,6 +773,29 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 101,
+            "name": "Closing Q&A",
+            "start_date": "2025-12-29T01:00:18.000Z",
+            "end_date": "2025-12-29T01:45:18.000Z",
+            "marketing": null,
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 4,
+            "Community": {
+                "id": 45,
+                "name": "Wolveeps Fan Club",
+                "group_id": "grp_561e2113-17dc-4e84-93d7-ea0e86cc8766",
+                "description": "Wolveeps Fan club is fun inspirational community around Wovleeps creatives works and content․ We hold events‚ hangouts‚ and meetups․",
+                "logo_id": 130
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
