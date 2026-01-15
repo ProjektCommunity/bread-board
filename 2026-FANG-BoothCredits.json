@@ -19,6 +19,23 @@
                     "username": "pesky12"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 45,
+                "name": "Wolveeps Fan Club",
+                "group_id": "grp_561e2113-17dc-4e84-93d7-ea0e86cc8766",
+                "description": "Wolveeps Fan club is fun inspirational community around Wovleeps creatives works and content․ We hold events‚ hangouts‚ and meetups․",
+                "createdAt": "2024-05-22T16:17:15.000Z",
+                "updatedAt": "2024-06-20T15:58:46.000Z",
+                "deletedAt": null,
+                "logo_id": 130
+            },
+            "members": [
+                {
+                    "username": "Wolveeps"
+                }
+            ]
         }
     ]
 }
