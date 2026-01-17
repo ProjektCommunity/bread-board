@@ -36,6 +36,23 @@
                     "username": "Wolveeps"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 406,
+                "name": "20nik",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-01-16T22:10:18.000Z",
+                "updatedAt": "2026-01-16T22:10:18.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "20nik"
+                }
+            ]
         }
     ]
 }
