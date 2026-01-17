@@ -70,6 +70,29 @@
                     "username": "FloofballVR"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 116,
+                "name": "WaterWolf",
+                "group_id": "grp_41df2df4-be4e-4a4e-be5e-eabb1425c4e5 ",
+                "description": "WaterWolf: WaterWolf is a community focused on building, exploring, and promoting immersive and enjoyable worlds through creating amazing assets, tools, technologies, avatars, and worlds and hosting some of the best events. The community offers a great opportunity to make new friends, explore and learn new skills, and make amazing memories together.",
+                "createdAt": "2024-06-12T21:54:26.000Z",
+                "updatedAt": "2024-06-21T02:20:00.000Z",
+                "deletedAt": null,
+                "logo_id": 217
+            },
+            "members": [
+                {
+                    "username": "Commander A9"
+                },
+                {
+                    "username": "Scientific Cat"
+                },
+                {
+                    "username": "Engineerisaac"
+                }
+            ]
         }
     ]
 }
