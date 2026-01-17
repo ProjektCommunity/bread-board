@@ -93,6 +93,23 @@
                     "username": "Engineerisaac"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 50,
+                "name": "Noved Squad",
+                "group_id": "grp_555e1cda-988e-45a3-8fd6-00335c214683",
+                "description": "Welcome to the Noved Squadǃ \n\nHome of the Noved Notes Podcastǃ\nA VRChat Podcast that goes into the amazing creators of VRChatǃ\n\nIn the Noved Squad Community‚ we do a bunch of hangouts‚ game nights‚ DJ Noved Party Nights‚ and collaborate to make amazing creations on VRChatǃ Overall we just like to have funǃ\n\nIf you are a creator ⁄ community rep that is interested in being on the podcast‚ join the discord and submit an applicationǃ",
+                "createdAt": "2024-05-22T20:37:01.000Z",
+                "updatedAt": "2025-03-28T05:57:15.000Z",
+                "deletedAt": null,
+                "logo_id": 171
+            },
+            "members": [
+                {
+                    "username": "NovedPlayer"
+                }
+            ]
         }
     ]
 }
