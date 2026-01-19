@@ -161,6 +161,23 @@
                     "username": "BriannaBoonana"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 414,
+                "name": "The Steve",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-01-16T22:10:23.000Z",
+                "updatedAt": "2026-01-16T22:10:23.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "TheSteve"
+                }
+            ]
         }
     ]
 }
