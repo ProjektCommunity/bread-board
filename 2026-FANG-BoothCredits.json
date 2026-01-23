@@ -195,6 +195,23 @@
                     "username": "EvanTheFloydian"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 41,
+                "name": "CozyCon Online",
+                "group_id": "grp_497b720f-cdee-44d3-b724-f6b4dc334643",
+                "description": "CozyCon is a free yearly multi-fandom virtual convention on Discord/VRChat/Twitch that runs in September, but also hosts monthly events. We have skilled vendors, DJs and Panelists every year, sweet themed merch designed by our artists, and year-round community space to chat, organize games, share your creative works and much more.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-05-14T18:16:24.000Z",
+                "deletedAt": null,
+                "logo_id": 165
+            },
+            "members": [
+                {
+                    "username": "LilitheLotor"
+                }
+            ]
         }
     ]
 }
