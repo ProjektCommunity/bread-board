@@ -212,6 +212,23 @@
                     "username": "LilitheLotor"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 175,
+                "name": "Community Oasis",
+                "group_id": "grp_e5606ba8-309e-466c-aeb7-237b1867756d",
+                "description": "I make furniture and 3D models for Worlds",
+                "createdAt": "2025-02-26T14:35:46.000Z",
+                "updatedAt": "2025-05-24T00:44:45.000Z",
+                "deletedAt": null,
+                "logo_id": 496
+            },
+            "members": [
+                {
+                    "username": "emilhauge"
+                }
+            ]
         }
     ]
 }
