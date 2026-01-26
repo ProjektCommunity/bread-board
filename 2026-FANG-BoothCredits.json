@@ -246,6 +246,23 @@
                     "username": "nekonny"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 62,
+                "name": "Metaverse Degen",
+                "group_id": "grp_c47b3db4-7ea8-49c7-a68f-f9ab0dcb7d28",
+                "description": "A podcast⁄talk show in vrchat where are interview the various personalities and communities from the platform Vrchat including club owners‚ djs‚ tiktokers‚ vtubers world and avatar creators and more․ Featuring˸ dirtyraptor & LionTurtle",
+                "createdAt": "2024-05-23T11:53:07.000Z",
+                "updatedAt": "2024-06-21T01:24:33.000Z",
+                "deletedAt": null,
+                "logo_id": 180
+            },
+            "members": [
+                {
+                    "username": "Metaverse Degen"
+                }
+            ]
         }
     ]
 }
