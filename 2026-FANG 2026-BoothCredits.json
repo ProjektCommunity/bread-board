@@ -300,6 +300,23 @@
                     "username": "Akira"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 48,
+                "name": "The Bakery",
+                "group_id": "grp_e637632e-e9cb-4a2c-96e7-d5eb2bb634c8",
+                "description": "The Bakery is a group of artists that primarily focus on digital art, 3d animation, and virtual reality environments, primarily based in VRChat. We enjoy creating stories with our art, and giving people something to enjoy!",
+                "createdAt": "2024-05-22T20:15:36.000Z",
+                "updatedAt": "2025-03-28T06:08:58.000Z",
+                "deletedAt": null,
+                "logo_id": 169
+            },
+            "members": [
+                {
+                    "username": "Wobblins"
+                }
+            ]
         }
     ]
 }
