@@ -334,6 +334,23 @@
                     "username": "-Meia-"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 434,
+                "name": "Scout",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-01-25T21:01:37.000Z",
+                "updatedAt": "2026-01-25T21:01:37.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "MapleMoose"
+                }
+            ]
         }
     ]
 }
