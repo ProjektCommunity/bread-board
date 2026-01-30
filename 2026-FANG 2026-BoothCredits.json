@@ -368,6 +368,23 @@
                     "username": "Ferin_Lumenax"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 338,
+                "name": "Wolfie's Hangout",
+                "group_id": "grp_d8d23dde-5339-498c-9329-bbebc59f1af1",
+                "description": "A safe place for furries and non furries alike",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:34:19.000Z",
+                "deletedAt": null,
+                "logo_id": 753
+            },
+            "members": [
+                {
+                    "username": "wolfieshangout"
+                }
+            ]
         }
     ]
 }
