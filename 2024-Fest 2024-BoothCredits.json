@@ -20,11 +20,11 @@
         {
             "community": {
                 "id": 1,
-                "name": "Local Police Department1",
+                "name": "Local Police Department",
                 "group_id": "grp_d594f074-ea42-4f47-bc68-b96f4ad2eda0",
                 "description": "Welcome the LPD, one of VRChats oldest and largest roleplaying groups bringing entertainment to public lobbies since 2018. The LPD hosts daily VRChat events where officers are assigned to a squad to create roleplay scenarios in public lobbies, themed around interactions with the public and emergency services. Due to the nature of improv, anything can happen during these events. From drug busts and shootouts, to checking mirror dwelling licenses. \n\nTo join the LPD check out the recruitment channel on our Discord at <color=#7289daff>discord.gg/lpd</color>. There you will find the application form as well as our handbook which is packed with all kinds of important information. Once accepted you will go through cadet training, before jumping into patrolling VRChat as an official LPD officer. When you have some experience under your belt you can take additional training to move up the ranks or specialize into other kinds of roleplay that we offer.\n\nPatrol officers will arrest people and bring them to the LPD station to take their mugshot that then gets posted on our discord server for everyone to see. If they choose to not come quietly we have our swat team, known as SLRT, to help persuade them. Once the suspect has been processed they will be handed over to our Corrections Officers and given a nice new home in the LPD Prison with all the other prisoners. And if anyone gets hurt in the process they can be treated by the LMT at our Hospital. To find out how you can help keep the streets of VRChat safe, join our Discord or follow us on Twitter @LPD_vr.",
                 "createdAt": "2024-05-22T19:38:25.000Z",
-                "updatedAt": "2026-01-30T18:48:31.000Z",
+                "updatedAt": "2026-01-30T18:48:38.000Z",
                 "deletedAt": null,
                 "logo_id": 134
             },
