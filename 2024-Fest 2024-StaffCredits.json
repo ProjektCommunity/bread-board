@@ -147,7 +147,9 @@
             "departments": [
                 {
                     "department": "Development",
-                    "jobTitles": []
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
                 }
             ],
             "user": "pesky12"
