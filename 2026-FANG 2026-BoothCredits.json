@@ -402,6 +402,29 @@
                     "username": "Bloomin"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 139,
+                "name": "VRelium",
+                "group_id": "grp_39a94c64-9712-4680-9758-db25fde037f4",
+                "description": "VRelium is a dynamic and inclusive community within VRChat‚ built around a shared passion for music and creativity․ We are dedicated to supporting and showcasing the talents of virtual artists‚ DJs‚ and performers‚ providing a platform for them to connect with audiences and share their craft in meaningful ways.\n\nAt the heart of VRelium is the belief that music has the power to bring people together‚ and we aim to create unforgettable experiences that inspire connection and collaboration․ Through our events‚ we celebrate the diverse and ever-evolving virtual music scene‚ from intimate performances to large-scale festivals․\n\n\nCharity is a key part of what we do‚ as we believe in using our platform to make a positive impact․ By hosting charity-focused festivals‚ we bring the community together to support important causes and demonstrate the potential of VR to create real-world change․\n\n\nVRelium is more than just a place for music, its a space for building friendships‚ exploring creativity‚ and shaping the future of VR entertainment․ \n\nWhether youre an artist‚ a performer‚ or someone who simply loves music‚ VRelium is a welcoming space where you can be part of something bigger",
+                "createdAt": "2024-06-23T11:37:37.000Z",
+                "updatedAt": "2025-04-24T12:33:50.000Z",
+                "deletedAt": null,
+                "logo_id": 341
+            },
+            "members": [
+                {
+                    "username": "goldielounge"
+                },
+                {
+                    "username": "djredpanda"
+                },
+                {
+                    "username": "DJ Red Panda"
+                }
+            ]
         }
     ]
 }
