@@ -476,6 +476,23 @@
                     "username": "John Coday"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 409,
+                "name": "Inkblitz",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-01-16T22:10:20.000Z",
+                "updatedAt": "2026-01-16T22:10:20.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Inkblitz"
+                }
+            ]
         }
     ]
 }
