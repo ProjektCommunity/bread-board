@@ -510,6 +510,23 @@
                     "username": "SturmWolf"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 217,
+                "name": "Creative Impressions",
+                "group_id": "grp_b69ca680-015c-43c5-895f-5450fc248a3d",
+                "description": "Creative Impressions is an artistic community aims to bring all of the incredibly talented artists within the VR community together! We aim to create a fun and safe space for artists of all kinds to gather and share their work within our channels and exhibition events, and we hope to inspire anyone and everyone that comes across us.\n\nWe offer an array of different artistic channels in our discord server for people to chat and share their works, but we also host a handful of different common events such as R&R and Art studio!\n We plan to host 1 big gallery event a year that will feature many different types of artwork of all different types of media!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-07T21:11:57.000Z",
+                "deletedAt": null,
+                "logo_id": 501
+            },
+            "members": [
+                {
+                    "username": "Stellr"
+                }
+            ]
         }
     ]
 }
