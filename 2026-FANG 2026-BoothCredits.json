@@ -459,6 +459,23 @@
                     "username": "Rafi77"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 29,
+                "name": "Mythos Makers",
+                "group_id": "grp_60db80f0-2d88-47a0-8e74-a3d1d63a56b5",
+                "description": "Mythos Makers is a general entertainment and online media content creation site featuring several storytellers and creators with several backgrounds including Comic Writing and Drawing, General Writing, Video Game Development, Video Creation, Podcast Creation, and so on so forth.",
+                "createdAt": "2024-05-22T19:38:25.000Z",
+                "updatedAt": "2025-04-06T11:30:29.000Z",
+                "deletedAt": null,
+                "logo_id": 532
+            },
+            "members": [
+                {
+                    "username": "John Coday"
+                }
+            ]
         }
     ]
 }
