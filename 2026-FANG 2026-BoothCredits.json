@@ -548,11 +548,11 @@
         {
             "community": {
                 "id": 436,
-                "name": "Furnal Equanox",
+                "name": "Furnal Equinox",
                 "group_id": null,
                 "description": null,
                 "createdAt": "2026-02-02T17:41:22.000Z",
-                "updatedAt": "2026-02-02T17:41:22.000Z",
+                "updatedAt": "2026-02-04T03:20:34.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
