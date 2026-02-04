@@ -612,6 +612,23 @@
                     "username": "Kudalyn"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 167,
+                "name": "Raujinn's Avatar Workshop",
+                "group_id": "grp_492db67f-ecf5-4850-ae31-7469fa3958c0",
+                "description": "I make from-scratch original avatars and avatar assets, both for public and for sale.",
+                "createdAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2025-04-07T01:26:07.000Z",
+                "deletedAt": null,
+                "logo_id": 549
+            },
+            "members": [
+                {
+                    "username": "raujinn"
+                }
+            ]
         }
     ]
 }
