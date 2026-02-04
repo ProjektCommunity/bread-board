@@ -544,6 +544,23 @@
                     "username": "Eglantine"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 436,
+                "name": "Furnal Equanox",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-02-02T17:41:22.000Z",
+                "updatedAt": "2026-02-02T17:41:22.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Commander A9"
+                }
+            ]
         }
     ]
 }
