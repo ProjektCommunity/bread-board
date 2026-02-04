@@ -595,6 +595,23 @@
                     "username": "raebruner"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 262,
+                "name": "Kudalyn's Creations",
+                "group_id": "grp_8b9e3ab9-6a60-42f2-b491-a0cd4bcaa915",
+                "description": "Hi! I'm Kuda, and I make customizable furry models for VRChat, along with various clothing and other accessories for them. I also host once a month meetups for my avatar community , so folks can show off what they've been working on, and bring their friends along to chill!",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T06:48:40.000Z",
+                "deletedAt": null,
+                "logo_id": 853
+            },
+            "members": [
+                {
+                    "username": "Kudalyn"
+                }
+            ]
         }
     ]
 }
