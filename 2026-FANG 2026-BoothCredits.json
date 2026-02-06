@@ -867,6 +867,23 @@
                     "username": "HmanBdude"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 441,
+                "name": "Estefanoida's 2D & 3D Art",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-02-06T18:00:04.000Z",
+                "updatedAt": "2026-02-06T18:00:04.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Estefanoida"
+                }
+            ]
         }
     ]
 }
