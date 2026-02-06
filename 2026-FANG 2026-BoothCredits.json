@@ -816,6 +816,23 @@
                     "username": "Waranto"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 318,
+                "name": "DegenTech Inc",
+                "group_id": "grp_b2a19685-c53e-4c5a-9503-744a5373bf2c",
+                "description": "Group of professional furries working in STEMM fields (Science, Technology, Engineering, Mathematics, Medical). We hangout in VR and organize on Discord! Check out some of the techiest nerds you'll meet on VRchat!",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-05-09T20:03:11.000Z",
+                "deletedAt": null,
+                "logo_id": 641
+            },
+            "members": [
+                {
+                    "username": "degentech"
+                }
+            ]
         }
     ]
 }
