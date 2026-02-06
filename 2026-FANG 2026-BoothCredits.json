@@ -731,6 +731,23 @@
                     "username": "ayame_vamileon_"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 380,
+                "name": "Mega Man Faded Light",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2025-09-02T04:48:59.000Z",
+                "updatedAt": "2025-10-03T22:28:24.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Estefanoida"
+                }
+            ]
         }
     ]
 }
