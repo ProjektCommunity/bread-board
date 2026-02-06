@@ -748,6 +748,23 @@
                     "username": "Estefanoida"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 429,
+                "name": "Mokuri Project",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-01-21T18:22:48.000Z",
+                "updatedAt": "2026-01-21T18:22:48.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "HayaTikaze"
+                }
+            ]
         }
     ]
 }
