@@ -1,106 +1,199 @@
 {
     "events": [
         {
-            "id": 90,
-            "name": "Hewooow",
-            "start_date": "2024-06-23T23:57:55.000Z",
-            "end_date": "2024-06-23T23:25:55.000Z",
-            "marketing": null,
-            "stream_link": null,
-            "quest": true,
-            "instance_url": null,
+            "id": 12,
+            "name": "No Friends Friends Club Introduction!",
+            "start_date": "2024-07-06T19:00:45.000Z",
+            "end_date": "2024-07-06T20:00:45.000Z",
+            "marketing": "The No Friends Friends Club is an inclusive group for those who struggle with social anxiety. They host events, game nights, meetings and share information to help each other grow socially and learn to manage their social lives.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/azzxaprf",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
-                "id": 3,
-                "name": "Blue Star",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+                "id": 131,
+                "name": "No Friends Friends Club",
+                "group_id": "grp_693ddad7-3e90-46c6-bd38-04ccb1734420",
+                "description": "A social group and gathering that focuses on helping people struggling with social anxiety to come out and practice social skills while making friends along the way.",
+                "logo_id": 231
             },
-            "Poster": null,
+            "Poster": {
+                "id": 354,
+                "name": "NFFC_PANEL.png"
+            },
             "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 7,
+                "name": "No Friends Friends Club",
+                "url": "https://vrchat.com/home/world/wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "world_id": "wrld_6f375ec9-a26b-4fb7-846a-2bf6149060de",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 91,
-            "name": "Rindo Cult Test Event",
-            "start_date": "2024-06-24T23:50:56.000Z",
-            "end_date": "2024-06-25T00:20:56.000Z",
-            "marketing": "156156",
-            "stream_link": null,
-            "quest": true,
-            "instance_url": null,
+            "id": 13,
+            "name": "Kocho no Boss Rush",
+            "start_date": "2024-07-01T18:00:53.000Z",
+            "end_date": "2024-07-01T20:00:53.000Z",
+            "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/pz4rjjgf",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
-                "id": 4,
-                "name": "Rindo Cult",
+                "id": 6,
+                "name": "Kochō no Yakuza",
                 "group_id": null,
                 "description": null,
-                "logo_id": null
+                "logo_id": 13
             },
-            "Poster": null,
+            "Poster": {
+                "id": 270,
+                "name": "KochÅ no Yakuza-logo.png"
+            },
             "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 6,
+                "name": "Kamurocho",
+                "url": "https://vrchat.com/home/world/wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "world_id": "wrld_69493083-3590-47af-8069-060f4b423ba2",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 92,
-            "name": "Little Renegades Test Event",
-            "start_date": "2024-06-24T21:00:32.000Z",
-            "end_date": "2024-06-24T21:30:32.000Z",
-            "marketing": "Test",
+            "id": 14,
+            "name": "DDVR / MVP / Rizumu day 1",
+            "start_date": "2024-07-06T00:00:24.000Z",
+            "end_date": "2024-07-06T06:45:24.000Z",
+            "marketing": "Hey all! We've partnered with DanceDanceVR, Miami Vice Parties, and Rizumu to bring you two awesome afterparties this weekend! So please come drop by and show our lineup some support!",
             "stream_link": null,
             "quest": false,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
             "project_id": 2,
-            "Community": {
-                "id": 20,
-                "name": "Little Renegades",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
+            "Community": null,
             "Poster": null,
             "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 93,
-            "name": "The Synapse Test Event",
-            "start_date": "2024-06-24T22:30:10.000Z",
-            "end_date": "2024-06-24T22:00:10.000Z",
-            "marketing": "\"Kochō no Boss Rush\" is an immersive roleplay event organized by the community Kochō no Yakuza. The event aims to engage and train the public in the art of fighting and roleplaying, specifically centered around epic boss encounters they usually have within the community. It offers participants a unique opportunity to learn combat techniques, enhance their roleplaying skills, and then put their newly acquired abilities to the test in a thrilling boss scenario.",
+            "id": 15,
+            "name": "Improv Live Show",
+            "start_date": "2024-07-05T21:00:09.000Z",
+            "end_date": "2024-07-05T23:00:09.000Z",
+            "marketing": "Enjoy a fun evening of laughter with Skits'n'Bits Improv as audience suggestions fuel unplanned and unscripted scenes of comedic surprises.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/h4cwcfjm",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 40,
+                "name": "Skits'N'Bits",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": {
+                "id": 353,
+                "name": "2024.06.06_-_SnB_x_PJKT_VRchat_Poster.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 4,
+                "name": "Skits 'N' Bits Theatre （18＋）",
+                "url": "https://vrchat.com/home/world/wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "world_id": "wrld_dbf2dee1-26de-4fc0-892d-1338b88636ab",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 17,
+            "name": "Behind the Scenes of PJKT Media",
+            "start_date": "2024-07-03T00:00:47.000Z",
+            "end_date": "2024-07-03T02:00:47.000Z",
+            "marketing": "A panel talk with Wolveeps and PJKT media staff members as they explain the behind-the-scenes of PJKT Media production. Down to how they operate, what discoveries they have made this past year, and what is next in the upcoming horizon! Come and join us to see what PJKT media has to offer! ",
             "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": true,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/7ayc9tma",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 349,
+                "name": "BIGFUCK_copy-05.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 18,
+            "name": "Dance Lesson w/ DustBunny",
+            "start_date": "2024-07-02T22:00:20.000Z",
+            "end_date": "2024-07-02T23:00:20.000Z",
+            "marketing": "Join DustBunny from VR Dance Academy for a one-hour dance lesson! This dance lesson will cover dance concepts, which will help improve your freestyle dancing!",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/7ayc9tma",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": {
+                "id": 138,
+                "name": "VR Dance Academy",
+                "group_id": "grp_51ebfdd0-ed38-4d73-aa56-c16bd95d7856",
+                "description": "For those who are interested in VR Ballroom Dance Classes ＆ Social Dancing Eventsǃ",
+                "logo_id": 271
+            },
+            "Poster": {
+                "id": 348,
+                "name": "dust.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 20,
+            "name": "Paraclete Program Showcase",
+            "start_date": "2024-07-01T23:00:19.000Z",
+            "end_date": "2024-07-02T00:00:19.000Z",
+            "marketing": "Come get a sneak peek and early access to an upcoming role-play community that is themed around angels in a mythical heaven-like world called The Synapse. Learn about the story development and the history of The Synapse community and how they came to be! This might just be your next roleplay community.",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": true,
+            "instance_url": "https://vrch.at/wsy26ab9",
+            "event_public": true,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
                 "id": 35,
@@ -109,22 +202,25 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 344,
+                "name": "PJKT_Summer_2024_APP_Poster_FINAL.png"
+            },
             "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 94,
-            "name": "Hi karet!!!!11211111!",
-            "start_date": "2024-06-25T00:39:45.000Z",
-            "end_date": "2024-06-25T01:09:45.000Z",
+            "id": 21,
+            "name": "MOKURI Meetup!",
+            "start_date": "2024-06-30T01:00:40.000Z",
+            "end_date": "2024-06-30T02:00:40.000Z",
             "marketing": null,
             "stream_link": null,
             "quest": false,
@@ -132,89 +228,204 @@
             "event_public": true,
             "event_ready": false,
             "project_id": 2,
-            "Community": {
-                "id": 1,
-                "name": "Local Police Department",
-                "group_id": null,
-                "description": "32123",
-                "logo_id": null
-            },
+            "Community": null,
             "Poster": null,
             "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 22,
+            "name": "Algorithms & Team Building w/ SuperXavier",
+            "start_date": "2024-06-30T23:00:42.000Z",
+            "end_date": "2024-07-01T00:30:42.000Z",
+            "marketing": "Join SuperXavier as he discusses tips & tricks for using the YouTube Algorithm to your advantage and his methods of building healthy team relationships!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/a5xxw0n4",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 339,
+                "name": "SuperXavier_Event.png"
+            },
+            "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 95,
-            "name": "Next day test",
-            "start_date": "2024-06-27T00:21:50.000Z",
-            "end_date": "2024-06-27T00:51:50.000Z",
-            "marketing": null,
-            "stream_link": null,
+            "id": 23,
+            "name": "PJKT: INK Speaker: GoFluffYaself",
+            "start_date": "2024-07-01T21:00:37.000Z",
+            "end_date": "2024-07-01T22:00:37.000Z",
+            "marketing": "Come by to our first Projekt: INK Talk hosted by GoFluffYaself, he'll be discussing Avatar PvP, it's development, and the impact it's had over various communities! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2&instanceId=Next_day_test~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "instance_url": "https://vrch.at/q3ab346h",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 343,
+                "name": "ink-02.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 24,
+            "name": "PJKT: INK Speaker: DX",
+            "start_date": "2024-07-02T20:00:00.000Z",
+            "end_date": "2024-07-02T21:00:00.000Z",
+            "marketing": "It's time for our second PJKT: INK talk! Come and listen to DX_30 discuss his most recent projects including, Camera Path, DX Overlay, Holospace, and more!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/dhhr6m4m",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 347,
+                "name": "ink-02.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 25,
+            "name": "Community Interviews! Pt. 1",
+            "start_date": "2024-07-03T18:00:27.000Z",
+            "end_date": "2024-07-03T20:00:27.000Z",
+            "marketing": "Come by and watch our Media Team Interview the various representatives of the communities exhibiting this year! ",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=Community_Interviews__Pt__1~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 350,
+                "name": "PJKTFESTsmolres.png"
+            },
+            "EventType": null,
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
+        },
+        {
+            "id": 27,
+            "name": "Electric Bloom w/ Terminus",
+            "start_date": "2024-07-03T23:00:39.000Z",
+            "end_date": "2024-07-04T00:30:39.000Z",
+            "marketing": "Join us for an Animation Particle Show featuring Live Dance and Storylike performances from Terminus!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
+            "quest": false,
+            "instance_url": "https://vrch.at/kmwwg25d",
+            "event_public": true,
+            "event_ready": true,
+            "project_id": 2,
+            "Community": null,
+            "Poster": {
+                "id": 340,
+                "name": "Copy_of_Copy_of_Terminus_-_Sounds_of_Summer.png"
+            },
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 28,
+            "name": "Vket Showcase!",
+            "start_date": "2024-07-04T01:30:43.000Z",
+            "end_date": "2024-07-04T04:30:43.000Z",
+            "marketing": "Join us in Vket's Weekly Wednesday World Hop! Come by and hang out with the Vket Global Team as they explore PJKT! ",
+            "stream_link": "https://www.twitch.tv/vketchannel",
+            "quest": true,
+            "instance_url": "https://vrch.at/zjza802m",
             "event_public": true,
             "event_ready": true,
             "project_id": 2,
             "Community": {
+                "id": 101,
+                "name": "VirtualMarket",
+                "group_id": "grp_b39cfe35-8a86-4454-ad2b-3649b3702793",
+                "description": "We're the largest virtual convention in the world, focused on promoting indy creators.",
+                "logo_id": 204
+            },
+            "Poster": {
+                "id": 351,
+                "name": "VKET-WorldHop-05.png"
+            },
+            "EventType": null,
+            "Venue": {
                 "id": 2,
-                "name": "[UHR] United Hollow Republic",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 96,
-            "name": "The amazing Projekt Community Event",
-            "start_date": "2024-06-25T16:00:56.000Z",
-            "end_date": "2024-06-25T16:30:56.000Z",
-            "marketing": "This is an amazing event that will be crazy! Trust me? (Don't trust me...)",
+            "id": 29,
+            "name": "PJKT: INK Speaker: ArgusVRC",
+            "start_date": "2024-07-05T19:00:16.000Z",
+            "end_date": "2024-07-05T20:00:16.000Z",
+            "marketing": "It's time for our third an final PJKT: INK talk! Come and listen to the ArgusVRC Team discuss their Project Aincrad! The recreation of SAO in VRChat!",
             "stream_link": "https://twitch.tv/ProjektCommunity",
-            "quest": true,
-            "instance_url": null,
+            "quest": false,
+            "instance_url": "https://vrch.at/wqemdf80",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
-            "Community": {
-                "id": 3,
-                "name": "Blue Star",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+            "Community": null,
+            "Poster": {
+                "id": 352,
+                "name": "ink-02.png"
             },
-            "Poster": null,
             "EventType": null,
             "Venue": {
-                "id": 1,
-                "name": "PJKT˸ FESTIVAL 2023",
-                "url": "https://vrchat.com/home/world/wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "world_id": "wrld_91ad9e09-ea0c-4656-86d7-68063d66f0f2",
-                "orgOwned": true,
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
                 "community_id": null
             }
         },
         {
-            "id": 97,
-            "name": "Teso1561653",
-            "start_date": "2024-06-26T08:08:38.000Z",
-            "end_date": "2024-06-26T08:38:38.000Z",
+            "id": 30,
+            "name": "Closing Ceremony",
+            "start_date": "2024-07-07T23:00:29.000Z",
+            "end_date": "2024-07-08T00:00:29.000Z",
             "marketing": null,
             "stream_link": null,
             "quest": false,
@@ -222,83 +433,68 @@
             "event_public": true,
             "event_ready": false,
             "project_id": 2,
-            "Community": {
-                "id": 20,
-                "name": "Little Renegades",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
-            },
+            "Community": null,
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
-            "id": 98,
-            "name": "fsfas",
-            "start_date": "2024-06-27T08:09:42.000Z",
-            "end_date": "2024-06-27T08:39:42.000Z",
-            "marketing": "ffsafafsdfaafs",
-            "stream_link": null,
+            "id": 31,
+            "name": "Community Interviews 2",
+            "start_date": "2024-07-07T20:30:34.000Z",
+            "end_date": "2024-07-07T22:30:34.000Z",
+            "marketing": "Come by and watch part 2 of our Media Team Interviewing the various representatives of communities exhibiting this year! There are a lot more reps in this round of interviews so be sure to tune in!",
+            "stream_link": "https://twitch.tv/ProjektCommunity",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrchat.com/home/launch?worldId=wrld_2477f028-88e4-4302-b9bb-ee555258d32c&instanceId=Community_Interviews_2~group(grp_f0481bfb-d6dd-4386-a13e-175f6b09ab0b)~groupAccessType(public)~region(use)",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
-            "Community": {
-                "id": 28,
-                "name": "Mortisian Syndicate",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+            "Community": null,
+            "Poster": {
+                "id": 356,
+                "name": "Community_interview_.png"
             },
-            "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 2,
+                "name": "LPD Station",
+                "url": "https://vrchat.com/home/world/wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "world_id": "wrld_e3b09d06-70c4-4cf0-abab-91bfbea5fcfd",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
-            "id": 99,
-            "name": "fasffdssaffasfasf",
-            "start_date": "2024-06-29T08:09:56.000Z",
-            "end_date": "2024-06-29T08:39:56.000Z",
-            "marketing": "fsadfasffssdafasdf",
-            "stream_link": null,
+            "id": 34,
+            "name": "Operation: Iron Exodus w/ L.A.B. Unit",
+            "start_date": "2024-07-03T03:00:15.000Z",
+            "end_date": "2024-07-03T05:00:15.000Z",
+            "marketing": "A L.A.B. Unit Joint operation (milsim RP event)\r\n\r\nIn the year 2043, a JTF Formed by L.A.B. Unit was put together for a contract to Retrieve a NFFA Government official from South American Federation custody in a maximum-security prison. Tensions are high and actions need to be taken quickly.",
+            "stream_link": "https://www.twitch.tv/kaoskarasu",
             "quest": false,
-            "instance_url": null,
+            "instance_url": "https://vrch.at/0tu0v0m5",
             "event_public": true,
-            "event_ready": false,
+            "event_ready": true,
             "project_id": 2,
             "Community": {
-                "id": 25,
-                "name": "United Republic",
+                "id": 32,
+                "name": "LAB Unit",
                 "group_id": null,
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
-            "EventType": null,
-            "Venue": null
-        },
-        {
-            "id": 100,
-            "name": "sdfafadafdasdf",
-            "start_date": "2024-06-30T08:13:11.000Z",
-            "end_date": "2024-06-30T08:43:11.000Z",
-            "marketing": "af",
-            "stream_link": null,
-            "quest": false,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 2,
-            "Community": {
-                "id": 7,
-                "name": "TAB Secret Solvers",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+            "Poster": {
+                "id": 346,
+                "name": "Picsart_23-01-16_20-54-00-914.png"
             },
-            "Poster": null,
             "EventType": null,
             "Venue": null
         }
