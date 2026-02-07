@@ -941,6 +941,23 @@
                     "username": "Drowns"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 247,
+                "name": "Furry Hideout",
+                "group_id": "grp_ce516cb8-3dfa-4ea3-9c0a-ea07606d270b",
+                "description": "Here at the 'Hideout we pride ourselves on our relaxed atmosphere‚ and large community of friendly furs and non furs alike‚ we hope you enjoy your stay - and if you like what you see‚ how about joining our discord ? Here you can keep up to date with the latest happenings in world‚ events‚ and much more․ Discord․gg⁄FurryHideout",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-07T22:39:14.000Z",
+                "deletedAt": null,
+                "logo_id": 1057
+            },
+            "members": [
+                {
+                    "username": "Lt_Shadow"
+                }
+            ]
         }
     ]
 }
