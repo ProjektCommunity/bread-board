@@ -958,6 +958,23 @@
                     "username": "Lt_Shadow"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 364,
+                "name": "ValenVRC",
+                "group_id": "grp_32fd99ba-2ec3-4408-9dce-74cf4ea0b713",
+                "description": "I'm a freelancer developer and vrchat mapmaker from Argentina, I specialize in the creation of assets and systems that use U#!",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T00:58:02.000Z",
+                "deletedAt": null,
+                "logo_id": 738
+            },
+            "members": [
+                {
+                    "username": "valenvrc"
+                }
+            ]
         }
     ]
 }
