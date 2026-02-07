@@ -904,6 +904,26 @@
                     "username": "Akira_Edits"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 194,
+                "name": "Corbelle's Music Festivals & Sessions",
+                "group_id": "grp_adb24b4b-5354-4cc0-beb0-0d9dcfd54dde",
+                "description": "VRChat's Largest Live Music Community\n\nThis group is a place to gather all friends‚ fans and wanderers for our massive music festivalsǃ Usually we host an event once a month either under our own banner or for a partnering community․ All shows have free admission and will be Quest-compatible․\n\nFor professional musicians ⁄ DJ's who would like to apply for one of the bigger shows throughout the year‚ DM me on Discord for the application process․ The same goes for VRChat or IRL community leaders who want us to cater a festival for your communityǃ",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-13T23:50:16.000Z",
+                "deletedAt": null,
+                "logo_id": 1070
+            },
+            "members": [
+                {
+                    "username": "Corbelle"
+                },
+                {
+                    "username": "Lurkinglotus"
+                }
+            ]
         }
     ]
 }
