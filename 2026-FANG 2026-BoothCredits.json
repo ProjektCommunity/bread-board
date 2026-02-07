@@ -884,6 +884,26 @@
                     "username": "Estefanoida"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 129,
+                "name": "Soaring Fitness",
+                "group_id": "grp_465007ac-1c72-40d3-aa78-01c9b6075ffa",
+                "description": "We are a VR-based workout group, focused on being freely accessible. Our hard working team of Volunteers offer their time and experience to make it all possible. Our Certified Personal Trainers work with our Volunteer Instructors to bring you workouts 7 days a week! We believe good health and fitness should not be gated behind a paywall! ",
+                "createdAt": "2024-06-13T22:54:39.000Z",
+                "updatedAt": "2024-06-21T02:32:12.000Z",
+                "deletedAt": null,
+                "logo_id": 230
+            },
+            "members": [
+                {
+                    "username": "Sapphicawoo"
+                },
+                {
+                    "username": "Akira_Edits"
+                }
+            ]
         }
     ]
 }
