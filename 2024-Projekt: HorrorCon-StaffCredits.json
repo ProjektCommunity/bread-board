@@ -40,11 +40,7 @@
             "departments": [
                 {
                     "department": "Events",
-                    "jobTitles": [
-                        "Team Leader",
-                        "Event Coordinator",
-                        "Event Host"
-                    ]
+                    "jobTitles": []
                 }
             ],
             "user": "DELTA"
