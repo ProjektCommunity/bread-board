@@ -1,3 +1,25 @@
 {
-    "staffCredits": []
+    "staffCredits": [
+        {
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Team Leader",
+                        "Media Administrations",
+                        "Social Crew"
+                    ]
+                },
+                {
+                    "department": "Events",
+                    "jobTitles": [
+                        "Team Leader",
+                        "Event Coordinator",
+                        "Event Host"
+                    ]
+                }
+            ],
+            "user": "Euky"
+        }
+    ]
 }
