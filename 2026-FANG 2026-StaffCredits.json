@@ -20,6 +20,21 @@
                 }
             ],
             "user": "Euky"
+        },
+        {
+            "departments": [
+                {
+                    "department": "Business and Finance",
+                    "jobTitles": []
+                },
+                {
+                    "department": "Moderation",
+                    "jobTitles": [
+                        "Team Leader"
+                    ]
+                }
+            ],
+            "user": "NovedPlayer"
         }
     ]
 }

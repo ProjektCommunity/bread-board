@@ -282,7 +282,15 @@
             "user": "Onetwostep"
         },
         {
-            "departments": [],
+            "departments": [
+                {
+                    "department": "Media",
+                    "jobTitles": [
+                        "Live Crew",
+                        "Live Engineer"
+                    ]
+                }
+            ],
             "user": "EmmaTorch"
         },
         {
