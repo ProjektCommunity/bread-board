@@ -3,13 +3,9 @@
         {
             "departments": [
                 {
-                    "department": "Business and Finance",
-                    "jobTitles": []
-                },
-                {
-                    "department": "Moderation",
+                    "department": "Events",
                     "jobTitles": [
-                        "Team Leader"
+                        "Director"
                     ]
                 }
             ],
