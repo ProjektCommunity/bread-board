@@ -12,7 +12,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -29,7 +35,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -46,7 +58,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -63,7 +81,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -80,7 +104,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -97,7 +127,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -114,7 +150,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -131,7 +173,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -148,7 +196,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -165,7 +219,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -182,7 +242,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -199,7 +265,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -216,7 +288,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -233,7 +311,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -247,10 +331,15 @@
       "stream_link": "https://twitch.tv/ProjektCommunity",
       "quest": true,
       "instance_url": null,
-      "event_public": true,
-      "event_ready": false,
+      "event_public": true,       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -267,7 +356,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -284,7 +379,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -301,7 +402,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -318,7 +425,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -335,7 +448,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -352,7 +471,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -369,7 +494,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -386,7 +517,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -403,7 +540,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -420,7 +563,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -437,7 +586,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -454,7 +609,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -471,7 +632,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -488,7 +655,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -505,7 +678,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -522,7 +701,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -539,7 +724,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -556,7 +747,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -573,7 +770,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -590,7 +793,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -607,7 +816,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -624,7 +839,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -641,7 +862,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -658,7 +885,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -675,7 +908,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "Music Performance",
+      "Community": {
+        "id": 1,
+        "name": "Music Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -692,7 +931,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -709,7 +954,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
@@ -726,7 +977,13 @@
       "event_public": true,
       "event_ready": false,
       "project_id": 6,
-      "Community": "DJ Performance",
+      "Community": {
+        "id": 1,
+        "name": "DJ Performance",
+        "group_id": "",
+        "description": "",
+        "logo_id": 0
+      },
       "Poster": null,
       "EventType": null,
       "Venue": null
