@@ -76,7 +76,10 @@
                 "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
                 "logo_id": 199
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1291,
+                "name": "1024_X_1449_-_METAFES_POSTER.png"
+            },
             "EventType": null,
             "Venue": null
         },
