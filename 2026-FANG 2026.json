@@ -12,7 +12,13 @@
             "event_public": true,
             "event_ready": false,
             "project_id": 6,
-            "Community": null,
+            "Community": {
+                "id": 415,
+                "name": "Voxian",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
             "Poster": null,
             "EventType": null,
             "Venue": null
