@@ -168,7 +168,10 @@
                 "description": "We are a VR-based workout group, focused on being freely accessible. Our hard working team of Volunteers offer their time and experience to make it all possible. Our Certified Personal Trainers work with our Volunteer Instructors to bring you workouts 7 days a week! We believe good health and fitness should not be gated behind a paywall! ",
                 "logo_id": 230
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1294,
+                "name": "SF_Projekt_Fang_panel_announcement_2026_-_The_Akira_Edits.png"
+            },
             "EventType": null,
             "Venue": null
         },
