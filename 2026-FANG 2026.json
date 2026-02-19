@@ -286,7 +286,10 @@
             "event_ready": false,
             "project_id": 6,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 1298,
+                "name": "Scammed.png"
+            },
             "EventType": null,
             "Venue": null
         },
