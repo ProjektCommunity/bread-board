@@ -119,7 +119,10 @@
                 "description": "I Create world assets, udon scripts, and systems to support the community, along with helping run various projects. You may know me from my work as a co-developer on  Openflight!",
                 "logo_id": 1064
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1293,
+                "name": "DMX.png"
+            },
             "EventType": null,
             "Venue": null
         },
