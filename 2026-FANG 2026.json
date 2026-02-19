@@ -243,7 +243,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1296,
+                "name": "Furnal Equinox.png"
+            },
             "EventType": null,
             "Venue": null
         },
