@@ -309,7 +309,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1297,
+                "name": "Mokuri.png"
+            },
             "EventType": null,
             "Venue": null
         }
