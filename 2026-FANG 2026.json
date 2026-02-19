@@ -194,7 +194,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1295,
+                "name": "VRFilming_PanelPoster.png"
+            },
             "EventType": null,
             "Venue": null
         },
