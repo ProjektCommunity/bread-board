@@ -220,7 +220,10 @@
                 "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming or social event. Time to rock and roll!",
                 "logo_id": 558
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1299,
+                "name": "Comrades.png"
+            },
             "EventType": null,
             "Venue": null
         },
