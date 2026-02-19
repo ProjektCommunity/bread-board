@@ -145,7 +145,10 @@
                 "description": "Hi! I'm Kuda, and I make customizable furry models for VRChat, along with various clothing and other accessories for them. I also host once a month meetups for my avatar community , so folks can show off what they've been working on, and bring their friends along to chill!",
                 "logo_id": 853
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1301,
+                "name": "Kudalyn.png"
+            },
             "EventType": null,
             "Venue": null
         },
