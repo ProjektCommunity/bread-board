@@ -290,7 +290,10 @@
                 "description": "Group of professional furries working in STEMM fields (Science, Technology, Engineering, Mathematics, Medical). We hangout in VR and organize on Discord! Check out some of the techiest nerds you'll meet on VRchat!",
                 "logo_id": 641
             },
-            "Poster": null,
+            "Poster": {
+                "id": 1304,
+                "name": "Stemm.png"
+            },
             "EventType": null,
             "Venue": null
         },
