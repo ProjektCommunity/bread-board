@@ -342,6 +342,23 @@
             },
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 117,
+            "name": "Meet the PJKT Fang Exhibitors",
+            "start_date": "2026-02-23T18:00:13.000Z",
+            "end_date": "2026-02-24T02:00:13.000Z",
+            "marketing": "Come and explore the many booths that PJKT Fang & Community has to offer! Both PJKT Staff and Exhibitors will be there and chilling. So come up and say hi!",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 6,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
