@@ -41,6 +41,12 @@
             "eventsURL": "2025-Festmas.json",
             "boothCreditsURL": "2025-Festmas-BoothCredits.json",
             "staffCreditsURL": "2025-Festmas-StaffCredits.json"
+        },
+        {
+            "projectName": "Fest 2026",
+            "eventsURL": "2026-Fest 2026.json",
+            "boothCreditsURL": "2026-Fest 2026-BoothCredits.json",
+            "staffCreditsURL": "2026-Fest 2026-StaffCredits.json"
         }
     ]
 }

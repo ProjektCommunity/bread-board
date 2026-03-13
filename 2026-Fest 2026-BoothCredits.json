@@ -1,0 +1,21 @@
+{
+    "credits": [
+        {
+            "community": {
+                "id": 183,
+                "name": "Ukon XL",
+                "group_id": "grp_48c32541-f2d5-4c59-b613-72e6491b733e",
+                "description": "A VRC group based around the Ukon avatar base",
+                "createdAt": "2025-03-05T15:51:36.000Z",
+                "updatedAt": "2025-03-28T15:02:35.000Z",
+                "deletedAt": null,
+                "logo_id": 494
+            },
+            "members": [
+                {
+                    "username": "SnivyFC"
+                }
+            ]
+        }
+    ]
+}
