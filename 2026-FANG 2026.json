@@ -359,6 +359,23 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 118,
+            "name": "VRCA Watch Party",
+            "start_date": "2026-03-15T20:20:26.000Z",
+            "end_date": "2026-03-15T20:50:26.000Z",
+            "marketing": "Join us as we watch Award Ceremony",
+            "stream_link": null,
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 6,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
