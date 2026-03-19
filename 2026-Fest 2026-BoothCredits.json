@@ -33,6 +33,23 @@
                     "username": "GibZen"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 309,
+                "name": "RWBY Converged Realms",
+                "group_id": "grp_f73c931f-dd0b-42c4-bb4f-daa138d5013d",
+                "description": "We are a beginner and quest friendly Roleplay group set with former RoosterTeeth universe of RWBY.",
+                "createdAt": "2025-04-09T14:12:19.000Z",
+                "updatedAt": "2025-04-12T16:28:02.000Z",
+                "deletedAt": null,
+                "logo_id": 556
+            },
+            "members": [
+                {
+                    "username": "TheFallenEngi"
+                }
+            ]
         }
     ]
 }
