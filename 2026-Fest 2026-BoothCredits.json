@@ -342,6 +342,23 @@
                     "username": "EchoTheRedFlame"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 69,
+                "name": "Megabuilding 325",
+                "group_id": "grp_ad7ea7ee-10d4-4f8a-bccb-b3fc7364e555",
+                "description": "Do you make anything? Music, painting, textures, 3D, 2D, animations, sculptures, etc ? Do you open for commissions? Do you also roleplay? Do you wish you had a virtual store? Do I have your attention yet? Then you should consider joining MEGABUILDING 325!\n\nM325 is a cyberpunk inspired roleplay group. If you enjoy stuff like Ghost in the Shell, Blade Runner, Apex, Titanfall, Akira, The Finals, Cyberpunk and more, then you'll fit right in! We offer creators of all kinds a place to hold a store (no Unity knowledge needed) and do some roleplay with a map that evolves with the players! \n\nNot a creator? Not a problem! Just come RP, join the guild, run missions and more! Found something cool in a mission? We'll add it to the map! That's right, what you do truly impacts the map here at M325.  Lobbies are every Tuesdays at 7:30 pm eastern. We are also Quest tolerant (Questies be warned, we do not impose players to have Quest avatars. Use your imagination, buddy.)",
+                "createdAt": "2024-05-24T12:07:25.000Z",
+                "updatedAt": "2025-03-28T06:01:10.000Z",
+                "deletedAt": null,
+                "logo_id": 187
+            },
+            "members": [
+                {
+                    "username": "Z!FF"
+                }
+            ]
         }
     ]
 }
