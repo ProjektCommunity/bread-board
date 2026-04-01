@@ -359,6 +359,23 @@
                     "username": "Z!FF"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 524,
+                "name": "Multiverse Sonic",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-03-30T23:28:12.000Z",
+                "updatedAt": "2026-03-30T23:28:12.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "MultiverseSonic"
+                }
+            ]
         }
     ]
 }
