@@ -393,6 +393,23 @@
                     "username": "Prowlerkstar"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 265,
+                "name": "Honey's Cozy Cottage",
+                "group_id": "grp_2a8273fe-2c42-4f1a-8687-6c514b88eb88",
+                "description": "Welcome to the Cozy Cottageǃǃǃ HoneyHoTkiss is a Honey⁄Teddy Bear VTuber that goes on adventures with her bee buddy‚ Drizzleǃǃǃ She has been a content creator for 3+ years of experience. Started out small on Twitch, followed by YouTube 1-2 years later. She is also representing Wave 2 of Okimi Cafe since October 2022. You may also know her as a Werehog Simp in certain streams from time to time. If you wanted to see some comfy, cozy vibes, along with some chaos into the mix, you're in for a treat!!! I hope you'll enjoy your stayǃǃǃ Stay tuned and stay cozy~ǃǃǃǃ",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:45:33.000Z",
+                "deletedAt": null,
+                "logo_id": 483
+            },
+            "members": [
+                {
+                    "username": "HoneyHoTkiss"
+                }
+            ]
         }
     ]
 }
