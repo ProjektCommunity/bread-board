@@ -410,6 +410,26 @@
                     "username": "HoneyHoTkiss"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 174,
+                "name": "BUDDYWORKS",
+                "group_id": "grp_6f4530c0-5ba5-4545-8007-705aaa2773af",
+                "description": "BUDDYWORKS is a community by creators for creators, helping and educating in all things unity and blender with VRC context.\n\nEveryone is happily invited to join in, every skill level, even just slight curiosity.\n\nMaybe you find the spark. ❤️",
+                "createdAt": "2025-02-07T20:26:17.000Z",
+                "updatedAt": "2025-02-08T17:00:24.000Z",
+                "deletedAt": null,
+                "logo_id": 453
+            },
+            "members": [
+                {
+                    "username": "Karet"
+                },
+                {
+                    "username": "Buddy_DE"
+                }
+            ]
         }
     ]
 }
