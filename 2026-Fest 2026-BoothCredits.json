@@ -498,6 +498,23 @@
                     "username": "skuld"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 305,
+                "name": "Zelen Factories Of Mechanical Equipment",
+                "group_id": "grp_650cb995-c5cf-4bf0-a2e0-80e0dd1b007e",
+                "description": "Zelen Factories is a server mainly used as a hub to all of my current and upcoming creations on VRChat, Most creations being both armed and unarmed vehicles, But sometimes it goes a little off course",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:30:01.000Z",
+                "deletedAt": null,
+                "logo_id": 551
+            },
+            "members": [
+                {
+                    "username": "Jonas Von Holmster"
+                }
+            ]
         }
     ]
 }
