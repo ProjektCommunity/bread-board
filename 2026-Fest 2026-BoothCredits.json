@@ -515,6 +515,23 @@
                     "username": "Jonas Von Holmster"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 316,
+                "name": "Sunset Plaza",
+                "group_id": "grp_09a57bbb-06c4-44f4-9846-4604904437d1",
+                "description": "Sunset Plaza, is an 18+ mall community dedicated to fun and social engagement. Attend our weekly events, unwind with a drink, and find your perfect shop. Verification is mandatory to maintain a welcoming and respectful space shop.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-05-24T01:19:58.000Z",
+                "deletedAt": null,
+                "logo_id": 749
+            },
+            "members": [
+                {
+                    "username": "Ermina West"
+                }
+            ]
         }
     ]
 }
