@@ -600,6 +600,23 @@
                     "username": "Metaverse Degen"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 545,
+                "name": "UnholyHealer",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-04-17T20:03:35.000Z",
+                "updatedAt": "2026-04-17T20:03:35.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Unholy_Healer"
+                }
+            ]
         }
     ]
 }
