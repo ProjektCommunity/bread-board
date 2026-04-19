@@ -634,6 +634,26 @@
                     "username": "emilhauge"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 372,
+                "name": "GhoulNya",
+                "group_id": "grp_a51c83f9-9c55-4cdc-b772-b87c4d449745",
+                "description": "Hi im blue here u will find links to my socials and my shop where u can buy cute keychains and stickers with food theme art made by me （Blumonsterghoul）\nTheme items u will find in store˸ Food theme art, animal art, OC furry art, Memes inspired art, Puerto Rico theme art",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2026-04-19T19:13:20.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Blumonsterghoul"
+                },
+                {
+                    "username": "Blumonsterghoul"
+                }
+            ]
         }
     ]
 }
