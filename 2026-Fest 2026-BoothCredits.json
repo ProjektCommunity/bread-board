@@ -805,6 +805,23 @@
                     "username": "nekonny"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 260,
+                "name": "Failed to Render",
+                "group_id": "grp_60776bcc-6315-451c-98c8-fc08d38cfe88",
+                "description": "Failed to Render Comedy Club is the longest-standing professional comedy club in virtual reality, running every week night, on Meta Horizon Worlds and VRChat.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-06-01T21:55:31.000Z",
+                "deletedAt": null,
+                "logo_id": 858
+            },
+            "members": [
+                {
+                    "username": "PablosCorner"
+                }
+            ]
         }
     ]
 }
