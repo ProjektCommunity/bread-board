@@ -856,6 +856,23 @@
                     "username": "MiV"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 80,
+                "name": "Study-Japanese【 JapaNichijou ジャパ日常 】",
+                "group_id": "grp_b53f4ff9-a0da-4c41-a464-6ae95a27c4dd",
+                "description": "Our community is made up of people who have come together with the goal of enjoying learning Japanese.  \nWe host events twice every weekend, where we explore various ways to practice Japanese, including Japanese lessons, games using Japanese Language, and role-playing events that simulate real-life communication.  \nIf you're interested in Japanese Language or Japanese culture, feel free to stop by and join us! ありがとう！",
+                "createdAt": "2024-06-01T20:22:44.000Z",
+                "updatedAt": "2025-04-07T01:28:52.000Z",
+                "deletedAt": null,
+                "logo_id": 193
+            },
+            "members": [
+                {
+                    "username": "HayaTikaze"
+                }
+            ]
         }
     ]
 }
