@@ -975,6 +975,23 @@
                     "username": "MaskedTearZ"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 271,
+                "name": "JP-GH Animations",
+                "group_id": null,
+                "description": "I'm a Digital Artist that specializes in Animation and making cool, slick illustrations. I'm also currently working on a full length, VRChat Feature Film.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:24:22.000Z",
+                "deletedAt": null,
+                "logo_id": 499
+            },
+            "members": [
+                {
+                    "username": "JPGH_Animations"
+                }
+            ]
         }
     ]
 }
