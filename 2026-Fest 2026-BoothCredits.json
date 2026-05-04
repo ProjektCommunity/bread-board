@@ -1026,6 +1026,23 @@
                     "username": "Sheena_baobab"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 550,
+                "name": "Cubee Games",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Cubee Games]",
+                "description": "",
+                "createdAt": "2026-05-04T00:14:59.000Z",
+                "updatedAt": "2026-05-04T00:14:59.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "cubee"
+                }
+            ]
         }
     ]
 }
