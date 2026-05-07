@@ -1202,6 +1202,23 @@
                     "username": "smeltie"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 264,
+                "name": "MyroP's group",
+                "group_id": "grp_3b8f67a7-6c29-4a68-8ca0-bf8c348e6c0b",
+                "description": "I make worlds, prefabs and sometimes shaders",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T15:52:00.000Z",
+                "deletedAt": null,
+                "logo_id": 505
+            },
+            "members": [
+                {
+                    "username": "MyroP"
+                }
+            ]
         }
     ]
 }
