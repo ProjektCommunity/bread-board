@@ -1273,6 +1273,23 @@
                     "username": "L0tusBunBun"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 569,
+                "name": "PrideVR",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[PrideVR]",
+                "description": "",
+                "createdAt": "2026-05-11T20:08:33.000Z",
+                "updatedAt": "2026-05-11T20:08:33.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "SachiraVT"
+                }
+            ]
         }
     ]
 }
