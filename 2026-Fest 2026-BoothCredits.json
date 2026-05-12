@@ -1341,6 +1341,23 @@
                     "username": "SybilFaewolf"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 547,
+                "name": "Sins of Evarda",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Sins of Evarda]",
+                "description": "",
+                "createdAt": "2026-04-30T05:53:30.000Z",
+                "updatedAt": "2026-04-30T05:53:30.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Drazker"
+                }
+            ]
         }
     ]
 }
