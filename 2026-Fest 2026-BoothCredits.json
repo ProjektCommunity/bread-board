@@ -1443,6 +1443,23 @@
                     "username": "chayahalfdragon"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 177,
+                "name": "Ancients of VRChat",
+                "group_id": "grp_7492bce5-8f3a-4183-b79d-caacf1e173da",
+                "description": "Ancients of VRChat is a server with over 17‚000 members for finding other adults to be friends with․ We host dozens of events of all varieties every week including 3 that are oriented toward getting new members involved․  Hangouts‚ Games‚ A Club‚ Workouts‚ Book Club‚ Watch Parties and more․",
+                "createdAt": "2025-03-05T15:47:25.000Z",
+                "updatedAt": "2025-03-28T05:58:56.000Z",
+                "deletedAt": null,
+                "logo_id": 488
+            },
+            "members": [
+                {
+                    "username": "Jere"
+                }
+            ]
         }
     ]
 }
