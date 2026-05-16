@@ -1477,6 +1477,23 @@
                     "username": "Tohru"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 578,
+                "name": "Production House",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Production House]",
+                "description": "",
+                "createdAt": "2026-05-13T23:39:32.000Z",
+                "updatedAt": "2026-05-13T23:39:32.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
+                }
+            ]
         }
     ]
 }
