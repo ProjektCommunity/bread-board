@@ -1528,6 +1528,23 @@
                     "username": "operator"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 540,
+                "name": "Haru and The Smets ft WraithBaby",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-04-17T20:03:32.000Z",
+                "updatedAt": "2026-04-17T20:03:32.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "x SmeTsQueen x"
+                }
+            ]
         }
     ]
 }
