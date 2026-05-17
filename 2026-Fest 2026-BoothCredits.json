@@ -1579,6 +1579,23 @@
                     "username": "AztecAngelo"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 565,
+                "name": "VRC Arknight Rhodes Resolve",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[VRC Arknight Rhodes Resolve]",
+                "description": "",
+                "createdAt": "2026-05-07T21:47:22.000Z",
+                "updatedAt": "2026-05-07T21:47:22.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "HelenaTheRenegade"
+                }
+            ]
         }
     ]
 }
