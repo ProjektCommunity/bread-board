@@ -1596,6 +1596,23 @@
                     "username": "HelenaTheRenegade"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 587,
+                "name": "Chaotic Rose",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Chaotic Rose]",
+                "description": "",
+                "createdAt": "2026-05-14T00:01:48.000Z",
+                "updatedAt": "2026-05-14T00:01:48.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "chaoticrosevr"
+                }
+            ]
         }
     ]
 }
