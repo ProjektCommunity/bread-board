@@ -1715,6 +1715,23 @@
                     "username": "Toast Hops"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 453,
+                "name": "Chocolat Club",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-03-19T19:36:37.000Z",
+                "updatedAt": "2026-03-19T19:36:37.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Chocolat Club"
+                }
+            ]
         }
     ]
 }
