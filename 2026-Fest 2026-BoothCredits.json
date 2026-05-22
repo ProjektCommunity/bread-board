@@ -1749,6 +1749,23 @@
                     "username": "spencerdude"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 548,
+                "name": "Miku Experience",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Miku Experience]",
+                "description": "",
+                "createdAt": "2026-04-30T05:53:32.000Z",
+                "updatedAt": "2026-04-30T05:53:32.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "JazzySenpai"
+                }
+            ]
         }
     ]
 }
