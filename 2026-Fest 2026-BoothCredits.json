@@ -1851,6 +1851,23 @@
                     "username": "SyrusGates"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 220,
+                "name": "Luxe Nova",
+                "group_id": "grp_ccab6917-9e39-4dcf-8625-acf271934107",
+                "description": "We strive to create immersive, creative and engaging experiences in the world of virtual reality. Our teams put on events consisting of theater performances, DJ events and hosting parties.",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T16:06:58.000Z",
+                "deletedAt": null,
+                "logo_id": 508
+            },
+            "members": [
+                {
+                    "username": "luxifinity"
+                }
+            ]
         }
     ]
 }
