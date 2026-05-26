@@ -1902,6 +1902,26 @@
                     "username": "Diven"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 306,
+                "name": "The Goblin Cave",
+                "group_id": "grp_0add63cb-780d-4c14-9383-cb2b7619512e",
+                "description": "The Goblin Cave is a welcoming 'café' community ran by me!! MadzLvsBblz. Overrun by the most vibrant of lofi based goblins that was nearly destroyed by a multi-verse attack, The Goblin Café welcomes all kinds of people as we serve chaos, goblin vibes and full on positivity.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-07T01:33:15.000Z",
+                "deletedAt": null,
+                "logo_id": 552
+            },
+            "members": [
+                {
+                    "username": "MadzLvsBblz"
+                },
+                {
+                    "username": "Diven"
+                }
+            ]
         }
     ]
 }
