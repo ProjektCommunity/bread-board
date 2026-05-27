@@ -1973,6 +1973,23 @@
                     "username": "Knight Ryder"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 532,
+                "name": "PiMax",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-04-17T20:03:27.000Z",
+                "updatedAt": "2026-04-17T20:03:27.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Pimax"
+                }
+            ]
         }
     ]
 }
