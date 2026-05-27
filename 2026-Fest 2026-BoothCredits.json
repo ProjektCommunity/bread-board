@@ -1956,6 +1956,23 @@
                     "username": "gopalmetro"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 575,
+                "name": "Improv Knight",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Improv Knight]",
+                "description": "",
+                "createdAt": "2026-05-13T23:39:28.000Z",
+                "updatedAt": "2026-05-13T23:39:28.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Knight Ryder"
+                }
+            ]
         }
     ]
 }
