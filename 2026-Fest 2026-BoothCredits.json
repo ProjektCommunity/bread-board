@@ -2010,6 +2010,23 @@
                     "username": "Spectoor-VO"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 281,
+                "name": "Galactic Clone Army Refuge",
+                "group_id": "grp_ac96ae8e-f802-414d-b93e-26918c527113",
+                "description": "Clone Wars Milsim done right․ A place to leave behind the drama‚ the baggage‚ and all the other issues we're all tired from․ Its time to set down all that weight‚ and find a home in the Refuge․ Rejoice and Fight on!",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:03:59.000Z",
+                "deletedAt": null,
+                "logo_id": 524
+            },
+            "members": [
+                {
+                    "username": "VisforVenus"
+                }
+            ]
         }
     ]
 }
