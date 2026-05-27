@@ -2112,6 +2112,26 @@
                     "username": "Aaliyah1023"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 275,
+                "name": "Waifuwehr",
+                "group_id": "grp_c5c71aa6-14a0-4289-b5f9-98e2620bd5e8",
+                "description": "We are the Waifuwehr! VRChat's oldest still surviving Military RP community founded back in 2017. The community aims to offer a realistic, dynamic, and educational military experience to those belonging to cultures worldwide, all connected under one organization, regardless of one’s personal background.",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T10:53:07.000Z",
+                "deletedAt": null,
+                "logo_id": 521
+            },
+            "members": [
+                {
+                    "username": "Anon27"
+                },
+                {
+                    "username": "Sitirion"
+                }
+            ]
         }
     ]
 }
