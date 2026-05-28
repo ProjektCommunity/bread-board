@@ -1068,10 +1068,10 @@
             "community": {
                 "id": 471,
                 "name": "MiketronArts",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_384512b9-4733-4fc9-981a-5a446333b839",
+                "description": "A welcoming community full of love, creativity and fun! ",
                 "createdAt": "2026-03-19T19:36:48.000Z",
-                "updatedAt": "2026-03-19T19:36:48.000Z",
+                "updatedAt": "2026-05-28T18:51:08.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
