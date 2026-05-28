@@ -2149,6 +2149,23 @@
                     "username": "BarricadeBandit"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 490,
+                "name": "Aichi_SendouVR",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-03-24T00:43:32.000Z",
+                "updatedAt": "2026-03-24T00:43:32.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Aichi_Sendou"
+                }
+            ]
         }
     ]
 }
