@@ -2132,6 +2132,23 @@
                     "username": "Sitirion"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 546,
+                "name": "HoppouAI",
+                "group_id": "grp_3d9b289d-303a-444e-8da9-c96eeb0fd813",
+                "description": "We are a Group that focuses on VRChat related AI Stuff, such as Conversational AI's (like our main one Gabriel) And other unique projects such as our OSC Controlled car which can be driven with FBT, The MIDI Bird band which (could) have up-to 12 accounts playing different instruments all in sync, and much more.",
+                "createdAt": "2026-04-30T05:51:40.000Z",
+                "updatedAt": "2026-04-30T05:51:40.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "BarricadeBandit"
+                }
+            ]
         }
     ]
 }
