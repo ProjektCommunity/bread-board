@@ -1601,10 +1601,10 @@
             "community": {
                 "id": 587,
                 "name": "Chaotic Rose",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Chaotic Rose]",
-                "description": "",
+                "group_id": "grp_d259f8b1-8d0f-459a-bab9-609f75db15ac",
+                "description": "Chaotic Rose is an inclusive‚ adult-only social community dedicated to cultivating meaningful connections‚ empowering creativity‚ and creating lasting memories․ We host virtual events designed to entertain‚ inspire‚ and enrich people during their free time․ Looking for friends? Look no furtherǃ",
                 "createdAt": "2026-05-14T00:01:48.000Z",
-                "updatedAt": "2026-05-28T19:13:40.000Z",
+                "updatedAt": "2026-05-28T19:13:52.000Z",
                 "deletedAt": null,
                 "logo_id": 1562
             },
