@@ -2217,6 +2217,23 @@
                     "username": "deadmuze"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 254,
+                "name": "Ezyne Planetarium",
+                "group_id": "grp_88c2375f-b06e-48f5-8234-1f8aafd062c9",
+                "description": "Welcome to the Ezyne Planetarium, the home of all things Ezyne and more! From Gaming to Music to General Small Talk, the Planetarium has a place for you. With the addition of Monthly Hosted Events which vary from Challenging Games, Fan Meetups or even simple Music Jamming Raves, there's sure to be something to your comfort. As a community founded upon a Jack-of-all-Trades Music Producer, Graphic Designer, Videographer, etc; we welcome your passions with open arms and invite you to share your dreams. So relax, make yourself at home, and welcome to the orbit~",
+                "createdAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2025-03-28T05:44:26.000Z",
+                "deletedAt": null,
+                "logo_id": 482
+            },
+            "members": [
+                {
+                    "username": "Ezyne"
+                }
+            ]
         }
     ]
 }
