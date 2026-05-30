@@ -2302,6 +2302,23 @@
                     "username": "KoreFuze"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 348,
+                "name": "Weaboo Weekend",
+                "group_id": "grp_09d563fd-8c09-4745-9c21-8a74880cace4",
+                "description": "Weaboo Weekend is a free-to-attend annual music festival celebrating the vibrant worlds of anime, comics, and video games. Our mission is to deliver an unforgettable, immersive experience for fans and enthusiasts alike. Our mission is to an experience that stands apart from anything else on the platform. At the same time, we are dedicated to raising funds for charity. Backed by a passionate and experienced team, along with the support of collaborating communities, we are committed to providing a high-quality event that both entertains and shines a light on charity.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:07:54.000Z",
+                "deletedAt": null,
+                "logo_id": 743
+            },
+            "members": [
+                {
+                    "username": "Weaboo Weekend"
+                }
+            ]
         }
     ]
 }
