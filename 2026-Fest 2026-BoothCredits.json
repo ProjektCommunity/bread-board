@@ -2421,6 +2421,23 @@
                     "username": "joseman"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 592,
+                "name": "Vtuber Research Club",
+                "group_id": "",
+                "description": "",
+                "createdAt": "2026-05-28T04:00:34.000Z",
+                "updatedAt": "2026-05-28T04:00:34.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Nekoyoru"
+                }
+            ]
         }
     ]
 }
