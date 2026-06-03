@@ -2665,6 +2665,23 @@
                     "username": "pesky12"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 567,
+                "name": "Foxo Fam",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Foxo Fam]",
+                "description": "",
+                "createdAt": "2026-05-07T21:47:25.000Z",
+                "updatedAt": "2026-05-07T21:47:25.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Ayayathefoxo"
+                }
+            ]
         }
     ]
 }
