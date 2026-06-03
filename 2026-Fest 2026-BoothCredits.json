@@ -2529,6 +2529,23 @@
                     "username": "Voxian"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 187,
+                "name": "The Strange Pear Gallery of Fine Arts",
+                "group_id": "grp_36750235-eb7f-418b-981a-643309a68bf7",
+                "description": "A VRChat-based community fine-art gallery that changes the art monthly!",
+                "createdAt": "2025-03-05T16:01:18.000Z",
+                "updatedAt": "2025-06-01T05:19:17.000Z",
+                "deletedAt": null,
+                "logo_id": 500
+            },
+            "members": [
+                {
+                    "username": "Pearsall"
+                }
+            ]
         }
     ]
 }
