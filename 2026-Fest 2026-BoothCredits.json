@@ -915,10 +915,10 @@
             "community": {
                 "id": 451,
                 "name": "BunkBox",
-                "group_id": null,
-                "description": null,
+                "group_id": "https://vrc.group/BUNKBX.3105",
+                "description": "BunkBox is a community made for creators, hobbyists, and anyone who wishes to be a part of the journey who truly value the definition of Community!! Join for our Bi-weekly hangout events, Take part in our limited timed events where you can express your talent or learn something new, and become a part of something that breaks the mold of reality and shows what it means to be a part of something!!\n[Sometimes Chill, Sometimes Chaos, Always Community.] - BunkBox",
                 "createdAt": "2026-03-19T19:36:36.000Z",
-                "updatedAt": "2026-06-04T21:50:07.000Z",
+                "updatedAt": "2026-06-04T21:50:13.000Z",
                 "deletedAt": null,
                 "logo_id": 1642
             },
@@ -1380,10 +1380,10 @@
             "community": {
                 "id": 449,
                 "name": "Tales of Exiles",
-                "group_id": null,
+                "group_id": "grp_adef99b4-494b-4f9c-9ab5-c39cf231077c",
                 "description": null,
                 "createdAt": "2026-03-19T19:36:35.000Z",
-                "updatedAt": "2026-06-04T21:49:55.000Z",
+                "updatedAt": "2026-06-04T21:50:14.000Z",
                 "deletedAt": null,
                 "logo_id": 1641
             },
