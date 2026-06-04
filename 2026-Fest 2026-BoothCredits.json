@@ -2066,10 +2066,10 @@
             "community": {
                 "id": 460,
                 "name": "Helping Hands",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_9dd68317-8f59-4a1b-a0fc-9329724045bf",
+                "description": "Helping Hands is a community that hosts sign language lessons and social events in VRChat.\n\nWe host several events weekly, with lessons available for a variety of worldwide sign languages. We also have a number of worlds to explore with interactive functionality that can help you do self-study for the sign language of your choice. You don't need an Index to sign with us! Our teachers show how to sign in VR with both Index and General VR controllers, and with our avatar assets you can extend your signing capability even further.\n\nWe sometimes host study clubs where you can sign on webcam with real Deaf people, but if you're shy, we also have Sign Zones and Game Nights where you can practice and get comfortable with your new signing buddies.\n\nYou can learn more about us and get access to our events through our Discord:\nhttps://discord.gg/helpinghands",
                 "createdAt": "2026-03-19T19:36:41.000Z",
-                "updatedAt": "2026-06-04T21:51:16.000Z",
+                "updatedAt": "2026-06-04T21:58:12.000Z",
                 "deletedAt": null,
                 "logo_id": 1643
             },
