@@ -123,10 +123,10 @@
             "community": {
                 "id": 448,
                 "name": "The Fallen and The Fabulous",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_3ab97fe2-e16b-4ed5-b95e-7e177c39fd94",
+                "description": "Welcome to The Fallen & The Fabulous, an 18+ community for people who follow the Forgotten Flame Dragon Goddess Vtuber on twitch.tv/Rolltide_813",
                 "createdAt": "2026-03-19T19:36:34.000Z",
-                "updatedAt": "2026-06-04T21:48:39.000Z",
+                "updatedAt": "2026-06-04T21:48:56.000Z",
                 "deletedAt": null,
                 "logo_id": 1640
             },
