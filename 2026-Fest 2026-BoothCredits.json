@@ -1034,10 +1034,10 @@
             "community": {
                 "id": 550,
                 "name": "Cubee Games",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Cubee Games]",
+                "group_id": "grp_a35db7eb-cc93-4bf2-9bea-1a36184649cb",
                 "description": "",
                 "createdAt": "2026-05-04T00:14:59.000Z",
-                "updatedAt": "2026-05-04T00:14:59.000Z",
+                "updatedAt": "2026-06-04T23:52:43.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
