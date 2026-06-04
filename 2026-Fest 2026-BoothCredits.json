@@ -1996,9 +1996,9 @@
                 "id": 489,
                 "name": "Virtual Oasis",
                 "group_id": "grp_0e886959-871b-4ce2-bc9f-d84987eba6fe",
-                "description": null,
+                "description": "18+ EU community with a mix of regular gaming and social events!\n",
                 "createdAt": "2026-03-24T00:43:31.000Z",
-                "updatedAt": "2026-06-04T22:21:12.000Z",
+                "updatedAt": "2026-06-04T22:25:21.000Z",
                 "deletedAt": null,
                 "logo_id": 1646
             },
@@ -2652,11 +2652,11 @@
         {
             "community": {
                 "id": 248,
-                "name": "VRYodellers",
+                "name": "Aviane Arts",
                 "group_id": "grp_e254d646-ef3a-4a3a-9f19-cd1ae533ef71",
                 "description": "A group for fans of VR Creations made by VRY!",
                 "createdAt": "2025-03-27T18:56:30.000Z",
-                "updatedAt": "2025-04-29T14:48:58.000Z",
+                "updatedAt": "2026-06-04T22:25:20.000Z",
                 "deletedAt": null,
                 "logo_id": 617
             },
