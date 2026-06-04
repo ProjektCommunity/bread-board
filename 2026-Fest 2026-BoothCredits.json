@@ -2804,6 +2804,23 @@
                     "username": "Wobblins"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 577,
+                "name": "Purplexia Host Club",
+                "group_id": "grp_a3240330-38d8-40df-8750-870574856bb4",
+                "description": "Purplexia Host Club is a 18+ roleplaying community located in VR Chat. Only rated 18+ for mature conversations that can take place. It is a social based roleplay that welcomes both new comers and veterans to roleplay. Our staff plays hosts, butlers and maids for the establishment. The hosts, butlers, and maids socialize with the guests, serve them drinks or whatever else they may ask for (varies depending on the map we are in), or entertain the guests. We have live performances by some of the hosts or even the guests if they feel comfortable/want to put on a performance for the other guests. We also encourage and help others build up and expand their characters as well as branch out to other roleplaying communities.",
+                "createdAt": "2026-05-13T23:39:30.000Z",
+                "updatedAt": "2026-06-04T23:40:37.000Z",
+                "deletedAt": null,
+                "logo_id": 1645
+            },
+            "members": [
+                {
+                    "username": "Kago"
+                }
+            ]
         }
     ]
 }
