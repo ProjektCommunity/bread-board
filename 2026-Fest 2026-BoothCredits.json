@@ -1961,10 +1961,10 @@
             "community": {
                 "id": 575,
                 "name": "Improv Knight",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Improv Knight]",
-                "description": "",
+                "group_id": "grp_d3f19380-bb18-4488-b1b8-872383453a61",
+                "description": "At Improv Knight‚ we aim to teach the techniques of improvisation to the beautiful people of VR Chat who are willing to learn‚ and improve․\n\nWe also host shows once a month and have weekly workshopsǃ\n\nWe embrace the awkward moments‚ and turn them into gems through trial and error․",
                 "createdAt": "2026-05-13T23:39:28.000Z",
-                "updatedAt": "2026-06-05T23:27:14.000Z",
+                "updatedAt": "2026-06-05T23:27:21.000Z",
                 "deletedAt": null,
                 "logo_id": 1670
             },
