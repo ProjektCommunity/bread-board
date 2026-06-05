@@ -1754,10 +1754,10 @@
             "community": {
                 "id": 548,
                 "name": "Miku Experience",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Miku Experience]",
-                "description": "",
+                "group_id": "grp_ef32a242-a81f-40cf-bed6-43cbd521d846",
+                "description": "We create professional-quality, fan-made Vocaloid concert experiences for VRChat, bringing virtual performances to life through carefully crafted animation, immersive worlds, and dynamic lighting. Inspired by the energy and atmosphere of live Vocaloid shows, each experience is built with care to feel exciting, polished, and memorable in its own right.",
                 "createdAt": "2026-04-30T05:53:32.000Z",
-                "updatedAt": "2026-06-05T20:49:52.000Z",
+                "updatedAt": "2026-06-05T20:53:01.000Z",
                 "deletedAt": null,
                 "logo_id": 1669
             },
