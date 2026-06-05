@@ -2860,10 +2860,10 @@
             "community": {
                 "id": 394,
                 "name": "Cult of Secrets",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_f236d828-148d-4df7-b025-323f197f9f58",
+                "description": "The Cult of Secrets is a group in the world of medieval fantasy role-playing. However, beyond that, it represents a safe haven for those seeking a warm and friendly environment. Here they can be their authentic selves without fear of judgment or criticism.\n\nOur goal is a community committed to the emotional well-being of its members, ready to offer support and solutions to everyday problems. But above all, the Cult of Secrets is a light in the darkness for those lost, offering them hope and a space for renewal.\n\nJoin this group and discover the true power of friendship, solidarity, and empathy in a world increasingly in need of these qualities.",
                 "createdAt": "2025-09-02T04:49:05.000Z",
-                "updatedAt": "2026-06-05T18:02:01.000Z",
+                "updatedAt": "2026-06-05T18:07:15.000Z",
                 "deletedAt": null,
                 "logo_id": 1668
             },
