@@ -228,10 +228,10 @@
             "community": {
                 "id": 446,
                 "name": "The Goats from the Twilight Garden",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_782fa866-dc03-456e-b6fe-a2ae0038bf1a",
+                "description": "",
                 "createdAt": "2026-03-19T19:36:33.000Z",
-                "updatedAt": "2026-06-05T03:01:13.000Z",
+                "updatedAt": "2026-06-05T03:33:58.000Z",
                 "deletedAt": null,
                 "logo_id": 1659
             },
