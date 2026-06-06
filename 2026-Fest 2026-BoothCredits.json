@@ -2892,6 +2892,23 @@
                     "username": "SciFai"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 81,
+                "name": "ARK Station VRChat Avatar PVP",
+                "group_id": "grp_4b0ef747-1022-4745-9925-e95704ac2f27",
+                "description": "ARK Station is a VRChat Community HUB Based on Creativity, Interaction, and Having Fun. We aim to create a server/environment for people to relax, enjoy, or just hang out after a long day of Work, School, or Life. While also focusing on being able to interact with your friends on a whole new level. Providing a place where you can download Prefabs based on this idea of interaction. Letting Players Create their Avatars or Worlds And using them in our Events. We aim to push the limits of what VRChat can be, not only the things we create but each other. We are a VRChat community HUB, and all communities are welcome.",
+                "createdAt": "2024-06-02T12:07:19.000Z",
+                "updatedAt": "2025-06-01T05:23:26.000Z",
+                "deletedAt": null,
+                "logo_id": 194
+            },
+            "members": [
+                {
+                    "username": "GoFluffYaself"
+                }
+            ]
         }
     ]
 }
