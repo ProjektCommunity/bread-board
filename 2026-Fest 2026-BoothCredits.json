@@ -2463,10 +2463,10 @@
             "community": {
                 "id": 465,
                 "name": "World Hopping",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_9c24da29-976b-4acd-8498-f8c9cb87aefe",
+                "description": "At World Hopping, shared experiences and mutual respect are at the heart of everything we do. Whether it's popular classics, hidden gems, or personal favorites, we explore a variety of worlds together, spend time with one another, and create memorable moments.\n\nWe visit different worlds, exchange ideas, and enjoy the diversity of our community. Building connections, having engaging conversations, and participating in shared activities are what make our community special.\n\nVisit our booth for more information and upcoming events.",
                 "createdAt": "2026-03-19T19:36:44.000Z",
-                "updatedAt": "2026-06-06T15:11:19.000Z",
+                "updatedAt": "2026-06-06T15:17:10.000Z",
                 "deletedAt": null,
                 "logo_id": 1677
             },
