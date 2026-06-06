@@ -2157,10 +2157,10 @@
             "community": {
                 "id": 490,
                 "name": "Aichi_SendouVR",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_b15e251e-597e-46f6-ac19-47155eca2018",
+                "description": "A group where you can join hangouts or games when I stream.",
                 "createdAt": "2026-03-24T00:43:32.000Z",
-                "updatedAt": "2026-06-06T23:25:24.000Z",
+                "updatedAt": "2026-06-06T23:25:34.000Z",
                 "deletedAt": null,
                 "logo_id": 1684
             },
