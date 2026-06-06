@@ -2875,6 +2875,23 @@
                     "username": "Haze214"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 176,
+                "name": "Sonic VRChat Roleplay",
+                "group_id": "grp_65042a73-0eb7-4114-97a7-449b2cfcb545",
+                "description": "We are a Sonic role-play group that focuses mainly on VRChat RPs‚ YouTube content and of course spending time with friendsǃ",
+                "createdAt": "2025-03-05T15:47:25.000Z",
+                "updatedAt": "2025-03-28T05:41:24.000Z",
+                "deletedAt": null,
+                "logo_id": 481
+            },
+            "members": [
+                {
+                    "username": "SciFai"
+                }
+            ]
         }
     ]
 }
