@@ -316,10 +316,10 @@
             "community": {
                 "id": 458,
                 "name": "Love Letters to Sci Fi",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_e29bdc70-7bd4-4e02-af38-becf6b2b8a7d",
+                "description": "Love letters to Sci Fi is a community that explores how sci-fi stories can turn into conversations around humanity, philosophy, and community․ We hold weekly discussion events on classic sci fi shows and also branch out into other topics that come up like wellness․ Events begin with structured presentation by a host and then we hold open discussion․ We pride ourselves as an inclusive moderated community where people bring their love for the topics along with community spirit and kindness for others. ",
                 "createdAt": "2026-03-19T19:36:40.000Z",
-                "updatedAt": "2026-06-06T02:27:48.000Z",
+                "updatedAt": "2026-06-06T02:35:42.000Z",
                 "deletedAt": null,
                 "logo_id": 1671
             },
