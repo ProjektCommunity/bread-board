@@ -384,10 +384,10 @@
             "community": {
                 "id": 444,
                 "name": "Prowler K Star",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_dac5430b-6eb7-4b13-9c90-d548c76a82e1",
+                "description": "Atmospheric Multimedia by Prowler ksz",
                 "createdAt": "2026-03-19T19:36:31.000Z",
-                "updatedAt": "2026-06-07T00:45:40.000Z",
+                "updatedAt": "2026-06-07T00:49:13.000Z",
                 "deletedAt": null,
                 "logo_id": 1700
             },
