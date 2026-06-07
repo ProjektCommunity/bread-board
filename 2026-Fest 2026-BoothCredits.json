@@ -438,10 +438,10 @@
             "community": {
                 "id": 492,
                 "name": "Gozar Productions",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_61d1c3b2-c8e8-492a-92ca-1a1411e741a5",
+                "description": "Gozar Productions is a small company engaging in projects ranging from short films and music videos to Discord bots and Obsidian plugins to live music performances in virtual reality. Birthed from a young girl's aspirations and pet projects, this small company endeavors to share our passions with the world for all to enjoy.\n\nIn our VRChat group, we post about my performances and updates on our creative projects, and we also host weekly hangouts, weekly karaoke nights, monthly movie nights, and semi-monthly audience anarchy game nights.",
                 "createdAt": "2026-03-24T00:43:33.000Z",
-                "updatedAt": "2026-06-07T00:32:41.000Z",
+                "updatedAt": "2026-06-07T00:33:29.000Z",
                 "deletedAt": null,
                 "logo_id": 1698
             },
