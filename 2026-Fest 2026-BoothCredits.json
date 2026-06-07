@@ -2429,10 +2429,10 @@
             "community": {
                 "id": 592,
                 "name": "Vtuber Research Club",
-                "group_id": "",
-                "description": "",
+                "group_id": "grp_2b38b8fd-46ff-4b10-a08e-262c75028e57",
+                "description": "Are you a VTuber agency?\nNo. We are a service for VTubers. You do not need to “join up” to make use of our services.\n\nWhat does the VTRC do?\nWe provide telepresence services, which allow VTubers to attend in-person events virtually with their avatar through the use of robots and other screens.\n\nWhat kind of events do you go to?\nWe mostly go to VTuber, anime, pop culture, and gaming conventions. We also go to smaller community and pop-up events in venues like boba shops, community centers, and breweries.\n\nHow do the robots work?\nThe Beam Pro robots we use are equipped with an LCD screen, a camera, and a microphone which allow for two-way communication between a VTuber and in-person attendees. The VTuber also has full control of the robot’s movement via an app on their PC using either the WASD keys, a mouse, or even a gamepad. The robot also has a downward-facing camera which assists in navigation and helps you prevent collisions and avoid obstacles.\n\nHow does the Backpack rig work?\nOur backpack rig is a large screen that one of our staff members will physically wear and carry around. A VTuber simply has to join a Discord voice channel in this server and use OBS Virtual Camera to display their avatar. While the backpack rig does not give you the freedom of remotely-controlled movement, it gives you an option in cases where the robots are not an ideal choice, e.g., the venue doesn’t allow wheeled devices, your PC setup is incompatible with the Beam software, or you have anxieties about driving the robot. \n",
                 "createdAt": "2026-05-28T04:00:34.000Z",
-                "updatedAt": "2026-06-07T01:57:36.000Z",
+                "updatedAt": "2026-06-07T01:58:31.000Z",
                 "deletedAt": null,
                 "logo_id": 1718
             },
