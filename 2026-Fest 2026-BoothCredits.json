@@ -799,10 +799,10 @@
             "community": {
                 "id": 257,
                 "name": "MekaMart",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_54772530-807c-44a2-af36-5c6501fdfb63",
+                "description": "We are a community of robot avatar creators and enthusiasts that enjoy creating fun immersive experiences in VRChat!",
                 "createdAt": "2025-03-27T18:56:30.000Z",
-                "updatedAt": "2026-06-07T00:23:30.000Z",
+                "updatedAt": "2026-06-07T00:23:38.000Z",
                 "deletedAt": null,
                 "logo_id": 1693
             },
