@@ -475,9 +475,9 @@
                 "group_id": null,
                 "description": null,
                 "createdAt": "2026-01-16T22:10:31.000Z",
-                "updatedAt": "2026-01-16T22:10:31.000Z",
+                "updatedAt": "2026-06-07T00:26:42.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1696
             },
             "members": [
                 {
@@ -1950,9 +1950,9 @@
                 "group_id": null,
                 "description": null,
                 "createdAt": "2025-09-02T04:49:03.000Z",
-                "updatedAt": "2025-09-02T04:49:03.000Z",
+                "updatedAt": "2026-06-07T00:26:36.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1695
             },
             "members": [
                 {
