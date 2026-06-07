@@ -1842,10 +1842,10 @@
             "community": {
                 "id": 526,
                 "name": "SyrusGates",
-                "group_id": null,
-                "description": null,
+                "group_id": "SYRUS.3974",
+                "description": "This Cyber-World Surfing Vtuber is always looking for his next big adventure! ",
                 "createdAt": "2026-03-30T23:28:13.000Z",
-                "updatedAt": "2026-06-07T07:32:04.000Z",
+                "updatedAt": "2026-06-07T07:38:01.000Z",
                 "deletedAt": null,
                 "logo_id": 1735
             },
