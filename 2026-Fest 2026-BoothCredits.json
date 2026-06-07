@@ -1400,12 +1400,12 @@
             "community": {
                 "id": 399,
                 "name": "Rafi77",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_25d2a6e0-e2c5-4aa9-a948-a503738579c6",
+                "description": "Just a small tigerbee that do textures!",
                 "createdAt": "2026-01-16T22:10:14.000Z",
-                "updatedAt": "2026-01-16T22:10:14.000Z",
+                "updatedAt": "2026-06-07T01:08:46.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1707
             },
             "members": [
                 {
