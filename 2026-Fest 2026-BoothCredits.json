@@ -1638,10 +1638,10 @@
             "community": {
                 "id": 450,
                 "name": "Specter Security Services",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_37509308-52b4-4941-a011-919ff49ca03d",
+                "description": "Specter Security Services (SSS) is a heavy-roleplay, narrative-driven group set in a gritty, high-stakes dystopian future (circa 2077). We blend cyberpunk corporate espionage, tactical military realism, and creeping anomalous/eldritch horror into a single, cohesive universe.\n\nIn this world, you are an operative working for SSS, the private military and intelligence arm of the monolithic mega-corporation known simply as Monolith. You aren't heroes saving the world; you are corporate assets doing the dirty, bloody, and often mind-bending work required to keep the company's bottom line secure and the unknown terrors of the world contained.\n\nIf you are looking for a roleplay environment that features intense character development, strict in-character consequences, moral ambiguity, and terrifying encounters with the unknown, SSS is the place for you.\n\nOur roleplay is strictly intended for mature writers who enjoy dark, complex storytelling. SSS operations take place across a fractured geopolitical landscape from guarding corporate assets to navigating the fragile alliances.\n\nBut bullets and politics are only half the threat.\n\nThe world of SSS is plagued by the anomalous. Our operatives regularly deploy into unmapped liminal spaces, face down flesh-warping eldritch entities, and battle deranged cults wielding thaumaturgical magic. Your character will face physical trauma, psychological horror, and the agonizing weight of impossible choices.\n\nPlayers in SSS can build their characters within distinct operational branches, each offering a vastly different roleplay experience.\n\nPlot armor does not exist in Specter Security Services. We pride ourselves on a living, breathing disciplinary and medical system where your character's choices matter.\n\nAre you ready to sign your contract?\nMonolith is always hiring. Just remember to read the fine print regarding clone rights, corporate debt, and anomalous exposure.",
                 "createdAt": "2026-03-19T19:36:35.000Z",
-                "updatedAt": "2026-06-07T01:23:43.000Z",
+                "updatedAt": "2026-06-07T05:22:00.000Z",
                 "deletedAt": null,
                 "logo_id": 1710
             },
