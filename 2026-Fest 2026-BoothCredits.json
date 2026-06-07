@@ -608,10 +608,10 @@
             "community": {
                 "id": 545,
                 "name": "UnholyHealer",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_c40ae434-ccc9-4c",
+                "description": "A New VTuber Is On The Rise! Or so they think so. Welcome to The Unholy Healer channel. This creature is livestreaming on Youtube and creating/editing videos! It reads all the Comments. Notices all the Likes. EVEN will communicate through discord and play games with you.",
                 "createdAt": "2026-04-17T20:03:35.000Z",
-                "updatedAt": "2026-06-07T01:40:41.000Z",
+                "updatedAt": "2026-06-07T01:46:01.000Z",
                 "deletedAt": null,
                 "logo_id": 1716
             },
