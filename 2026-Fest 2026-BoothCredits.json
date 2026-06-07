@@ -1706,12 +1706,12 @@
             "community": {
                 "id": 442,
                 "name": "Brand of Sacrifice",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_04a8508a-dd60-4739-a477-d85e59d5fa3b",
+                "description": "Join the Brand of Sacrifice of VRChat and enjoy some medieval dark fantasy RP!\n\nIn this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even in this world of the 1989 Berserk inspired roleplay community.\n\nIn this dark medieval world we take up the roles as mercenaries, knights and nobles struggling trough endless war that wages despite ones dream for it to end.\nFor our roleplay focuses on brutal realistic combat, characters that feel like real people, political debates, betrayal and choices that impact your character.",
                 "createdAt": "2026-03-19T19:36:30.000Z",
-                "updatedAt": "2026-03-19T19:36:30.000Z",
+                "updatedAt": "2026-06-07T11:43:14.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1737
             },
             "members": [
                 {
