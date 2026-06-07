@@ -1,3 +1,159 @@
 {
-    "events": []
+    "events": [
+        {
+            "id": 128,
+            "name": "Couture Catwalk - Street Graffiti",
+            "start_date": "2026-06-27T02:00:00.000Z",
+            "end_date": "2026-06-27T04:00:00.000Z",
+            "marketing": "Join the Runway once again this PJKT:Fest with Omega by AstrixZ & Show Off your 2026 PJKT Style & Drip! The theme this year is Street Graffiti! Let's show off our styles and colours!",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 86,
+                "name": "Omega",
+                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
+                "description": "Omega serves as both AstrixZ's Content Creation Community, whereby enjoyers of her content join to meet her, as well as a community dedicated to experiencing new things in VRC and keeping things fresh. Members are encouraged to meet new friends, join events & have fun, do something new and try new experiences. Omega is also a server for creators to showcase their craft, may it be Video/Audio Production, Avatar/World Creation, and many more!",
+                "logo_id": 199
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 129,
+            "name": "Lucid Multimedia Vtuber Meet and Greet",
+            "start_date": "2026-06-27T04:00:00.000Z",
+            "end_date": "2026-06-27T06:00:00.000Z",
+            "marketing": "This meet & greet features VTubers from the American VTuber agency lucid Multimedia! Come get to know Neiomi Cielo, the astral wolf of lucid Multimedia, and her fellow agency mates as they visit PJKT for the first time ever!!",
+            "stream_link": "",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 580,
+                "name": "Lucid",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Lucid]",
+                "description": "",
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 130,
+            "name": "Laserdome Tournament",
+            "start_date": "2026-06-27T19:00:00.000Z",
+            "end_date": "2026-06-27T21:00:00.000Z",
+            "marketing": "Charge your batteries and grab a zapper because its time to battle in the Laserdome!",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 100,
+                "name": "xCirrex Media",
+                "group_id": "grp_402966f5-cfb6-4e86-906c-474960e72b70",
+                "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
+                "logo_id": 131
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 131,
+            "name": "Games With Comrades And Ops.",
+            "start_date": "2026-06-27T23:00:00.000Z",
+            "end_date": "2026-06-28T01:00:00.000Z",
+            "marketing": "Time to rock and roll! Join Comrades And Ops for our signature gaming event! We invite you to play two hours of high-capacity Quest-compatible games with us and enjoy all the madness and craziness of some of the funnest games on VRChat!",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 178,
+                "name": "Comrades and Ops",
+                "group_id": "grp_31cb7da1-17be-4f84-97f0-182e5a0852c6",
+                "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming or social event. Time to rock and roll!",
+                "logo_id": 558
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 132,
+            "name": "The Basics of VR Filmmaking.",
+            "start_date": "2026-06-28T02:00:00.000Z",
+            "end_date": "2026-06-28T03:30:00.000Z",
+            "marketing": "A half informative, half demonstrative panel showing the how-to's and where to start to get into VR filmmaking.",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 432,
+                "name": "ReinaStorm",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 133,
+            "name": "In between with Roger and Spencer",
+            "start_date": "2026-06-28T03:30:00.000Z",
+            "end_date": "2026-06-28T05:00:00.000Z",
+            "marketing": "Come and join Spencer and Roger while they talk about the crazy, wacky virtual and real world we live in at the Spencer show!",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 443,
+                "name": "The Spencer Show",
+                "group_id": "grp_e4a0bed3-232d-469a-be98-137b49cfaed4",
+                "description": "The Spencer Show\nVRChats Wildest Variety Show!\n\nWelcome to The Spencer Showǃǃ a VRChat variety Performance and Talk Show where pretty much anything can happen! From chaotic skits and cool dances to live music and live talk shows‚ this is a space built for performers and dancers who actually enjoy putting on a show and having fun while doing it․ \nWhat started as just a simple project on VRChat has gotten way bigger than I anticipated. The Spencer Show originally started as just a fun little skit thing between friends, but now it has gotten quite bigger. I, Spencerdude, the owner of the Spencer Show, take pride in entertaining our audiences with our little shows we do, and I'm proud to be here at Projekt.",
+                "logo_id": 1715
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 134,
+            "name": "Bump n' Bash: Round 2 with the Lead Developer!",
+            "start_date": "2026-06-28T18:00:00.000Z",
+            "end_date": "2026-06-28T20:00:00.000Z",
+            "marketing": "Play with the developer of Bump n' Bash as you send your foes flying across soaring skies‚ erupting volcanoes‚ and even deep space with a well-timed punch in a platform fighter meets party gameǃ The more damage you take‚ the higher you're launchedǃ\r\n",
+            "stream_link": "",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        }
+    ]
 }
