@@ -1485,10 +1485,10 @@
             "community": {
                 "id": 578,
                 "name": "Production House",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Production House]",
-                "description": "",
+                "group_id": "grp_9df80c11-efd1-4369-8708-3646c8d3b785",
+                "description": "Production House is a public facing... Production House. With a very literal name and purpose. That strives to bring ideas into virtual reality through collaboration, community, and connection. With the goal of becoming the premium spot for all Creatives and Talent looking to find help for their projects or to get involved with others and their projects. Especially those interested in the Video Arts.\n\nProduction House is fully public. Meaning anyone is allowed to join. Anyone can create a Production House work. Anyone can influence the Identity of Production House. Anyone of any skill can find a place here. Even if you simply want help but don't want to make your project into a Production House work that is fully acceptable!\n\n- Production House strives to host events, have the leadership involved in projects, and usher in a golden age for the VRChat Video Arts Scene.\n- Production House is a No Obligations group. We make no demands of you. Partake at your own pace. You will still be welcome.\n- Production House is a place built out of necessity and passion. We have felt the difficulties in finding help, the lack of willingness to collaborate, and have seen the untapped artistic potential within VRChat. We understand the lonely struggle it can sometimes, we aim to change that.\n- A serious aspect of Production House is the involvement of the average person. From helping teach those who want to learn, to helping those who have yet to make a name for themselves. We do not do this only for ourselves. We truly wish to make a place for everyone who shares our struggles and passion. We wish to change the VRChat Video Arts scene into something everyone can do and wants to see.",
                 "createdAt": "2026-05-13T23:39:32.000Z",
-                "updatedAt": "2026-06-07T08:00:07.000Z",
+                "updatedAt": "2026-06-07T08:01:23.000Z",
                 "deletedAt": null,
                 "logo_id": 1736
             },
