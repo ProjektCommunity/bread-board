@@ -55,10 +55,10 @@
             "community": {
                 "id": 454,
                 "name": "Phoenix Verse",
-                "group_id": null,
+                "group_id": "grp_c4721362-e4a7-470c-ac6f-e163017d0166",
                 "description": null,
                 "createdAt": "2026-03-19T19:36:38.000Z",
-                "updatedAt": "2026-06-07T00:46:05.000Z",
+                "updatedAt": "2026-06-07T00:50:59.000Z",
                 "deletedAt": null,
                 "logo_id": 1701
             },
