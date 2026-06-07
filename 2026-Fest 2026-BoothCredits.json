@@ -2727,10 +2727,10 @@
             "community": {
                 "id": 461,
                 "name": "Cookie Squad",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_bd104ad1-eb1d-49ae-9ac1-6e8cf1afd40b",
+                "description": "Cookie Squad is a Streamer group turned VR Rave Group who host Monthly Hardcore/Dubstep/Variety Raves for patrons of all shapes and sizes -- Run equally by Akari, Cyclone, and Kitten; with most events hosted by Phlegethon; We stream our raves on Twitch for those who can't attend in person and carrying a host of DJs of all sorts from around VRChat, We aim to give you the best, most unforgettable music experience at each event~ ",
                 "createdAt": "2026-03-19T19:36:42.000Z",
-                "updatedAt": "2026-06-07T00:06:34.000Z",
+                "updatedAt": "2026-06-07T02:55:09.000Z",
                 "deletedAt": null,
                 "logo_id": 1687
             },
