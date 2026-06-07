@@ -2554,10 +2554,10 @@
             "community": {
                 "id": 383,
                 "name": "The Rocky Horror Picture Show",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_a76600a9-485c-4a95-9e61-6ae249ac9fde",
+                "description": "Greeting Creature of the night,\n    Here we provide the same experience just like the Midnight showing of RHPS IRL with a VR twist. We do a Shadow cast show with the movie with callouts and emoji throwing just like IRL. We invite the newbies to join are world and welcome back the love ones we haven't seen in a long time. If you never seen the movie, unable to get to a live stage show, or just want to fell the love again with the family, then come join us and let's Do The Time Wrap Again!\n\nP.S., we live by a simple motto: Don't dream it, Be it.",
                 "createdAt": "2025-09-02T04:49:00.000Z",
-                "updatedAt": "2026-06-07T02:46:57.000Z",
+                "updatedAt": "2026-06-07T02:55:32.000Z",
                 "deletedAt": null,
                 "logo_id": 1724
             },
