@@ -2744,10 +2744,10 @@
             "community": {
                 "id": 393,
                 "name": "EksCelle",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_d0e10176-6cca-4526-a97a-89a0aaf02c1d",
+                "description": "I am a world creator known for making dark and gothic worlds. I mostly make worlds for DJ events. I have many upcoming projects in the pipeline. Thank you for taking the time to check out my work.",
                 "createdAt": "2025-09-02T04:49:04.000Z",
-                "updatedAt": "2026-06-07T03:36:06.000Z",
+                "updatedAt": "2026-06-07T03:44:33.000Z",
                 "deletedAt": null,
                 "logo_id": 1728
             },
