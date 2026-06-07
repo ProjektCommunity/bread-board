@@ -381,10 +381,10 @@
             "community": {
                 "id": 381,
                 "name": "The Cathedral",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_381b91f4-9ab3-47",
+                "description": "We are a Goth ＆ Industrial Club who strive for interpersonal connection‚ a unified love of Goth music and culture‚ provide a welcoming space for those who find beauty in the darkness‚ and encourage fellowship in our community․ We have main events every other Sunday, with secondary events that vary.",
                 "createdAt": "2025-09-02T04:48:59.000Z",
-                "updatedAt": "2026-06-07T02:00:43.000Z",
+                "updatedAt": "2026-06-07T02:01:36.000Z",
                 "deletedAt": null,
                 "logo_id": 1719
             },
