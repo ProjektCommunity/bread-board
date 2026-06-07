@@ -282,12 +282,12 @@
             "community": {
                 "id": 412,
                 "name": "floofballvr",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_58d52a8e-5d22-438b-88c7-bf5782c80ac8",
+                "description": "Floofy Gaming and Chill is inclusive 18+ social community! We play games and chill here! Also we are dedicated to make meaningful connections, empower creativity and create memories together! Our goal is provide engaging, welcoming experience for both new and experienced members in the community! This community is a safe space for adults! Our staff welcome our newcomers, make introductions, help people connect, and we make sure nobody feels left out or feel lost! You're seen and definitely included from day one! \n",
                 "createdAt": "2026-01-16T22:10:22.000Z",
-                "updatedAt": "2026-01-16T22:10:22.000Z",
+                "updatedAt": "2026-06-07T00:11:50.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1688
             },
             "members": [
                 {
