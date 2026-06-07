@@ -3048,6 +3048,23 @@
                     "username": "RedEternal"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 276,
+                "name": "Fort Victoria Recruitment Base",
+                "group_id": "grp_6b26600c-18e2-436b-ba13-a65a97398ae5",
+                "description": "Fort Victoria offers a military base for groups seeking to recruit and hold military events․ This map was built specifically for VRChat Mil-Sim communities and the general public‚ likewise․",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:01:17.000Z",
+                "deletedAt": null,
+                "logo_id": 523
+            },
+            "members": [
+                {
+                    "username": "Jay3112"
+                }
+            ]
         }
     ]
 }
