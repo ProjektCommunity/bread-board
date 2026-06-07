@@ -234,10 +234,10 @@
             "community": {
                 "id": 427,
                 "name": "Pawlygon",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_3970e2d0-8acf-40e6-9ccc-0ea0603b8a20",
+                "description": "Pawlygon Studio creates premium face tracking addons, clothing assets, textures, VRChat accessories, and creator tools for the VR and furry communities.\n\nOur goal is to help avatars feel more expressive, polished, and fun to use in VRChat. We create face tracking setups for popular avatars, clothing and texture assets, along with Unity and Blender tools designed to make avatar setup easier for both users and creators.\n\nAt our booth, you can:\n • Explore our latest face tracking addons\n • Check out clothing assets, textures, and VRChat accessories\n • Join our community and follow future releases\n\nLinks:\n • Booth.pm (https://pawlygon.booth.pm/)\n • Gumroad (https://pawlygon.gumroad.com/)\n • Jinxxy (https://jinxxy.com/Pawlygon)",
                 "createdAt": "2026-01-16T22:10:31.000Z",
-                "updatedAt": "2026-06-07T00:26:42.000Z",
+                "updatedAt": "2026-06-07T00:37:36.000Z",
                 "deletedAt": null,
                 "logo_id": 1696
             },
