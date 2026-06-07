@@ -2361,10 +2361,10 @@
             "community": {
                 "id": 445,
                 "name": "The Chop Shop",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_7ea958da-acd5-4080-88c0-03c49d2f2086",
+                "description": "Good now and welcome to the Chop Shop!\n\nA chill community with monthly rave events showcasing DJs and clubs from all over the platform, this is where you come to give your mixes a tune-up!\n\nChop Shop is also the home of Mister Chop's DJ mixes, and a place where you can be notified any time he goes live!\n\nWhether you want to spin with us or just hang out and listen to music, all are welcome!",
                 "createdAt": "2026-03-19T19:36:32.000Z",
-                "updatedAt": "2026-06-07T01:28:21.000Z",
+                "updatedAt": "2026-06-07T05:25:35.000Z",
                 "deletedAt": null,
                 "logo_id": 1714
             },
