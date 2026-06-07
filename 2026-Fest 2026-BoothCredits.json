@@ -106,10 +106,10 @@
             "community": {
                 "id": 459,
                 "name": "Riders of Remnant",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_392c99f0-4140-40d3-9891-845af1c49c98",
+                "description": "Riders of Remnant is crossover community between Kamen Rider and RWBY. We Chill, Hangout, Play Game, Roleplay, and share our love between these two franchises",
                 "createdAt": "2026-03-19T19:36:41.000Z",
-                "updatedAt": "2026-06-07T00:48:12.000Z",
+                "updatedAt": "2026-06-07T00:51:39.000Z",
                 "deletedAt": null,
                 "logo_id": 1702
             },
