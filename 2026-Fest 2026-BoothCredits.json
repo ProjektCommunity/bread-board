@@ -1689,10 +1689,10 @@
             "community": {
                 "id": 544,
                 "name": "skerek",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_4d12cbdf-6591-43ca-b129-07949093685e",
+                "description": "A Community centered around stuff the bird makes! Mostly 3D models and video content! :>",
                 "createdAt": "2026-04-17T20:03:34.000Z",
-                "updatedAt": "2026-06-07T04:20:25.000Z",
+                "updatedAt": "2026-06-07T04:20:37.000Z",
                 "deletedAt": null,
                 "logo_id": 1729
             },
