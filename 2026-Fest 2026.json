@@ -1318,6 +1318,30 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 189,
+            "name": "Trifecta",
+            "start_date": "2026-07-01T20:00:00.000Z",
+            "end_date": "2026-07-01T21:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
