@@ -702,10 +702,10 @@
             "community": {
                 "id": 538,
                 "name": "Merwood",
-                "group_id": null,
-                "description": null,
+                "group_id": "https://vrc.group/MERRP.0935",
+                "description": "Welcome to Merwood‚ a fantastical kingdom set in the medieval ages and full to the brim with magic‚ adventure and fantastical creaturesǃ Come with us as we explore areas never seen before, solve mysteries as a party and learn about the rich history behind Merwood and other surrounding kingdoms!\n\nThis group is a medieval fantasy roleplay group that is fair, welcoming, friendly and above all, fun! We calculate in-character actions by a D20 (20 sided dice) roll, 1 being the worst outcome and 20 being the best outcome! \n\nWe cannot wait to welcome you, so come on by and say hi!",
                 "createdAt": "2026-04-17T20:03:31.000Z",
-                "updatedAt": "2026-06-08T12:04:31.000Z",
+                "updatedAt": "2026-06-08T12:04:52.000Z",
                 "deletedAt": null,
                 "logo_id": 1762
             },
