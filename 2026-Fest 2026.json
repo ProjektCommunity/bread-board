@@ -1006,6 +1006,150 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 176,
+            "name": "Waranto",
+            "start_date": "2026-06-29T22:00:00.000Z",
+            "end_date": "2026-06-29T23:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 177,
+            "name": "Sayuri Pastel",
+            "start_date": "2026-06-29T23:00:00.000Z",
+            "end_date": "2026-06-30T00:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 178,
+            "name": "Fluffy",
+            "start_date": "2026-06-30T00:00:00.000Z",
+            "end_date": "2026-06-30T01:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 179,
+            "name": "Mono Monet",
+            "start_date": "2026-06-30T01:00:00.000Z",
+            "end_date": "2026-06-30T02:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 180,
+            "name": "Neiomi",
+            "start_date": "2026-06-30T02:00:00.000Z",
+            "end_date": "2026-06-30T03:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
+        },
+        {
+            "id": 181,
+            "name": "AppleFell",
+            "start_date": "2026-06-30T03:00:00.000Z",
+            "end_date": "2026-06-30T04:00:00.000Z",
+            "marketing": "",
+            "stream_link": "",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
