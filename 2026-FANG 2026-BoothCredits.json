@@ -322,10 +322,10 @@
             "community": {
                 "id": 423,
                 "name": "Meia",
-                "group_id": null,
-                "description": null,
+                "group_id": "https://vrc.group/MEIA.7901",
+                "description": "Group for Meia's avatar edits and creationsǃ",
                 "createdAt": "2026-01-16T22:10:28.000Z",
-                "updatedAt": "2026-06-08T17:09:21.000Z",
+                "updatedAt": "2026-06-08T17:10:11.000Z",
                 "deletedAt": null,
                 "logo_id": 1767
             },
