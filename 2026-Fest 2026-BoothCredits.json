@@ -3281,6 +3281,23 @@
                     "username": "Euky"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 588,
+                "name": "Trans Academy",
+                "group_id": "grp_b33be984-4b29-46f2-a19b-3acfff8aac00",
+                "description": "The VRChat Trans Academy is a social space and peer resource center for trans people․ Join us on Sundays at 12˸30pm PST for Comfy Coffee Hourǃ We have flying sharks and fireworksǃ For our events calendar and class schedule please join us on Discord at˸ discord․gg⁄transacademy",
+                "createdAt": "2026-05-16T02:23:44.000Z",
+                "updatedAt": "2026-05-16T02:23:44.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Vendavel"
+                }
+            ]
         }
     ]
 }
