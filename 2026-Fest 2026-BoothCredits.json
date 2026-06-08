@@ -3161,10 +3161,10 @@
             "community": {
                 "id": 474,
                 "name": "Clyde Machine",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_f7017ff4-b406-4089-8512-895dfe82f153",
+                "description": "Keep up with Clyde's live performances!",
                 "createdAt": "2026-03-19T19:36:49.000Z",
-                "updatedAt": "2026-06-08T18:31:21.000Z",
+                "updatedAt": "2026-06-08T18:31:47.000Z",
                 "deletedAt": null,
                 "logo_id": 1774
             },
