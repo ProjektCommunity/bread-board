@@ -2327,10 +2327,10 @@
             "community": {
                 "id": 552,
                 "name": "Vomori Hiko",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Vomori Hiko]",
-                "description": "",
+                "group_id": "Vomori",
+                "description": "This community is made up of the Bromoris: bats addicted to Monster Energy and mischief. But they all share a beautiful common goal: to travel to Houston!",
                 "createdAt": "2026-05-04T00:15:02.000Z",
-                "updatedAt": "2026-06-08T01:35:46.000Z",
+                "updatedAt": "2026-06-08T01:46:43.000Z",
                 "deletedAt": null,
                 "logo_id": 1752
             },
