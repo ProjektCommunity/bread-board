@@ -21,7 +21,14 @@
             },
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 3,
+                "name": "Pool Parlor",
+                "url": "https://vrchat.com/home/world/wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
+                "world_id": "wrld_99bdc4c6-b80c-49f3-aae0-5d67017d8340",
+                "orgOwned": false,
+                "community_id": null
+            }
         },
         {
             "id": 129,
