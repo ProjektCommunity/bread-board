@@ -798,7 +798,7 @@
             "end_date": "2026-06-28T06:00:00.000Z",
             "marketing": "",
             "stream_link": "",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
