@@ -2191,10 +2191,10 @@
             "community": {
                 "id": 539,
                 "name": "Neon Drift",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_f9bf0618-bbd7-4119-885f-090c638bb113",
+                "description": "Neon Drift started as a small group of friends that met up at the midnight bar. Neon Drift has slowly evolved into a thriving VRChat community focusing on peace, love, unity, and respect. \n\nNeon Drift hosts weekly rave events with a welcoming staff and community. \nThe music events focus on allowing DJ's to be creative. Leaning towards a more open genre approach while occasionally having genre specific nights.\nNeon Drift welcomes new DJs. Taking priority in giving growing DJs an opportunity to perform. \nOther than DJ events, Neon Drift has Bi-weekly hangout event. Giving the community an opportunity to learn more about each other.",
                 "createdAt": "2026-04-17T20:03:31.000Z",
-                "updatedAt": "2026-06-09T01:01:55.000Z",
+                "updatedAt": "2026-06-09T01:08:55.000Z",
                 "deletedAt": null,
                 "logo_id": 1784
             },
