@@ -1196,10 +1196,10 @@
             "community": {
                 "id": 521,
                 "name": "SlimeVR",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_091d568c-bad2-4d16-b694-c7782957bf06",
+                "description": "SlimeVR is a set of open hardware sensors and open source software that facilitates full-body tracking (FBT) in virtual reality. With no base station required, SlimeVR makes wireless VR FBT affordable and comfortable.\nYou can learn more over at: https://slimevr.dev\n\nAfter the immense success of our first hardware release we are now releasing: Butterfly Trackers!\nLike the original version, these new SlimeVR Butterfly Trackers are open hardware sensors with open-source software that track the movement of your body. They do not require base stations, can’t be occluded, are completely wireless, and last for days on a single charge. Now, with the brand-new, unique, ultra-light split design inspired by butterflies, they are less than 7 mm thick and weigh less than 10 grams, making them the most comfortable solution for full-body tracking on the market today!\n\nAside from the trackers themselves we also host a very active community across both VRChat and Discord!\nYou can find us hosting multiple events each week, ranging from our fixed events such as: Calibrate + Chat and  Tech Support + Chat where you can get help with your trackers!\nTo events such as: Yoga, Chill and chat, Graffiti, dance, games and more!\n\nYou can also find us over on Discord filled with various channels aimed at support, media sharing, hobbies and more!\nJoin us and over 77.000 other members over at: https://slimevr.dev/discord \n\nOther socials you can find us at:\nhttps://bsky.app/profile/slimevr.dev\nhttps://mastodon.social/@SlimeVR\nhttps://www.youtube.com/@SlimeVR\nhttps://www.tiktok.com/@officialslimevr\nhttps://www.reddit.com/r/SlimeVR/\n",
                 "createdAt": "2026-03-30T23:28:10.000Z",
-                "updatedAt": "2026-06-09T11:51:40.000Z",
+                "updatedAt": "2026-06-09T12:11:49.000Z",
                 "deletedAt": null,
                 "logo_id": 1805
             },
