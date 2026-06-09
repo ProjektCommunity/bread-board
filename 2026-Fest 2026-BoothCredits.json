@@ -3400,6 +3400,26 @@
                     "username": "Scoron"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 368,
+                "name": "Hanami Enjoyers",
+                "group_id": "grp_d7c5e6df-593a-41d3-b20c-c5da0b47b8f0",
+                "description": "A community centered around the worlds and creations of Reth Sogen.",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2025-05-24T01:00:25.000Z",
+                "deletedAt": null,
+                "logo_id": 739
+            },
+            "members": [
+                {
+                    "username": "Reth Sogen"
+                },
+                {
+                    "username": "NovedPlayer"
+                }
+            ]
         }
     ]
 }
