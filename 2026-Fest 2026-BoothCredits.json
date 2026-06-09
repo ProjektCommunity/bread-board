@@ -2571,10 +2571,10 @@
             "community": {
                 "id": 405,
                 "name": "Waranto",
-                "group_id": null,
-                "description": null,
+                "group_id": "https://vrc.group/SHIMP.9293",
+                "description": "This Group is For Meetups for Events! It is still in a early Stage :3\n\nMeetups are mostly just Vibe and Yip Yaps! Else we go into a Club and have a good Time there!",
                 "createdAt": "2026-01-16T22:10:18.000Z",
-                "updatedAt": "2026-06-09T15:43:20.000Z",
+                "updatedAt": "2026-06-09T15:45:06.000Z",
                 "deletedAt": null,
                 "logo_id": 1806
             },
