@@ -1934,7 +1934,14 @@
             "Community": null,
             "Poster": null,
             "EventType": null,
-            "Venue": null
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
         },
         {
             "id": 213,
