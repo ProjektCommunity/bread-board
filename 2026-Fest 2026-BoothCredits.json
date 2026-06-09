@@ -1105,10 +1105,10 @@
             "community": {
                 "id": 403,
                 "name": "Bucker Fuskyote",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_d096530b-cab9-4150-86a9-0c9dac6cf36b",
+                "description": "Find out more about Bucker Fuskyote's music‚ from new releases to upcoming performancesǃ",
                 "createdAt": "2026-01-16T22:10:16.000Z",
-                "updatedAt": "2026-06-09T23:00:45.000Z",
+                "updatedAt": "2026-06-09T23:01:27.000Z",
                 "deletedAt": null,
                 "logo_id": 1817
             },
