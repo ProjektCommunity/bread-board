@@ -3070,12 +3070,12 @@
             "community": {
                 "id": 476,
                 "name": "HyeonHyunHyoon (Graymore+)",
-                "group_id": null,
-                "description": null,
+                "group_id": "https://vrchat.com/home/group/grp_07657080-8a5e-48",
+                "description": "Official community for GRAYMORE+ products and events.",
                 "createdAt": "2026-03-19T19:36:51.000Z",
-                "updatedAt": "2026-03-19T19:36:51.000Z",
+                "updatedAt": "2026-06-10T04:26:20.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1829
             },
             "members": [
                 {
