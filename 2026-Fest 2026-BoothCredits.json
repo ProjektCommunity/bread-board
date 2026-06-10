@@ -3670,6 +3670,23 @@
                     "username": "ayame_vamileon_"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 482,
+                "name": "Colorful Nuku",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-03-24T00:43:27.000Z",
+                "updatedAt": "2026-03-24T00:43:27.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "uzugu"
+                }
+            ]
         }
     ]
 }
