@@ -3602,6 +3602,23 @@
                     "username": "Kudalyn"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 583,
+                "name": "Atlantis Cafe",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Atlantis Cafe]",
+                "description": "",
+                "createdAt": "2026-05-13T23:39:39.000Z",
+                "updatedAt": "2026-05-13T23:39:39.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "XMascaritaX"
+                }
+            ]
         }
     ]
 }
