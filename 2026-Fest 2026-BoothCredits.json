@@ -3678,12 +3678,12 @@
             "community": {
                 "id": 482,
                 "name": "Colorful Nuku",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_b753157e-fef2-47fc-86bf-7ad26a2b6e1b",
+                "description": "We are Colorful Nukuǃ A group for fans of Isanai Nuku‚ the Mamefriends avatar designed by Afro-Da-Afro‚ from around the worldǃ\n\nOur goal is to share‚ create and have fun with experiences closer to how Japanese group events are handled․",
                 "createdAt": "2026-03-24T00:43:27.000Z",
-                "updatedAt": "2026-03-24T00:43:27.000Z",
+                "updatedAt": "2026-06-10T22:41:00.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1847
             },
             "members": [
                 {
