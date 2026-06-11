@@ -3954,6 +3954,26 @@
                     "username": "TheSteve"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 572,
+                "name": "Echo's Nanachi Avatars",
+                "group_id": "grp_922db867-aa5f-4fb0-a3c8-255e1e5250fc",
+                "description": "This community is built around my avatars/avatar related projects, short films and the Avatar Jam events that I run once every 2 months! You'll find extremely welcoming and friendly people in this community, along with dedicated avatar creators always willing to help out or learn a new thing or two. This year, we plan to include a newly formed group into our meetups and activities, the Alien Invasion group!\n\nAvatar Jams are events that welcome all creators of every skill level to try out their hand at making an avatar based on a selected theme over the course of 3 and a half days. A wide variety of avatar creators participate each jam, ranging from people who just picked up unity to veterans that have been in the scene for years! People love seeing what you come up with no matter how strong your avatar creation skills are!\n\nAfter the 3.5 days are up, a public showcase is held where participants get to show off their hard work to an audience, or afterwards during the hangout when the public showcase is done!",
+                "createdAt": "2026-05-13T23:39:23.000Z",
+                "updatedAt": "2026-06-09T09:00:28.000Z",
+                "deletedAt": null,
+                "logo_id": 1802
+            },
+            "members": [
+                {
+                    "username": "EchoNine"
+                },
+                {
+                    "username": "Karet"
+                }
+            ]
         }
     ]
 }
