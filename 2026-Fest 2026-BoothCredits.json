@@ -1937,9 +1937,9 @@
                 "id": 581,
                 "name": "Vshow",
                 "group_id": "PLACEHOLDERuntilAPIisFixed[Vshow]",
-                "description": "",
+                "description": "VSHOW Production is a company specialized in the production of virtual events for VTubers and digital content creators. We develop interactive 3D experiences, including concerts, live shows, competitions, and special events, combining technology, creativity, and audiovisual production to connect audiences worldwide.",
                 "createdAt": "2026-05-13T23:39:36.000Z",
-                "updatedAt": "2026-06-11T22:11:51.000Z",
+                "updatedAt": "2026-06-11T22:13:08.000Z",
                 "deletedAt": null,
                 "logo_id": 1888
             },
