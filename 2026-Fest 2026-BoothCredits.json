@@ -4096,6 +4096,26 @@
                     "username": "Philosophy101"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 277,
+                "name": "Skyline Festival",
+                "group_id": "grp_e04ee4a5-321b-4dd5-bb6c-60de0af603b5",
+                "description": "We are a music festival group that provides live music and DJ's",
+                "createdAt": "2025-04-06T01:54:18.000Z",
+                "updatedAt": "2025-04-06T11:11:32.000Z",
+                "deletedAt": null,
+                "logo_id": 527
+            },
+            "members": [
+                {
+                    "username": "Bio_HuskyPuppy"
+                },
+                {
+                    "username": "AlphaWolf42"
+                }
+            ]
         }
     ]
 }
