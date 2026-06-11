@@ -2014,6 +2014,29 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 216,
+            "name": "SpokenHeart",
+            "start_date": "2026-07-04T23:00:00.000Z",
+            "end_date": "2026-07-05T00:00:00.000Z",
+            "marketing": "Poetry and Short Story Event - Respectful Open Mic event to spread poetry and stories of your own as well as of other artists (with quoting their name) in a relaxed and save atmosphere.",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 201,
+                "name": "Spoken Heart",
+                "group_id": null,
+                "description": null,
+                "logo_id": null
+            },
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
