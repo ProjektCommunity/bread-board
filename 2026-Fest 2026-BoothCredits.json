@@ -1838,6 +1838,9 @@
             "members": [
                 {
                     "username": "Compared"
+                },
+                {
+                    "username": "NovedPlayer"
                 }
             ]
         },
