@@ -3869,6 +3869,23 @@
                     "username": "FFCR"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 310,
+                "name": "Osiris Division",
+                "group_id": "grp_3d07743c-7655-402b-9b67-a06e2837c96e",
+                "description": "A group of Titanfall fans recreating the iconic franchise in VR through large scale events, Roleplay, and content creation.",
+                "createdAt": "2025-04-24T00:01:11.000Z",
+                "updatedAt": "2025-04-24T13:14:40.000Z",
+                "deletedAt": null,
+                "logo_id": 593
+            },
+            "members": [
+                {
+                    "username": "TheFriday"
+                }
+            ]
         }
     ]
 }
