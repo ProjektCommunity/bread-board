@@ -2784,12 +2784,12 @@
             "community": {
                 "id": 579,
                 "name": "The Meat Rack",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[The Meat Rack]",
-                "description": "",
+                "group_id": "grp_179a7a92-3654-40ae-9f0f-78a6e4d79724",
+                "description": "Meat Rack is a futuristic cyberpunk roleplay set in the multi-RP shared setting of Zaphira City. Located in the Waterfront District, Meat Rack allows roleplayers of any experience level to join and participate in street-level experiences.\n\nOffering a variety of services for residents of Zaphira and travelers from any realm, Meat Rack is a fully open RP. No character sheets or character approval is needed to join.\n\nWe host weekly sessions, with Saturday sessions scheduled for our European attendees at 18:00 UTC and Sunday sessions for US attendees at 1:00PM PST/4:00PM EST. Please check out our discord at https://discord.gg/dqaVY9jySF if you are interested in joining!",
                 "createdAt": "2026-05-13T23:39:33.000Z",
-                "updatedAt": "2026-05-13T23:39:33.000Z",
+                "updatedAt": "2026-06-12T02:48:46.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1897
             },
             "members": [
                 {
