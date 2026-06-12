@@ -2013,6 +2013,30 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 217,
+            "name": "CookieSquad Collaborative",
+            "start_date": "2026-06-28T01:00:00.000Z",
+            "end_date": "2026-06-28T06:00:00.000Z",
+            "marketing": "Colaborative of 5 DJs over 5 Hours.",
+            "stream_link": "",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": {
+                "id": 8,
+                "name": "Main Stage Music",
+                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
+                "orgOwned": true,
+                "community_id": null
+            }
         }
     ]
 }
