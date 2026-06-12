@@ -3377,10 +3377,10 @@
             "community": {
                 "id": 562,
                 "name": "Armani's Parlour",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Armani's Parlour]",
-                "description": "",
+                "group_id": "PARLOU.7592",
+                "description": "This group‚ led by ArmaniXR‚ celebrates curiosity and culture across realitiesǃ Feel free to watch our 24/7 celebration anytime on Twitch and YouTube․\n- twitch.tv/armanisparlour\n- youtube.com/@ArmanisParlour\n\nDesigned for the curious and by the curious‚ we explore/analyze the quirks of social VR and what cultures humanity brings in and out of this reality to others․",
                 "createdAt": "2026-05-07T21:19:14.000Z",
-                "updatedAt": "2026-06-12T05:14:43.000Z",
+                "updatedAt": "2026-06-12T05:22:21.000Z",
                 "deletedAt": null,
                 "logo_id": 1905
             },
