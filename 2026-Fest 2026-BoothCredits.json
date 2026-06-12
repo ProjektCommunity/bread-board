@@ -4153,6 +4153,23 @@
                     "username": "Skoot"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 377,
+                "name": "Sakura Studio",
+                "group_id": "grp_1e6691aa-5e02-4287-bed7-078eba01f07c",
+                "description": "Welcome to Sakura Studioǃ\nWe are group dedicated to helping all sorts of photographers of varying skill learn new skills and meet other photographersǃ\n\nWith occasional workshop events and photo hangouts we look to showcase and improve your talentsǃ",
+                "createdAt": "2025-05-18T23:34:55.000Z",
+                "updatedAt": "2026-05-07T17:05:38.000Z",
+                "deletedAt": null,
+                "logo_id": 1448
+            },
+            "members": [
+                {
+                    "username": "YamazakuraVR"
+                }
+            ]
         }
     ]
 }
