@@ -4471,6 +4471,26 @@
                     "username": "Pikapetey"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 101,
+                "name": "Virtual Market",
+                "group_id": "grp_b39cfe35-8a86-4454-ad2b-3649b3702793",
+                "description": "\"One of world's largest VR events - a virtual exhibition of 3D avatars and assets, physical products (fashion, PCs, food products, etc.) on the metaverse\n\n*The Guinness World Record™ was achieved for having \"\"most booths at a virtual reality market event\"\".\"",
+                "createdAt": "2024-06-12T19:14:34.000Z",
+                "updatedAt": "2025-06-01T05:58:31.000Z",
+                "deletedAt": null,
+                "logo_id": 204
+            },
+            "members": [
+                {
+                    "username": "Lhun"
+                },
+                {
+                    "username": "HayaTikaze"
+                }
+            ]
         }
     ]
 }
