@@ -53,7 +53,7 @@
             "end_date": "2026-06-27T21:00:00.000Z",
             "marketing": "Charge your batteries and grab a zapper because its time to battle in the Laserdome!",
             "stream_link": "",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
