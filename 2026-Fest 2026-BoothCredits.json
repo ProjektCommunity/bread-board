@@ -4681,6 +4681,23 @@
                     "username": "Hella_Faith"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 531,
+                "name": "British Armed Forces",
+                "group_id": "grp_a247bbac-233f-45c3-bb65-3a133e56616e",
+                "description": "BAFRP is completely independent of the Ministry of Defence.\n\nWe are a military role play group in VRChat and our focus is on providing a welcoming and enjoyable experience. Within the group you can join the Army, Navy, or Air force, each complete with their own functional systems within VRC.\n\nWe do\n• Regular Events\n• Custom Avatars\n• Our own Maps\n• Tournaments/Competitions\n• Game Events in and outside of VRchat\n\nYou can join us at discord.gg/4CX2dJ7fnQ",
+                "createdAt": "2026-04-01T22:13:07.000Z",
+                "updatedAt": "2026-06-13T05:29:40.000Z",
+                "deletedAt": null,
+                "logo_id": 1940
+            },
+            "members": [
+                {
+                    "username": "BAF-RP"
+                }
+            ]
         }
     ]
 }
