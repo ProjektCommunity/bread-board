@@ -4512,11 +4512,11 @@
         {
             "community": {
                 "id": 535,
-                "name": "Shiruhodosuki / シルホドスキ",
+                "name": "Shiruhodosuki",
                 "group_id": null,
                 "description": null,
                 "createdAt": "2026-04-17T20:03:29.000Z",
-                "updatedAt": "2026-04-17T20:03:29.000Z",
+                "updatedAt": "2026-06-13T12:41:36.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
