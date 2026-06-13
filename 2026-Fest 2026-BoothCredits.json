@@ -4002,9 +4002,9 @@
                 "group_id": null,
                 "description": null,
                 "createdAt": "2026-02-06T18:00:04.000Z",
-                "updatedAt": "2026-02-06T18:00:04.000Z",
+                "updatedAt": "2026-06-13T07:41:31.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1945
             },
             "members": [
                 {
@@ -4506,6 +4506,23 @@
             "members": [
                 {
                     "username": "Shurahiwa "
+                }
+            ]
+        },
+        {
+            "community": {
+                "id": 535,
+                "name": "Shiruhodosuki / シルホドスキ",
+                "group_id": null,
+                "description": null,
+                "createdAt": "2026-04-17T20:03:29.000Z",
+                "updatedAt": "2026-04-17T20:03:29.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Shiruhodosuki"
                 }
             ]
         }
