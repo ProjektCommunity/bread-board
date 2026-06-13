@@ -4269,10 +4269,10 @@
             "community": {
                 "id": 469,
                 "name": "Tsuru no Ongaeshi",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_2cab741d-b470-4c48-aa83-569f3ba79444",
+                "description": "Tsuru no Ongaeshi ( 鶴の恩返し‚ \"Crane's Return of a Favor\" ) is a story from Japanese folklore․ According to Japanese scholar Seki Keigo‚ the story is \"one of the best known\" tales in Japan․\n\nVtuber CraneVT does his part to spread the legacy of this story through his community, which is focused on collaborating with other communities, attending world hops, and enjoying game nights involving TTRPGs, Game Worlds, and other VR related activities.",
                 "createdAt": "2026-03-19T19:36:46.000Z",
-                "updatedAt": "2026-06-13T09:51:03.000Z",
+                "updatedAt": "2026-06-13T09:57:27.000Z",
                 "deletedAt": null,
                 "logo_id": 1953
             },
