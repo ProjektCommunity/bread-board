@@ -4698,6 +4698,23 @@
                     "username": "BAF-RP"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 589,
+                "name": "Limited Sight Distance",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Limited Sight Distance]",
+                "description": "",
+                "createdAt": "2026-05-23T18:43:33.000Z",
+                "updatedAt": "2026-05-23T18:43:33.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "BirdSatan"
+                }
+            ]
         }
     ]
 }
