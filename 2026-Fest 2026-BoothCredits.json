@@ -4491,6 +4491,23 @@
                     "username": "HayaTikaze"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 553,
+                "name": "Shura Hiwa",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Shura Hiwa]",
+                "description": "",
+                "createdAt": "2026-05-04T00:15:03.000Z",
+                "updatedAt": "2026-05-04T00:15:03.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Shurahiwa "
+                }
+            ]
         }
     ]
 }
