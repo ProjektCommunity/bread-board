@@ -4596,6 +4596,23 @@
                     "username": "VRC Avatar Collection"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 571,
+                "name": "chiqn",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[chiqn]",
+                "description": "",
+                "createdAt": "2026-05-13T23:39:22.000Z",
+                "updatedAt": "2026-05-13T23:39:22.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "Chicken_Chi"
+                }
+            ]
         }
     ]
 }
