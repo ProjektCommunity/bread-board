@@ -4425,12 +4425,12 @@
             "community": {
                 "id": 237,
                 "name": "Elya's Soulcore Sounds Cafe",
-                "group_id": null,
+                "group_id": "grp_853b1781-b41a-40eb-86a8-89b560aacca9",
                 "description": null,
                 "createdAt": "2025-03-27T18:56:30.000Z",
-                "updatedAt": "2025-03-27T18:56:30.000Z",
+                "updatedAt": "2026-06-13T07:52:40.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 1946
             },
             "members": [
                 {
