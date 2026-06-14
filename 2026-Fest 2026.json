@@ -7,7 +7,7 @@
             "end_date": "2026-06-27T03:00:00.000Z",
             "marketing": "Join the Runway once again this PJKT:Fest with Omega by AstrixZ & Show Off your 2026 PJKT Style & Drip! The theme this year is Street Graffiti! Let's show off our styles and colours!",
             "stream_link": "https://www.twitch.tv/projektcommunity",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
