@@ -484,7 +484,10 @@
                 "description": "We are the Waifuwehr! VRChat's oldest still surviving Military RP community founded back in 2017. The community aims to offer a realistic, dynamic, and educational military experience to those belonging to cultures worldwide, all connected under one organization, regardless of one’s personal background.",
                 "logo_id": 521
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2009,
+                "name": "WW_Day_at_the_base.png"
+            },
             "EventType": null,
             "Venue": null
         },
