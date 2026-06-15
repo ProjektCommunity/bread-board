@@ -254,7 +254,10 @@
             "event_ready": false,
             "project_id": 8,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 2007,
+                "name": "Memoria.png"
+            },
             "EventType": null,
             "Venue": null
         },
