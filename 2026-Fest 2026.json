@@ -237,7 +237,10 @@
                 "description": "BUDDYWORKS is a community by creators for creators, helping and educating in all things unity and blender with VRC context.\n\nEveryone is happily invited to join in, every skill level, even just slight curiosity.\n\nMaybe you find the spark. ❤️",
                 "logo_id": 453
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2010,
+                "name": "PJKT_Event.png"
+            },
             "EventType": null,
             "Venue": null
         },
