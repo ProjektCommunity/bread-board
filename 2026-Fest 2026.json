@@ -65,7 +65,10 @@
                 "description": "Monthly tournaments in xCirrex's PVP worlds, community hangouts and concerts!",
                 "logo_id": 131
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2011,
+                "name": "Laserdome_PJKTCOM_Event_Poster_Wide-Angle.jpg"
+            },
             "EventType": null,
             "Venue": null
         },
