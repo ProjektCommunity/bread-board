@@ -3630,12 +3630,12 @@
             "community": {
                 "id": 559,
                 "name": "Aether Chronicles",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Aether Chronicles]",
-                "description": "",
+                "group_id": "grp_73d478c3-6559-4c1d-a0c8-b5b1b80e5909",
+                "description": "Aether Chronicles is an 18+ PCVR Roleplay in a high fantasy magic setting, with a focus on helping those new to the roleplay scene find their footing in the wider VRRP landscape! \n\nEvery week we welcome over a hundred active players to multiple instances of fantasy roleplay, including silly social talks, combat lessons, intense missions, and dramatic storytelling. We put time and effort into helping people new to VR Roleplay get their models made, learn how the community does things, and even host advertisements for other roleplays to encourage players to spread their wings and explore the wider community!\n\nIf you're curious about VR Roleplay, Aether is where you can learn!",
                 "createdAt": "2026-05-07T21:19:10.000Z",
-                "updatedAt": "2026-05-07T21:19:10.000Z",
+                "updatedAt": "2026-06-18T00:20:21.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2013
             },
             "members": [
                 {
