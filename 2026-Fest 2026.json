@@ -824,8 +824,8 @@
         {
             "id": 166,
             "name": "Purity Star",
-            "start_date": "2026-06-28T06:00:00.000Z",
-            "end_date": "2026-06-28T07:00:00.000Z",
+            "start_date": "2026-06-28T05:00:00.000Z",
+            "end_date": "2026-06-28T06:00:00.000Z",
             "marketing": "",
             "stream_link": "",
             "quest": true,
