@@ -822,30 +822,6 @@
             }
         },
         {
-            "id": 165,
-            "name": "BubbiTheWhale",
-            "start_date": "2026-06-28T05:00:00.000Z",
-            "end_date": "2026-06-28T06:00:00.000Z",
-            "marketing": "",
-            "stream_link": "",
-            "quest": true,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 8,
-            "Community": null,
-            "Poster": null,
-            "EventType": null,
-            "Venue": {
-                "id": 8,
-                "name": "Main Stage Music",
-                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
-                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
-                "orgOwned": true,
-                "community_id": null
-            }
-        },
-        {
             "id": 166,
             "name": "Purity Star",
             "start_date": "2026-06-28T06:00:00.000Z",
@@ -1447,7 +1423,7 @@
         },
         {
             "id": 191,
-            "name": "Spooky2001",
+            "name": "Spooky",
             "start_date": "2026-07-02T03:00:00.000Z",
             "end_date": "2026-07-02T04:00:00.000Z",
             "marketing": "",
