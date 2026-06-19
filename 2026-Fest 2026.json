@@ -447,7 +447,10 @@
                 "description": "Failed to Render Comedy Club is the longest-standing professional comedy club in virtual reality, every Monday, Wednesday, and Thursday in VRChat!",
                 "logo_id": 858
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2014,
+                "name": "FailedToRender.png"
+            },
             "EventType": null,
             "Venue": null
         },
