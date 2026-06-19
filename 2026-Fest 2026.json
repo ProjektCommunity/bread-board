@@ -117,7 +117,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2015,
+                "name": "VR Filmmaking.jpg"
+            },
             "EventType": null,
             "Venue": null
         },
