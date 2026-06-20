@@ -2055,7 +2055,10 @@
             "event_ready": false,
             "project_id": 8,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 2058,
+                "name": "PJKT Concerts 2026.png"
+            },
             "EventType": null,
             "Venue": {
                 "id": 8,
