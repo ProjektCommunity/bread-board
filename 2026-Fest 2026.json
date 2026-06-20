@@ -2161,7 +2161,7 @@
             "name": "SpokenHeart",
             "start_date": "2026-07-04T23:00:00.000Z",
             "end_date": "2026-07-05T00:00:00.000Z",
-            "marketing": "Poetry and Short Story Event - Respectful Open Mic event to spread poetry and stories of your own as well as of other artists (with quoting their name) in a relaxed and save atmosphere.",
+            "marketing": "Spoken Heart is a warm VRChat open mic where poets, storytellers, and listeners gather around a campfire to share short creative pieces in a welcoming community space. Hosted by Chocolat and Onetwostep, each performer is invited to step into the fire, share their heart for up to five minutes per round, for a total of three rounds, and help keep the night alive through words, warmth, and encouragement. The final round is open to all forms of performances.",
             "stream_link": "https://www.twitch.tv/projektcommunity",
             "quest": true,
             "instance_url": null,
@@ -2175,7 +2175,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2071,
+                "name": "Spokenheart 135 PJKT FEST 2026.png"
+            },
             "EventType": null,
             "Venue": null
         },
