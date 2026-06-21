@@ -3809,12 +3809,12 @@
             "community": {
                 "id": 485,
                 "name": "The Carnival Protocol",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_e0523fa8-c2e3-41c9-a630-4c0306f05fba",
+                "description": "🎪 Enter the Carnival Protocol! 🎭\nA masquerade of madness, mystery, and multiplayer mayhem awaits under the big top!\n\nThis is Carnival Protocol, a vibrant gaming style server themed around masked chaos and carnival fun. From chaotic events to game nights in titles like VRChat, Lethal Company, Among Us, and more—it’s always showtime here.\n\n🎮 Lights. Laughter. Games. Repeat.\nWhether you're a performer who wants to win or just here to enjoy the spectacle, there’s a tent for everyone!\n\nJoin the Carnival:\nhttps://discord.gg/DvTSXSsrzU \n\nThe masks are on. The crowd is waiting. All we’re missing… is you.",
                 "createdAt": "2026-03-24T00:43:29.000Z",
-                "updatedAt": "2026-03-24T00:43:29.000Z",
+                "updatedAt": "2026-06-21T23:01:28.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2075
             },
             "members": [
                 {
