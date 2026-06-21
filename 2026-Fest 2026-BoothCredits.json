@@ -3766,10 +3766,10 @@
             "community": {
                 "id": 543,
                 "name": "Mego",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_260fdae6-bb00-48a7-b382-de379916bdcb",
+                "description": "♠️ About Me\nHowdy! I'm Mego — a 3D creator specializing in clothing, assets, textures, and a small lineup of lowpoly characters built for performance. who is slowly dipping their toes into fully custom avatar creation as well.\n\n♠️ What I Make\nClothing & Assets\n\nAll of my clothing sets and assets come fully pre-configured with VRCFury — just drag, drop, and you're done. No manual setup required. Most items also include Substance Painter files available for download so you can customize to your heart's content.\n\nLowpoly Characters\n\nMy lowpoly models sit at the very top of the Excellent performance rating — built for large instances and busy events. They load near-instantly, use minimal processing power, and are fully compatible with PC, Quest, and Mobile.\n\n♠️ Commissions\nI'm open for commissions on pretty much anything 3D! This includes:\n\nRetextures\nClothing\nResculpts\nProps & Assets\nWorld creation\n\nInterested? Reach out on Discord: Megoman16\n\n♠️ My Stores\n\n| Megoman16 on Jinxxy and on Booth |",
                 "createdAt": "2026-04-17T20:03:34.000Z",
-                "updatedAt": "2026-06-21T23:14:22.000Z",
+                "updatedAt": "2026-06-21T23:16:27.000Z",
                 "deletedAt": null,
                 "logo_id": 2077
             },
