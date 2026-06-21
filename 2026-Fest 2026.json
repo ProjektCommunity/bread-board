@@ -531,7 +531,10 @@
                 "description": null,
                 "logo_id": null
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2074,
+                "name": "YUME_con_flyer_PJKT_ver..png"
+            },
             "EventType": null,
             "Venue": null
         },
