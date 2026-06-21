@@ -702,10 +702,10 @@
             "community": {
                 "id": 416,
                 "name": "Enderia Network",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_18881541-12c6-4fdc-804e-554e64896862",
+                "description": "At Enderia Network we try our best to create unique ways to give our members a different VRChat experience when compared to all other communities‚ we often do so by publishing our own worlds and avatars‚ and organizing pre-planned‚ full blown events inside of those․\nwe also have avatars and unlockable areas for our members‚ either paid or free‚ in Enderia Network everyone gets their chance to shine and show their true self without repercussions‚ with hundreds of roles on our discord‚ and we reward activity too․",
                 "createdAt": "2026-01-16T22:10:24.000Z",
-                "updatedAt": "2026-06-21T23:39:11.000Z",
+                "updatedAt": "2026-06-21T23:39:33.000Z",
                 "deletedAt": null,
                 "logo_id": 2078
             },
