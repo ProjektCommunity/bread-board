@@ -295,7 +295,10 @@
                 "description": "The Virtual Gauntlet is a VR game show hosted in VRChat where two teams of four compete in fast-paced, skill-based obstacle course challenges. The show runs in seasons with a strong cyberpunk theme and features unique games like Dodge Wall, Rift Rush, and Grid Lock. We record and stream the matches, promote the teams involved, and offer in-world prizes like trophies and group shoutouts. It's built to spotlight player communities, bring hype energy to VR gaming, and create something exciting for both players and viewers.",
                 "logo_id": 473
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2073,
+                "name": "VirtualGauntlet.png"
+            },
             "EventType": null,
             "Venue": null
         },
