@@ -3093,12 +3093,12 @@
             "community": {
                 "id": 396,
                 "name": "Altered Evil",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_21a932a3-d46b-4dc1-b609-a893328a6a12",
+                "description": "Virtual band of Low Poly Vampires who meme in VRChat\nCheck the Youtube channel for all our vidsǃ",
                 "createdAt": "2025-09-02T04:49:06.000Z",
-                "updatedAt": "2025-09-02T04:49:06.000Z",
+                "updatedAt": "2026-06-21T23:07:17.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2076
             },
             "members": [
                 {
