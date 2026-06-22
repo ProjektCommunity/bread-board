@@ -1352,10 +1352,10 @@
             "community": {
                 "id": 547,
                 "name": "Sins of Evarda",
-                "group_id": "https://vrc.group/SINSRP.7666",
+                "group_id": "SINSRP.7666",
                 "description": "Sins of Evarda is a high-production VRChat roleplaying campaign set in a grim medieval fantasy world inspired by Berserk‚ Game of Thrones‚ and cosmic horror․ Created and run by Drazker alongside a team of experienced Dungeon Masters‚ SOE follows the Vectorum‚ a faction of outcasts‚ dispossessed nobles‚ and survivors of supernatural disasters as they navigate political intrigue‚ border warfare‚ and dark forces awakening in the March of Lior․\n\nThe campaign emphasizes consequence-heavy storytelling‚ moral complexity‚ and collaborative character arcs․ Magic is rare‚ dangerous‚ and corrupting․ Violence is brutal and carries psychological weight․ Characters can fail‚ fall‚ or die‚ and their choices shape the world's trajectory․",
                 "createdAt": "2026-04-30T05:53:30.000Z",
-                "updatedAt": "2026-06-09T19:52:59.000Z",
+                "updatedAt": "2026-06-22T01:20:23.000Z",
                 "deletedAt": null,
                 "logo_id": 1807
             },
@@ -4497,11 +4497,11 @@
                 "id": 553,
                 "name": "Shura Hiwa",
                 "group_id": "PLACEHOLDERuntilAPIisFixed[Shura Hiwa]",
-                "description": "",
+                "description": "I host events on VRChat that I stream onto YouTube and Twitch",
                 "createdAt": "2026-05-04T00:15:03.000Z",
-                "updatedAt": "2026-05-04T00:15:03.000Z",
+                "updatedAt": "2026-06-22T01:20:19.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2107
             },
             "members": [
                 {
