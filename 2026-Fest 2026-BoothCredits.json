@@ -4961,12 +4961,12 @@
             "community": {
                 "id": 156,
                 "name": "Roman Empire",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_7bbae82f-8fbd-406b-b558-326f53232399",
+                "description": "We are a Medival/Ancient RolePlay server, who re-enacts historical events, and does fun battles against other medival groups.",
                 "createdAt": "2024-10-16T20:20:06.000Z",
-                "updatedAt": "2024-10-16T20:20:06.000Z",
+                "updatedAt": "2026-06-22T01:12:48.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2106
             },
             "members": [
                 {
