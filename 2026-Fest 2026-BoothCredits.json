@@ -4443,9 +4443,9 @@
                 "id": 478,
                 "name": "YUCP Studio",
                 "group_id": null,
-                "description": null,
+                "description": "Create a bunch of interconnected assets that work with Spotify and others.",
                 "createdAt": "2026-03-19T19:36:52.000Z",
-                "updatedAt": "2026-06-22T00:54:38.000Z",
+                "updatedAt": "2026-06-22T00:55:18.000Z",
                 "deletedAt": null,
                 "logo_id": 2097
             },
