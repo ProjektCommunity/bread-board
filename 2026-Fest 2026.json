@@ -2284,6 +2284,23 @@
             "Poster": null,
             "EventType": null,
             "Venue": null
+        },
+        {
+            "id": 221,
+            "name": "Opening Concert!",
+            "start_date": "2026-06-26T20:00:00.000Z",
+            "end_date": "2026-06-26T22:00:00.000Z",
+            "marketing": "Listen to the tunes in the opening concert of the Fest this year!",
+            "stream_link": "",
+            "quest": true,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
