@@ -1517,33 +1517,6 @@
             }
         },
         {
-            "id": 190,
-            "name": "Elya Kaleua",
-            "start_date": "2026-07-02T02:00:00.000Z",
-            "end_date": "2026-07-02T03:00:00.000Z",
-            "marketing": "",
-            "stream_link": "",
-            "quest": true,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 8,
-            "Community": null,
-            "Poster": {
-                "id": 2047,
-                "name": "PJKT Concerts 2026.png"
-            },
-            "EventType": null,
-            "Venue": {
-                "id": 8,
-                "name": "Main Stage Music",
-                "url": "https://vrchat.com/home/world/wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
-                "world_id": "wrld_15bfeabf-12fc-4214-958a-5e8e16007b27",
-                "orgOwned": true,
-                "community_id": null
-            }
-        },
-        {
             "id": 191,
             "name": "Elya Kaleua",
             "start_date": "2026-07-02T03:00:00.000Z",
