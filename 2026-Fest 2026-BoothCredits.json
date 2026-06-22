@@ -4703,12 +4703,12 @@
             "community": {
                 "id": 589,
                 "name": "Limited Sight Distance",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Limited Sight Distance]",
-                "description": "",
+                "group_id": "grp_efea01bc-756f-441a-b320-15f1dc059e34",
+                "description": "A group for fans of Limited Sight Distance⁄BirdSatan's music․ Joining here gives you updates to future gigs and music releases․",
                 "createdAt": "2026-05-23T18:43:33.000Z",
-                "updatedAt": "2026-05-23T18:43:33.000Z",
+                "updatedAt": "2026-06-22T01:06:31.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2102
             },
             "members": [
                 {
