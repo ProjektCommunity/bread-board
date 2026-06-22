@@ -347,10 +347,10 @@
             "community": {
                 "id": 387,
                 "name": "Kursenic Bureau of Anomali",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_c546afa5-e6a5-45de-83d9-6834bddd9c8c",
+                "description": "Hey we are a group called Kursenic Bureau Of Anomali\nWe host majority things to do with the unexplainable（SCP-like）",
                 "createdAt": "2025-09-02T04:49:02.000Z",
-                "updatedAt": "2026-06-22T01:03:37.000Z",
+                "updatedAt": "2026-06-22T01:03:44.000Z",
                 "deletedAt": null,
                 "logo_id": 2101
             },
