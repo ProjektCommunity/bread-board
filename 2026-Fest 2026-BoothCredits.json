@@ -4926,11 +4926,11 @@
         {
             "community": {
                 "id": 573,
-                "name": "JackerBun",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[JackerBun]",
-                "description": "",
+                "name": "Jacker BunnyHood",
+                "group_id": "grp_0f0bb08d-ce33-4da2-aace-e2b2d9141da8",
+                "description": "A community of rabbits where you can have a good time‚ make friends and share fun moments․",
                 "createdAt": "2026-05-13T23:39:25.000Z",
-                "updatedAt": "2026-06-22T00:30:58.000Z",
+                "updatedAt": "2026-06-22T00:31:08.000Z",
                 "deletedAt": null,
                 "logo_id": 2089
             },
