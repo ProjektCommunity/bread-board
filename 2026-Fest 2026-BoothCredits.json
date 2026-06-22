@@ -3184,12 +3184,12 @@
             "community": {
                 "id": 480,
                 "name": "Mr Ender",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_550e02ab-8822-4789-9155-6f802f3db834",
+                "description": " It's your friendly neighborhood forensic investigator here‚ I stream on twitch and I'm happy to give out a helping hand‚ if you need it․",
                 "createdAt": "2026-03-19T19:36:53.000Z",
-                "updatedAt": "2026-03-19T19:36:53.000Z",
+                "updatedAt": "2026-06-22T00:35:06.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2090
             },
             "members": [
                 {
