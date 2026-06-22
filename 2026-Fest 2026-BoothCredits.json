@@ -4720,12 +4720,12 @@
             "community": {
                 "id": 520,
                 "name": "OnKey Expo",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_5c2763d0-a6c4-45f2-a597-c0c518e5da39",
+                "description": "OnKey Expo is a Vtuber centralized convention based on the East Coastǃ We also will be implementing a VR convention as wellǃ\n\nCheck out our websites or Socialsǃ OnKey Expoǃ Stay on Beatǃ",
                 "createdAt": "2026-03-30T23:28:10.000Z",
-                "updatedAt": "2026-03-30T23:28:10.000Z",
+                "updatedAt": "2026-06-21T23:59:59.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2081
             },
             "members": [
                 {
