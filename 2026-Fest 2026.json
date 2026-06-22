@@ -527,9 +527,9 @@
             "Community": {
                 "id": 484,
                 "name": "Yume Maid Cafe",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+                "group_id": "grp_9c61fb13-bd22-49a2-b58f-77357a99a59f",
+                "description": "A light RP group themed around a maid cafe where our maids/butlers serve our guests food and have some nice conversation/silly situations. Anything NSFW is prohibited.",
+                "logo_id": 2098
             },
             "Poster": {
                 "id": 2074,
@@ -593,9 +593,9 @@
             "Community": {
                 "id": 325,
                 "name": "DX",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+                "group_id": "grp_b5b87123-06e4-40bd-8441-adfb79be581a",
+                "description": "I love making Avatars‚ Shaders and Worlds‚ and have random chats․\nSo come here‚ let's have a crazy chat․",
+                "logo_id": 2083
             },
             "Poster": null,
             "EventType": null,
@@ -685,9 +685,9 @@
             "Community": {
                 "id": 534,
                 "name": "VRC Avatar Collection",
-                "group_id": null,
-                "description": null,
-                "logo_id": null
+                "group_id": "grp_34b1bfa1-080c-44be-87fe-0d4f5559c606",
+                "description": "VRC Avatar Collection is a project dedicated to showcasing the appeal of avatars and outfits through event production, video content, magazines, and merchandise.",
+                "logo_id": 2096
             },
             "Poster": null,
             "EventType": null,
@@ -706,6 +706,29 @@
             "event_ready": false,
             "project_id": 8,
             "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
+            "id": 159,
+            "name": "Behind the Star: The Making of Luxe Nova Events",
+            "start_date": "2026-07-05T22:00:00.000Z",
+            "end_date": "2026-07-05T23:00:00.000Z",
+            "marketing": "Ever wondered what goes into the most immersive theatre and nightlife experiences in VRChat? Join the team behind Luxe Nova for an exclusive behind-the-scenes talkshow where we shine how our events are conceived, built, and brought to life in VRChat.\r\n",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": {
+                "id": 220,
+                "name": "Luxe Nova",
+                "group_id": "grp_ccab6917-9e39-4dcf-8625-acf271934107",
+                "description": "The premier Raindance-nominated VRChat entertainment collective.\nLuxe Nova is a place where immersive theater meets electrifying nightlife, crafted with care, creativity, and community at the heart of everything we do.\nWe proudly present two standout experiences:\n\nObserva Theater:\nStep into a night of wonder.\nOur flagship stage experience combines weeks of preparation, brilliant artistry, and heartwarming community interaction to bring you unforgettable performances. \nWhether you’re a theater aficionado or first-time guest, Observa is designed to leave a lasting impression. Expect a fully immersive narrative-driven shows with warm and welcoming floor hosts achieved with custom-built world full of character and charm.\n\nRadiance Lounge:\nWhere the night comes alive.\nRadiance is Luxe Nova’s take on the perfect virtual party. With expertly curated vibes and a dazzling social atmosphere. Lose yourself in the nightlife of a world built for celebration by enjoying live dance performances from VRChat's best talent\n\nWhether you're here for the show, the party, or the community itself, we’re excited to welcome you into the world of Luxe Nova. \nCome see what makes us one of VRChat’s most celebrated groups.\n\nVRChat Group: https://vrc.group/LXNV.9977\nDiscord: https://discord.gg/luxe-nova",
+                "logo_id": 508
+            },
             "Poster": null,
             "EventType": null,
             "Venue": null
