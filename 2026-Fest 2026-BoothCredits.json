@@ -3544,11 +3544,11 @@
         {
             "community": {
                 "id": 439,
-                "name": "Eglantine",
+                "name": "Dragons Forge",
                 "group_id": "grp_6d8a7724-7c4e-49bd-9043-388d9045946c",
                 "description": "This is a group for people who enjoy our bases and or share our passion in the weirder critters and robots․",
                 "createdAt": "2026-02-02T17:41:24.000Z",
-                "updatedAt": "2026-06-22T00:16:12.000Z",
+                "updatedAt": "2026-06-22T00:16:38.000Z",
                 "deletedAt": null,
                 "logo_id": 2084
             },
@@ -3665,11 +3665,11 @@
                 "id": 418,
                 "name": "Ayame Vamileon",
                 "group_id": null,
-                "description": null,
+                "description": "Hi, I'm a 2D artist who loves meeting new people and helping out wherever I can. If you'd like to see my art, I invite you to check out my social media and my work. I also help out at various events here on VRChat with art and guidance!",
                 "createdAt": "2026-01-16T22:10:25.000Z",
-                "updatedAt": "2026-01-16T22:10:25.000Z",
+                "updatedAt": "2026-06-22T00:16:43.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2085
             },
             "members": [
                 {
