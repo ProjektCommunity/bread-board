@@ -3130,12 +3130,12 @@
             "community": {
                 "id": 378,
                 "name": "First Class Coffin",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_008bb35f-7d7e-4654-bfa6-8cbe17beb631",
+                "description": "Unleash your inner monster with thrilling and chilling low-poly VR rock and roll‚ where the undead groove and the living lose themselves to the musicǃ\n\nFirst Class Coffin bring the finest Halloween Horror Pop‚ fully embalmed with '80s and '90s vibes",
                 "createdAt": "2025-09-02T04:48:58.000Z",
-                "updatedAt": "2025-09-02T04:48:58.000Z",
+                "updatedAt": "2026-06-22T01:02:35.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2100
             },
             "members": [
                 {
