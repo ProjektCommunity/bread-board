@@ -4602,11 +4602,11 @@
                 "id": 571,
                 "name": "chiqn",
                 "group_id": "PLACEHOLDERuntilAPIisFixed[chiqn]",
-                "description": "",
+                "description": "3d modelling, DJ & VJ",
                 "createdAt": "2026-05-13T23:39:22.000Z",
-                "updatedAt": "2026-05-13T23:39:22.000Z",
+                "updatedAt": "2026-06-22T01:01:30.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2099
             },
             "members": [
                 {
