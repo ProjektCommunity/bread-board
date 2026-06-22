@@ -2267,6 +2267,23 @@
                 "orgOwned": true,
                 "community_id": null
             }
+        },
+        {
+            "id": 219,
+            "name": "Closing Ceremony and a Q&A",
+            "start_date": "2026-07-06T01:00:00.000Z",
+            "end_date": "2026-07-06T03:00:00.000Z",
+            "marketing": "The Doors of PJKT have come to a closeǃ The Staff will be hosting the Closing Ceremony which will be Live over on our Twitchǃ Afterwards an Open Q＆A will go on in world for any questions you may have for Projekt Community and the Team Behind itǃ",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
         }
     ]
 }
