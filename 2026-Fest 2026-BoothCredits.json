@@ -4070,12 +4070,12 @@
             "community": {
                 "id": 430,
                 "name": "Snoot Collective",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_2372da2c-3b20-4003-9a35-3cf3545b88d3",
+                "description": "We are The Snoot Collective˸ we collect SNOOTS․\n\nOur goal is to create a Snoot Gallery every week˸ posted on here‚ our Discord‚ and our BlueSky․\nWe also like doing avatar creator jams for special events․\n\nWe want to create a place for people to put their snoots together․\nWe occasionally have instances for chilling‚ gaming‚ singing‚ and dancing․\nBut overall‚ we focus on collecting snoots․",
                 "createdAt": "2026-01-25T21:01:35.000Z",
-                "updatedAt": "2026-01-25T21:01:35.000Z",
+                "updatedAt": "2026-06-22T00:44:21.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2093
             },
             "members": [
                 {
