@@ -3714,11 +3714,11 @@
         {
             "community": {
                 "id": 522,
-                "name": "VRCAs",
-                "group_id": null,
-                "description": null,
+                "name": "The VR Community Awards",
+                "group_id": "grp_b0ad7b78-f545-4fca-885e-e786e6ae237c",
+                "description": "Welcome to the VR Community Awards‚ an award show for VRChat celebrating the creators behind the worlds‚ avatars‚ communities and content․\n\nHosted by Puck‚ the first event took place on 16th Feb 2025․ Watched by hundreds of thousands the show made waves in the community‚ showing the world the beauty of VRChat․ Watch back the show via the website․",
                 "createdAt": "2026-03-30T23:28:11.000Z",
-                "updatedAt": "2026-06-22T01:22:28.000Z",
+                "updatedAt": "2026-06-22T01:22:44.000Z",
                 "deletedAt": null,
                 "logo_id": 2109
             },
