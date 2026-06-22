@@ -3258,12 +3258,12 @@
             "community": {
                 "id": 523,
                 "name": "Storybook Songclub",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_614313ca-cd0c-40d9-990c-8542af0a21ce",
+                "description": "This is a formal invitation from Alex Graey as he invites you into his VR recording studio to listen to some of the best VR musicians in the Space․ showcase their new music to the world․ Come for the music and stick around for the songwriting sessions‚ networking‚ and social eventsǃ this is the Storybook Songclub․",
                 "createdAt": "2026-03-30T23:28:12.000Z",
-                "updatedAt": "2026-03-30T23:28:12.000Z",
+                "updatedAt": "2026-06-22T01:21:31.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2108
             },
             "members": [
                 {
