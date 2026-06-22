@@ -3698,12 +3698,12 @@
             "community": {
                 "id": 556,
                 "name": "Town of Farlon RP",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Town of Farlon RP]",
-                "description": "",
+                "group_id": "grp_d4de3a9e-9f61-4441-8e64-9f62badb0f45",
+                "description": "RP in a fantasy light grimdark setting with quirky characters\n\nPlease join Discord before Requesting to join the Group",
                 "createdAt": "2026-05-07T21:19:05.000Z",
-                "updatedAt": "2026-05-07T21:19:05.000Z",
+                "updatedAt": "2026-06-22T00:50:36.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2095
             },
             "members": [
                 {
