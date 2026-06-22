@@ -4513,12 +4513,12 @@
             "community": {
                 "id": 535,
                 "name": "Shiruhodosuki",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_e2daf138-99a0-4770-985f-db4787cbabe6",
+                "description": "バーチャルインタビュー「 ＃シルホドスキ」は「知ればシルホドスキになる」をテーマに、ゲストへのインタビューを通じてその人の知らなかった部分を知ってスキになってもらうためのVRインタビュー番組です。\n「あ、この人好きかも！」という衝動を与えるようなインタビュー動画をYoutubeにて毎週金曜に配信しています！\n\n\"Shiruhodosuki\" is a virtual interview program based on the theme \"The more you know, the more you'll love them.\" Through interviews with guests, the show aims to reveal sides of them you didn't know before—helping you fall in love with who they really are.\nWe release new interview videos on YouTube every Friday—videos designed to spark that instant feeling of, \"Oh, I think I really like this person!\"",
                 "createdAt": "2026-04-17T20:03:29.000Z",
-                "updatedAt": "2026-06-13T12:41:36.000Z",
+                "updatedAt": "2026-06-22T00:42:10.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2092
             },
             "members": [
                 {
