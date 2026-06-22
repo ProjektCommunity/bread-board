@@ -4584,12 +4584,12 @@
             "community": {
                 "id": 534,
                 "name": "VRC Avatar Collection",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_34b1bfa1-080c-44be-87fe-0d4f5559c606",
+                "description": "VRC Avatar Collection is a project dedicated to showcasing the appeal of avatars and outfits through event production, video content, magazines, and merchandise.",
                 "createdAt": "2026-04-17T20:03:28.000Z",
-                "updatedAt": "2026-04-17T20:03:28.000Z",
+                "updatedAt": "2026-06-22T00:51:47.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2096
             },
             "members": [
                 {
