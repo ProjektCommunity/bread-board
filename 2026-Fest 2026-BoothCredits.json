@@ -3545,10 +3545,10 @@
             "community": {
                 "id": 439,
                 "name": "Eglantine",
-                "group_id": null,
+                "group_id": "grp_6d8a7724-7c4e-49bd-9043-388d9045946c",
                 "description": null,
                 "createdAt": "2026-02-02T17:41:24.000Z",
-                "updatedAt": "2026-02-02T17:41:24.000Z",
+                "updatedAt": "2026-06-22T00:15:09.000Z",
                 "deletedAt": null,
                 "logo_id": null
             },
