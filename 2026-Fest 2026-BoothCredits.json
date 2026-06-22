@@ -3150,10 +3150,10 @@
             "community": {
                 "id": 320,
                 "name": "Only Nekos",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_2d4324fe-8922-4a69-b1bd-39e750d3757d",
+                "description": "The combined communities of the OnlyNekos cats‚ Kromia‚ Krisuna‚ Totless‚ Asby and Radiant",
                 "createdAt": "2025-04-24T00:01:11.000Z",
-                "updatedAt": "2026-06-22T01:09:37.000Z",
+                "updatedAt": "2026-06-22T01:09:44.000Z",
                 "deletedAt": null,
                 "logo_id": 2104
             },
