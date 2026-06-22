@@ -3005,12 +3005,12 @@
             "community": {
                 "id": 463,
                 "name": "极星PolarStar",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_cf403149-ea60-4c79-adc3-3bcaa7dab21a",
+                "description": "Currently, we are running RP-based virtual café and bar with original IP.",
                 "createdAt": "2026-03-19T19:36:43.000Z",
-                "updatedAt": "2026-03-19T19:36:43.000Z",
+                "updatedAt": "2026-06-22T01:23:45.000Z",
                 "deletedAt": null,
-                "logo_id": null
+                "logo_id": 2110
             },
             "members": [
                 {
