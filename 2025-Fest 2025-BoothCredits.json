@@ -3595,10 +3595,10 @@
             "community": {
                 "id": 325,
                 "name": "DX",
-                "group_id": null,
-                "description": null,
+                "group_id": "grp_b5b87123-06e4-40bd-8441-adfb79be581a",
+                "description": "I love making Avatars‚ Shaders and Worlds‚ and have random chats․\nSo come here‚ let's have a crazy chat․",
                 "createdAt": "2025-04-24T00:01:11.000Z",
-                "updatedAt": "2026-06-22T00:12:55.000Z",
+                "updatedAt": "2026-06-22T00:13:07.000Z",
                 "deletedAt": null,
                 "logo_id": 2083
             },
