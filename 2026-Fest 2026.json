@@ -2286,6 +2286,23 @@
             "Venue": null
         },
         {
+            "id": 220,
+            "name": "Opening Ceremony!",
+            "start_date": "2026-06-26T17:00:00.000Z",
+            "end_date": "2026-06-26T18:00:00.000Z",
+            "marketing": "Welcome to PJKT FESTǃ\r\n\r\nThe Doors to this year's Projekt Festival will be Opening‚ get excited and watch the Opening Ceremonyǃ\r\n\r\nOur Opening Ceremony will be streamed on our twitch!",
+            "stream_link": "https://www.twitch.tv/projektcommunity",
+            "quest": false,
+            "instance_url": null,
+            "event_public": true,
+            "event_ready": false,
+            "project_id": 8,
+            "Community": null,
+            "Poster": null,
+            "EventType": null,
+            "Venue": null
+        },
+        {
             "id": 221,
             "name": "Opening Concert!",
             "start_date": "2026-06-26T20:00:00.000Z",
