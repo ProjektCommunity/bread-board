@@ -355,11 +355,11 @@
     },
     {
       "slotNumber": 32,
-      "isActive": false,
+      "isActive": true,
       "fileName": "POSTERS_Poster_32.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_32.jpg",
       "title": "Cineshades Poster",
-      "lastModified": "2026-06-24T19:42:46.541Z",
+      "lastModified": "2026-06-24T19:43:06.415Z",
       "isLandscape": false,
       "tags": []
     },
@@ -459,7 +459,7 @@
       "fileName": "POSTERS_Poster_42.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_42.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -469,7 +469,7 @@
       "fileName": "POSTERS_Poster_43.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_43.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -479,7 +479,7 @@
       "fileName": "POSTERS_Poster_44.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_44.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -489,7 +489,7 @@
       "fileName": "POSTERS_Poster_45.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_45.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -499,7 +499,7 @@
       "fileName": "POSTERS_Poster_46.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_46.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -509,7 +509,7 @@
       "fileName": "POSTERS_Poster_47.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_47.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -519,7 +519,7 @@
       "fileName": "POSTERS_Poster_48.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_48.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -529,7 +529,7 @@
       "fileName": "POSTERS_Poster_49.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_49.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     },
@@ -539,7 +539,7 @@
       "fileName": "POSTERS_Poster_50.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_50.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T19:42:46.715Z",
+      "lastModified": "2026-06-24T19:43:06.474Z",
       "isLandscape": false,
       "tags": []
     }
