@@ -485,11 +485,11 @@
     },
     {
       "slotNumber": 45,
-      "isActive": false,
+      "isActive": true,
       "fileName": "POSTERS_Poster_45.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_45.jpg",
-      "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "title": "SCOUT Space Jam Winner",
+      "lastModified": "2026-06-24T21:49:47.102Z",
       "isLandscape": false,
       "tags": []
     },
@@ -499,7 +499,7 @@
       "fileName": "POSTERS_Poster_46.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_46.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "lastModified": "2026-06-24T21:49:47.299Z",
       "isLandscape": false,
       "tags": []
     },
@@ -509,7 +509,7 @@
       "fileName": "POSTERS_Poster_47.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_47.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "lastModified": "2026-06-24T21:49:47.299Z",
       "isLandscape": false,
       "tags": []
     },
@@ -519,7 +519,7 @@
       "fileName": "POSTERS_Poster_48.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_48.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "lastModified": "2026-06-24T21:49:47.299Z",
       "isLandscape": false,
       "tags": []
     },
@@ -529,7 +529,7 @@
       "fileName": "POSTERS_Poster_49.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_49.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "lastModified": "2026-06-24T21:49:47.299Z",
       "isLandscape": false,
       "tags": []
     },
@@ -539,7 +539,7 @@
       "fileName": "POSTERS_Poster_50.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_50.jpg",
       "title": "Empty Slot",
-      "lastModified": "2026-06-24T21:32:08.950Z",
+      "lastModified": "2026-06-24T21:49:47.299Z",
       "isLandscape": false,
       "tags": []
     }
