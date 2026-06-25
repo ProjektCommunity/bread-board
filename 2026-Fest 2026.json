@@ -439,7 +439,10 @@
                 "description": "At Improv Knight‚ we aim to teach the techniques of improvisation to the beautiful people of VR Chat who are willing to learn‚ and improve․\n\nWe also host shows once a month and have weekly workshopsǃ\n\nWe embrace the awkward moments‚ and turn them into gems through trial and error․",
                 "logo_id": 1670
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2127,
+                "name": "ImprovKnight.png"
+            },
             "EventType": null,
             "Venue": null
         },
