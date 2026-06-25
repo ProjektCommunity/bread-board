@@ -586,7 +586,10 @@
             "event_ready": false,
             "project_id": 8,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 2129,
+                "name": "CosmoTour.png"
+            },
             "EventType": null,
             "Venue": null
         },
