@@ -535,11 +535,11 @@
     },
     {
       "slotNumber": 50,
-      "isActive": true,
+      "isActive": false,
       "fileName": "POSTERS_Poster_50.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_50.jpg",
-      "title": "PSI Poster",
-      "lastModified": "2026-06-25T06:47:23.872Z",
+      "title": "Empty Slot",
+      "lastModified": "2026-06-25T06:50:27.276Z",
       "isLandscape": false,
       "tags": []
     }
