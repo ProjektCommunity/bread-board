@@ -413,7 +413,10 @@
                 "description": "A cyberpunk shop for cell shaded assets. We're a small group of friends working on fan animation and props to sell.",
                 "logo_id": 192
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2126,
+                "name": "Poster_D.png"
+            },
             "EventType": null,
             "Venue": null
         },
