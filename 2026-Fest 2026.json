@@ -42,7 +42,10 @@
                 "description": "lucid Multimedia is a US-based virtual entertainment talent agency that offers VTubers and digital content creators a dynamic platform to unleash their full creative potential. By \"Expanding Horizons and Empowering Creativity\", we strive to transform dreams into reality, enrich lives, and create positive, impactful experiences.\n\nlucid Multimedia's mission is to democratize the business of the entertainment industry for content creators. We believe that artists affiliated with a company should have the right to freedom of speech and access to ethical business support.",
                 "logo_id": 1898
             },
-            "Poster": null,
+            "Poster": {
+                "id": 2123,
+                "name": "Lucid_Multimedia.png"
+            },
             "EventType": null,
             "Venue": null
         },
