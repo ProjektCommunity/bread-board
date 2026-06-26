@@ -68,7 +68,7 @@
                 "id": 178,
                 "name": "Comrades and Ops",
                 "group_id": "grp_31cb7da1-17be-4f84-97f0-182e5a0852c6",
-                "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming or social event. Time to rock and roll!",
+                "description": "Comrades And Ops is a gaming and social group which brings people together in the name of fun, good times, and friendship. Our signature event is Thursday Games, a 2-hour gaming session in VRChat held every Thursday at 6pm USA EST. We host and play various games outside of VRChat and encourage participation in major events throughout VRChat and other gaming communities. All members are invited to host their own gaming session and events. Time to rock and roll!",
                 "logo_id": 558
             },
             "Poster": {
@@ -635,7 +635,7 @@
             "end_date": "2026-07-04T21:00:00.000Z",
             "marketing": "Soaring Fitness is a community-driven fitness program operated by Hack Your Lives, a registered 501(c)(3) nonprofit organization, dedicated to making health and wellness freely accessible to everyone.\r\n\r\nThrough innovative virtual reality experiences and online streaming, Soaring Fitness brings people together from around the world to get active, stay healthy, and support one another, no gym required.",
             "stream_link": "",
-            "quest": false,
+            "quest": true,
             "instance_url": null,
             "event_public": true,
             "event_ready": false,
