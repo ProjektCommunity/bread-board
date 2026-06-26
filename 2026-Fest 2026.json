@@ -1,29 +1,6 @@
 {
     "events": [
         {
-            "id": 128,
-            "name": "Couture Catwalk - Street Graffiti",
-            "start_date": "2026-06-27T02:00:00.000Z",
-            "end_date": "2026-06-27T03:00:00.000Z",
-            "marketing": "Join the Runway once again this PJKT:Fest with Omega by AstrixZ & Show Off your 2026 PJKT Style & Drip! The theme this year is Street Graffiti! Let's show off our styles and colours!",
-            "stream_link": "https://www.twitch.tv/projektcommunity",
-            "quest": true,
-            "instance_url": null,
-            "event_public": true,
-            "event_ready": false,
-            "project_id": 8,
-            "Community": {
-                "id": 86,
-                "name": "Omega",
-                "group_id": "grp_a57e2365-42ad-4657-a05c-b73778e32cc0",
-                "description": "An 18+ VRChat community dedicated to themed adventures, virtual fashion, creativity, and making genuine connections. Dress for the occasion, explore immersive experiences, meet new people, and celebrate individuality through unique events designed to keep VRChat fresh, inspiring, and fun. From Fashion Voyages & Runway Parties to Winter Balls and Creator Collaborations, Omega by AstrixZ is a place where self-expression and new experiences shine.",
-                "logo_id": 199
-            },
-            "Poster": null,
-            "EventType": null,
-            "Venue": null
-        },
-        {
             "id": 129,
             "name": "Lucid Multimedia Vtuber Meet and Greet",
             "start_date": "2026-06-27T04:00:00.000Z",
