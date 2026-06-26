@@ -327,7 +327,10 @@
             "event_ready": false,
             "project_id": 8,
             "Community": null,
-            "Poster": null,
+            "Poster": {
+                "id": 2133,
+                "name": "Event_Template_FEST_2026_xavier_2.png"
+            },
             "EventType": null,
             "Venue": null
         },
