@@ -205,7 +205,13 @@
             "event_public": true,
             "event_ready": false,
             "project_id": 8,
-            "Community": null,
+            "Community": {
+                "id": 553,
+                "name": "Shura Hiwa",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Shura Hiwa]",
+                "description": "I host events on VRChat that I stream onto YouTube and Twitch",
+                "logo_id": 2107
+            },
             "Poster": null,
             "EventType": null,
             "Venue": null
