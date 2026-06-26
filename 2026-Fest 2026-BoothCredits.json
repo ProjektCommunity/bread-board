@@ -4567,10 +4567,10 @@
             "community": {
                 "id": 595,
                 "name": "Musicians Unite",
-                "group_id": "PLACEHOLDERuntilAPIisFixed[Musicians Unite]",
+                "group_id": "https://vrc.group/MUVR.1541",
                 "description": "",
                 "createdAt": "2026-06-13T02:16:00.000Z",
-                "updatedAt": "2026-06-14T23:12:14.000Z",
+                "updatedAt": "2026-06-26T19:02:18.000Z",
                 "deletedAt": null,
                 "logo_id": 2003
             },
