@@ -465,12 +465,12 @@
     },
     {
       "slotNumber": 43,
-      "isActive": false,
+      "isActive": true,
       "fileName": "POSTERS_Poster_43.jpg",
       "imageUrl": "https://raw.githubusercontent.com/ProjektCommunity/bread-board/main/postersFest26/POSTERS_Poster_43.jpg",
-      "title": "Empty Slot",
-      "lastModified": "2026-07-01T21:10:20.110Z",
-      "isLandscape": false,
+      "title": "Failed to Render Event",
+      "lastModified": "2026-07-01T21:12:00.183Z",
+      "isLandscape": true,
       "tags": []
     },
     {
