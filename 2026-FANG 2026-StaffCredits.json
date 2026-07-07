@@ -3,12 +3,6 @@
         {
             "departments": [
                 {
-                    "department": "Media",
-                    "jobTitles": [
-                        "Team Leader"
-                    ]
-                },
-                {
                     "department": "Events",
                     "jobTitles": [
                         "Director"
