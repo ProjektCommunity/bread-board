@@ -47,6 +47,12 @@
             "eventsURL": "2026-Fest 2026.json",
             "boothCreditsURL": "2026-Fest 2026-BoothCredits.json",
             "staffCreditsURL": "2026-Fest 2026-StaffCredits.json"
+        },
+        {
+            "projectName": "HorrorCon 2026",
+            "eventsURL": "2026-HorrorCon 2026.json",
+            "boothCreditsURL": "2026-HorrorCon 2026-BoothCredits.json",
+            "staffCreditsURL": "2026-HorrorCon 2026-StaffCredits.json"
         }
     ]
 }
