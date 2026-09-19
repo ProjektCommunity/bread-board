@@ -87,6 +87,23 @@
                     "username": "PANFEAR"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 607,
+                "name": "VCreature Feature",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[VCreature Feature]",
+                "description": "",
+                "createdAt": "2026-09-01T18:20:45.000Z",
+                "updatedAt": "2026-09-01T18:20:45.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "BathroomBird"
+                }
+            ]
         }
     ]
 }
