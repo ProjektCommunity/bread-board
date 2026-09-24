@@ -209,6 +209,23 @@
                     "username": "Astro Anomaly"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 605,
+                "name": "Dragon Spire",
+                "group_id": "PLACEHOLDERuntilAPIisFixed[Dragon Spire]",
+                "description": "",
+                "createdAt": "2026-09-01T17:41:20.000Z",
+                "updatedAt": "2026-09-01T17:41:20.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "wys_teria"
+                }
+            ]
         }
     ]
 }
