@@ -243,6 +243,23 @@
                     "username": "Silvadorkable"
                 }
             ]
+        },
+        {
+            "community": {
+                "id": 597,
+                "name": "LOAFEVR",
+                "group_id": "grp_7ef9148f-45f1-4d24-9570-62a41327a097",
+                "description": "Group of LOAFE‚ a silly little creature and an Avatar maker",
+                "createdAt": "2026-07-28T17:43:50.000Z",
+                "updatedAt": "2026-07-28T17:43:50.000Z",
+                "deletedAt": null,
+                "logo_id": null
+            },
+            "members": [
+                {
+                    "username": "LOAFEVR"
+                }
+            ]
         }
     ]
 }
