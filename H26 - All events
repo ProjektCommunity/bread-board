@@ -1,0 +1,273 @@
+{
+  "events": [
+    {
+      "id": 223,
+      "name": "Opening Ceremony HorrorCon 2026",
+      "start_date": "2026-10-30T17:00:00.000Z",
+      "end_date": "2026-10-30T18:30:00.000Z",
+      "marketing": "",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": null,
+      "Poster": null,
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 225,
+      "name": "PSI: Investigation into the abandoned hotel",
+      "start_date": "2026-10-30T22:00:00.000Z",
+      "end_date": "2026-10-31T00:00:00.000Z",
+      "marketing": "Welcome prospective investigators. This event will send you to the depths of an abandoned hotel to figure out what strange paranormal phenomena are occurring upon this scene.",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": true,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 241,
+        "name": "Paranormal Scene Investigators",
+        "group_id": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07",
+        "description": "Paranormal Scene Investigators is a roleplay group focused on the paranormal and unknown. We have weekly events where we delve into the eldritch, the paranormal and the unknown of the VR world\n\nFrom vampires and cryptids\nTo Ghosts and Spirits.\nTo Technological nightmares and cults....\nTo much much more.\n\nWe are our own original universe based on paranormal legends and folktales throughout the world\n\nSome of our events will use D20 to act out some of our roleplay. We are light hearted but most importantly fun!\nWe are PC and Quest compatible. We lean a bit more towards PC with special effects but try our best to accommodate Quest users.\nCome check us out!",
+        "logo_id": 507
+      },
+      "Poster": {
+        "id": 2207,
+        "name": "PSI.png",
+        "path": "uploads/events/9/225/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 226,
+      "name": "MrCreepyPasta’s Storytime",
+      "start_date": "2026-10-31T01:00:00.000Z",
+      "end_date": "2026-10-31T02:00:00.000Z",
+      "marketing": "Horror story classics with the YouTube Storyteller MrCreepyPasta",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": null,
+      "Poster": {
+        "id": 2208,
+        "name": "creepypasta(1).png",
+        "path": "uploads/events/9/226/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 227,
+      "name": "The Tunnel Horror Experience",
+      "start_date": "2026-10-31T03:00:00.000Z",
+      "end_date": "2026-10-31T04:00:00.000Z",
+      "marketing": "Join spencerdude for a horror experience unlike any other!",
+      "stream_link": "",
+      "quest": true,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 443,
+        "name": "The Spencer Show",
+        "group_id": "grp_e4a0bed3-232d-469a-be98-137b49cfaed4",
+        "description": "The Spencer Show\nVRChats Wildest Variety Show!\n\nWelcome to The Spencer Showǃǃ a VRChat variety Performance and Talk Show where pretty much anything can happen! From chaotic skits and cool dances to live music and live talk shows‚ this is a space built for performers and dancers who actually enjoy putting on a show and having fun while doing it․ \nWhat started as just a simple project on VRChat has gotten way bigger than I anticipated. The Spencer Show originally started as just a fun little skit thing between friends, but now it has gotten quite bigger. I, Spencerdude, the owner of the Spencer Show, take pride in entertaining our audiences with our little shows we do, and I'm proud to be here at Projekt.",
+        "logo_id": 1715
+      },
+      "Poster": {
+        "id": 2209,
+        "name": "spencertunner.png",
+        "path": "uploads/events/9/227/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 228,
+      "name": "Game Time Survival w/TVaria SailorPeace",
+      "start_date": "2026-10-31T04:00:00.000Z",
+      "end_date": "2026-10-31T06:00:00.000Z",
+      "marketing": "Looking for a thrill and have fun at the same time? Need some spooks while meeting some new and old friends? Now you can as TVaria SailorPeace hosts a game night, where you will be taken to different games but...there may be a chance you could see yourself or someone lose a head...or a limb...or something else. Or you might be trapped with a demon...or find yourself in different rooms. Who knows? After all in the spirit of Halloween, no one is safe...but neither is your host. (Sorry, that is all I can come up with. lol)",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": null,
+      "Poster": {
+        "id": 2210,
+        "name": "PJKTHorrorConPoster_-_TVariaSailorPeace.jpg",
+        "path": "uploads/events/9/228/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 224,
+      "name": "Virtual Market - Horrorcon!",
+      "start_date": "2026-10-31T17:00:00.000Z",
+      "end_date": "2026-10-31T19:00:00.000Z",
+      "marketing": "HIKKY's Virtual Market (Vket) has built a thrilling interconnected universe of horror concept worlds within VRChat, drawing tens of thousands of brave attendees to its immersive virtual exhibitions. The terrifying journey began with Komorisaki Village (Vket 2024 Summer), which plunged visitors into the chilling psychological lore of a haunted Japanese village. The following year, the horror went sci-fi with the Anomalous Research Lab - Incident A B (Vket 2025 Summer), where guests explored a quarantined underground facility dealing with terrifying entity containment breaches. The overarching storyline recently converged in Deep Mist (Vket 2026 Summer), where the foggy tourist town of Hermit Hills hides dark secrets tying the previous two exhibits together.",
+      "stream_link": "",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 101,
+        "name": "Virtual Market",
+        "group_id": "grp_b39cfe35-8a86-4454-ad2b-3649b3702793",
+        "description": "\"One of world's largest VR events - a virtual exhibition of 3D avatars and assets, physical products (fashion, PCs, food products, etc.) on the metaverse\n\n*The Guinness World Record™ was achieved for having \"\"most booths at a virtual reality market event\"\".\"",
+        "logo_id": 204
+      },
+      "Poster": {
+        "id": 2211,
+        "name": "vket2026w_poster_en.png",
+        "path": "uploads/events/9/224/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 229,
+      "name": "Akumu Maid Cafe",
+      "start_date": "2026-10-31T20:00:00.000Z",
+      "end_date": "2026-10-31T21:30:00.000Z",
+      "marketing": "An unusual not so dream like maid cafe",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 484,
+        "name": "Yume Maid Cafe",
+        "group_id": "grp_9c61fb13-bd22-49a2-b58f-77357a99a59f",
+        "description": "A light RP group themed around a maid cafe where our maids/butlers serve our guests food and have some nice conversation/silly situations. Anything NSFW is prohibited.",
+        "logo_id": 2098
+      },
+      "Poster": {
+        "id": 2212,
+        "name": "MaidCafe.png",
+        "path": "uploads/events/9/229/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 230,
+      "name": "SpokenHeart HorrorCon",
+      "start_date": "2026-10-31T22:00:00.000Z",
+      "end_date": "2026-11-01T00:00:00.000Z",
+      "marketing": "Spoken Heart is a warm VRChat open mic where poets, storytellers, and listeners gather around a campfire to share short creative pieces in a welcoming community space. Hosted by Chocolat, each performer is invited to step into the fire, share their heart for up to five minutes per round, for a total of three rounds, and help keep the night alive through words, warmth, and encouragement. The final round is open to all forms of performances.",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": true,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 201,
+        "name": "Spoken Heart",
+        "group_id": null,
+        "description": null,
+        "logo_id": null
+      },
+      "Poster": {
+        "id": 2213,
+        "name": "SpokenHeart_136_Edition.png",
+        "path": "uploads/events/9/230/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 231,
+      "name": "Marrow Valley Haunt",
+      "start_date": "2026-11-01T00:30:00.000Z",
+      "end_date": "2026-11-01T07:00:00.000Z",
+      "marketing": "Deep within the mountain, echoes of humanities decay and rumbling monstrosities scratch at the back of the mind. Attempt to silence it with the beats of festive music undercut by the laughter of kindred souls oblivious to their fate. Dare to enter Marrow Valley Haunt, seek the truth. Deliver your skull.",
+      "stream_link": "",
+      "quest": true,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 591,
+        "name": "Scare Actors",
+        "group_id": "grp_97e3614f-1cb8-4af3-b4b9-289498d860d4",
+        "description": "We are a community of performers with a shared love for horror providing a space for new and experienced scare actors to learn from each other and apply those lessons during a variety of haunt events․ Every October we host a professional haunt event in a custom maze staffed by our actors․ Training and roleplay events occur in the off season as well․",
+        "logo_id": 1842
+      },
+      "Poster": {
+        "id": 2214,
+        "name": "MarrowValley(1)(1).png",
+        "path": "uploads/events/9/231/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 232,
+      "name": "The Lost Expedition",
+      "start_date": "2026-11-01T19:00:00.000Z",
+      "end_date": "2026-11-01T21:00:00.000Z",
+      "marketing": "Join the Exploreurs Imaginaires for The Lost Expedition, a guided journey through some of VRChat’s most atmospheric and unusual horror worlds. Explore the unknown together… but be careful, not everything you encounter along the way may be part of the world.",
+      "stream_link": "",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": {
+        "id": 112,
+        "name": "EXPLOREURS IMAGINAIRES",
+        "group_id": "grp_4eee2814-33eb-4a71-b22b-579a763d1d62",
+        "description": "We're a French-speaking community that explores the VRChat multiverse in all its aspects, be they creative, immersive, cultural, communal or simply human... ",
+        "logo_id": 213
+      },
+      "Poster": {
+        "id": 2215,
+        "name": "TheLostExpedition.png",
+        "path": "uploads/events/9/232/"
+      },
+      "EventType": null,
+      "Venue": null
+    },
+    {
+      "id": 233,
+      "name": "Danganronpa - Terror of Affliction",
+      "start_date": "2026-11-01T21:00:00.000Z",
+      "end_date": "2026-11-02T00:00:00.000Z",
+      "marketing": "Halloween is nothing without a good old fashioned murder or two. Or three! And with that, always a who dun it slapped on top!\r\nHosted by none other than the well known fighting game esport athlete SonicFox (Yes really) and the creator of 'Dangan in Borderland' SpectrumIsChaos.\r\n\r\nSo this PJKT we invite you to join us a Halloween themed murder mystery on a map that is dedicated to giving you the right tools for the job!\r\nWe're talking cameras for evidence! We're talking a day night cycle! A host who can flip the script of the game at any moment with locked doors, announcements that span across the entire world and so much more.\r\n\r\nTake on the role you want to be! Are you a murderer that yearns for freedom? Or are you the detective trying to save everyone's life even at the cost of your own? With Terrors of Affliction, there is no set murderer or detective. You set the stage your own way to make your story come to life.\r\n\r\nOn Halloween night, join in on the Murder Mystery at Danganronpa: Terrors of Affliction. An event tailor made to spark the minds of those who need!",
+      "stream_link": "https://www.twitch.tv/projektcommunity",
+      "quest": false,
+      "instance_url": null,
+      "event_public": true,
+      "event_ready": true,
+      "project_id": 9,
+      "Community": null,
+      "Poster": {
+        "id": 2216,
+        "name": "Danganropa.png",
+        "path": "uploads/events/9/233/"
+      },
+      "EventType": null,
+      "Venue": null
+    }
+  ]
+}
